@@ -76,3 +76,7 @@ The owner-provided https://www.marvel.com/articles/movies/mcu-timeline-order-dis
 ## Check
 
 `npm run check` checks JavaScript syntax. Google Fonts are optional; system fallbacks keep the page usable offline.
+
+### Loading performance
+Artwork uses 192px WebP thumbnails; the hero uses responsive 768/1280/1920px WebP images. Original artwork files and provenance are retained. Posters load lazily and offscreen cards use content-visibility with an intrinsic size estimate. Fonts are discovered directly in the document head. The local server negotiates Brotli/gzip for text, revalidates HTML/scripts/styles with ETags, and caches images for one day. Version query strings in index.html should change when scripts/styles are updated. Static hosting should configure equivalent compression/cache headers.
+

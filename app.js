@@ -133,6 +133,7 @@
     }
   }
   document.querySelectorAll('[data-view]').forEach(button => button.addEventListener('click', () => {
+    if (state.view === button.dataset.view) return;
     state.view = button.dataset.view;
     document.querySelectorAll('[data-view]').forEach(tab => {
       const active = tab.dataset.view === state.view;
