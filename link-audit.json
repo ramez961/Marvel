@@ -1,0 +1,1976 @@
+{
+  "checkedAt": "2026-11-11",
+  "added": 103,
+  "preserved": [],
+  "totalLinked": 104,
+  "unmatched": [
+    {
+      "id": "spider-man-unlimited-1999-series",
+      "title": "Spider-Man Unlimited",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "the-avengers-united-they-stand-1999-series",
+      "title": "The Avengers: United They Stand",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "x-men-evolution-2000-series",
+      "title": "X-Men: Evolution",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "mutant-x-2001-series",
+      "title": "Mutant X",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "spider-man-the-new-animated-series-2003-series",
+      "title": "Spider-Man: The New Animated Series",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "man-thing-2005-movie",
+      "title": "Man-Thing",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "blade-house-of-chthon-2006-movie",
+      "title": "Blade: House of Chthon",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "blade-the-series-2006-series",
+      "title": "Blade: The Series",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "fantastic-four-world-s-greatest-heroes-2006-series",
+      "title": "Fantastic Four: World's Greatest Heroes",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "ultimate-avengers-2-2006-movie",
+      "title": "Ultimate Avengers 2",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "doctor-strange-the-sorcerer-supreme-2007-movie",
+      "title": "Doctor Strange: The Sorcerer Supreme",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "fantastic-four-rise-of-the-silver-surfer-2007-movie",
+      "title": "Fantastic Four: Rise of the Silver Surfer",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "the-spectacular-spider-man-2008-series",
+      "title": "The Spectacular Spider-Man",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "astonishing-x-men-gifted-2009-series",
+      "title": "Astonishing X-Men: Gifted",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "hulk-versus-2009-movie",
+      "title": "Hulk Versus",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "iron-man-armored-adventures-2009-series",
+      "title": "Iron Man: Armored Adventures",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-superheroes-what-the-2009-series",
+      "title": "Marvel Superheroes: What the--?!",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "the-super-hero-squad-show-2009-series",
+      "title": "The Super Hero Squad Show",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "wolverine-and-the-x-men-2009-series",
+      "title": "Wolverine and the X-Men",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "black-panther-2010-series",
+      "title": "Black Panther",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "iron-man-extremis-2010-series",
+      "title": "Iron Man: Extremis",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "kick-ass-2010-movie",
+      "title": "Kick-Ass",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-anime-blade-2010-series",
+      "title": "Marvel Anime: Blade",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-anime-iron-man-2010-series",
+      "title": "Marvel Anime: Iron Man",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-anime-wolverine-2010-series",
+      "title": "Marvel Anime: Wolverine",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-anime-x-men-2010-series",
+      "title": "Marvel Anime: X-Men",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-super-heroes-4d-london-2010-special",
+      "title": "Marvel Super Heroes 4D (London)",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "the-avengers-earth-s-mightiest-heroes-2010-series",
+      "title": "The Avengers: Earth's Mightiest Heroes",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "a-funny-thing-happened-on-the-way-to-thor-s-hammer-2011-special",
+      "title": "A Funny Thing Happened on the Way to Thor's Hammer",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "spider-woman-agent-of-s-w-o-r-d-2011-series",
+      "title": "Spider-Woman: Agent of S.W.O.R.D.",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "the-consultant-2011-special",
+      "title": "The Consultant",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "thor-loki-blood-brothers-2011-series",
+      "title": "Thor / Loki: Blood Brothers",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "astonishing-x-men-dangerous-2012-series",
+      "title": "Astonishing X-Men: Dangerous",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "astonishing-x-men-torn-2012-series",
+      "title": "Astonishing X-Men: Torn",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "astonishing-x-men-unstoppable-2012-series",
+      "title": "Astonishing X-Men: Unstoppable",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "fury-files-2012-series",
+      "title": "Fury Files",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "item-47-2012-special",
+      "title": "Item 47",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-super-heroes-4d-new-york-2012-special",
+      "title": "Marvel Super Heroes 4D (New York)",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-all-winners-squad-2012-special",
+      "title": "Marvel: All Winners Squad",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "men-in-black-3-2012-movie",
+      "title": "Men in Black 3",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "ultimate-spider-man-2012-series",
+      "title": "Ultimate Spider-Man",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "agent-carter-2013-special",
+      "title": "Agent Carter",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "avengers-assemble-2013-series",
+      "title": "Avengers Assemble",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "hulk-and-the-agents-of-s-m-a-s-h-2013-series",
+      "title": "Hulk and the Agents of S.M.A.S.H.",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "inhumans-2013-series",
+      "title": "Inhumans",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "iron-man-hulk-heroes-united-2013-movie",
+      "title": "Iron Man & Hulk: Heroes United",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "kick-ass-2-2013-movie",
+      "title": "Kick-Ass 2",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "lego-marvel-super-heroes-maximum-overload-2013-special",
+      "title": "Lego Marvel Super Heroes: Maximum Overload",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-super-heroes-4d-bali-2013-special",
+      "title": "Marvel Super Heroes 4D (Bali)",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-super-heroes-4d-las-vegas-2013-special",
+      "title": "Marvel Super Heroes 4D (Las Vegas)",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "phineas-and-ferb-mission-marvel-2013-special",
+      "title": "Phineas and Ferb: Mission Marvel",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "ultimate-wolverine-vs-hulk-2013-series",
+      "title": "Ultimate Wolverine Vs. Hulk",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "wolverine-origin-2013-series",
+      "title": "Wolverine: Origin",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "all-hail-the-king-2014-special",
+      "title": "All Hail the King",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "eternals-2014-series",
+      "title": "Eternals",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "iron-man-captain-america-heroes-united-2014-movie",
+      "title": "Iron Man & Captain America: Heroes United",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-75-years-from-pulp-to-pop-2014-series",
+      "title": "Marvel 75 Years: From Pulp to Pop!",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-disk-wars-the-avengers-2014-series",
+      "title": "Marvel Disk Wars: The Avengers",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-studios-assembling-a-universe-2014-series",
+      "title": "Marvel Studios: Assembling a Universe",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "wolverine-versus-sabretooth-2014-series",
+      "title": "Wolverine Versus Sabretooth",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "wolverine-weapon-x-tomorrow-dies-today-2014-series",
+      "title": "Wolverine: Weapon X: Tomorrow Dies Today",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "agent-carter-2015-series",
+      "title": "Agent Carter",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "daredevil-2015-series",
+      "title": "Daredevil",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "guardians-of-the-galaxy-2015-series",
+      "title": "Guardians of the Galaxy",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "jessica-jones-2015-series",
+      "title": "Jessica Jones",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "lego-marvel-super-heroes-avengers-reassembled-2015-special",
+      "title": "Lego Marvel Super Heroes: Avengers Reassembled",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-super-hero-adventures-frost-fight-2015-movie",
+      "title": "Marvel Super Hero Adventures: Frost Fight!",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "whih-newsfront-2015-series",
+      "title": "WHIH Newsfront",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "wolverine-versus-sabretooth-reborn-2015-series",
+      "title": "Wolverine Versus Sabretooth: Reborn",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "agents-of-s-h-i-e-l-d-slingshot-2016-series",
+      "title": "Agents of S.H.I.E.L.D.: Slingshot",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "hulk-where-monsters-dwell-2016-movie",
+      "title": "Hulk: Where Monsters Dwell",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "luke-cage-2016-series",
+      "title": "Luke Cage",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-funko-shorts-2016-series",
+      "title": "Marvel Funko Shorts",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-video-comics-a-k-a-marvel-ultimate-comics-2016-series",
+      "title": "Marvel Video Comics a.k.a. Marvel Ultimate Comics",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "team-thor-2016-special",
+      "title": "Team Thor",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "tbt-to-that-time-archer-met-kingsman-2017-special",
+      "title": "#TBT to That Time Archer Met Kingsman",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "baymax-returns-2017-movie",
+      "title": "Baymax Returns",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "big-hero-6-the-series-2017-series",
+      "title": "Big Hero 6: The Series",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "inhumans-2017-movie",
+      "title": "Inhumans",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "inhumans-2017-series",
+      "title": "Inhumans",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "iron-fist-2017-series",
+      "title": "Iron Fist",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "powers-2015-series",
+      "title": "Powers",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "legion-2017-series",
+      "title": "Legion",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat-2017-special",
+      "title": "Lego Marvel Super Heroes - Guardians of the Galaxy: The Thanos Threat",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-future-avengers-2017-series",
+      "title": "Marvel Future Avengers",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-super-hero-adventures-2017-series",
+      "title": "Marvel Super Hero Adventures",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-super-heroes-4d-sentosa-2017-special",
+      "title": "Marvel Super Heroes 4D (Sentosa)",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-s-ant-man-2017-series",
+      "title": "Marvel's Ant-Man",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-s-rocket-groot-2017-series",
+      "title": "Marvel's Rocket & Groot",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-s-spider-man-2017-series",
+      "title": "Marvel's Spider-Man",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "runaways-2017-series",
+      "title": "Runaways",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "team-thor-part-2-2017-special",
+      "title": "Team Thor: Part 2",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "the-defenders-2017-series",
+      "title": "The Defenders",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "the-gifted-2017-series",
+      "title": "The Gifted",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "baymax-and-2018-series",
+      "title": "Baymax And",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "baymax-dreams-2018-series",
+      "title": "Baymax Dreams",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "big-chibi-6-the-shorts-2018-series",
+      "title": "Big Chibi 6 The Shorts",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "cloak-dagger-2018-series",
+      "title": "Cloak & Dagger",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda-2018-special",
+      "title": "Lego Marvel Super Heroes - Black Panther: Trouble in Wakanda",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-rising-initiation-2018-series",
+      "title": "Marvel Rising: Initiation",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-rising-secret-warriors-2018-movie",
+      "title": "Marvel Rising: Secret Warriors",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "team-darryl-2018-special",
+      "title": "Team Darryl",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "baymax-mochi-2019-series",
+      "title": "Baymax & Mochi",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "lego-marvel-spider-man-vexed-by-venom-2019-special",
+      "title": "Lego Marvel Spider-Man: Vexed by Venom",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-rising-battle-of-the-bands-2019-special",
+      "title": "Marvel Rising: Battle of the Bands",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-rising-chasing-ghosts-2019-special",
+      "title": "Marvel Rising: Chasing Ghosts",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-rising-heart-of-iron-2019-special",
+      "title": "Marvel Rising: Heart of Iron",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-rising-operation-shuri-2019-special",
+      "title": "Marvel Rising: Operation Shuri",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-rising-playing-with-fire-2019-special",
+      "title": "Marvel Rising: Playing with Fire",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-studios-expanding-the-universe-2019-series",
+      "title": "Marvel Studios: Expanding the Universe",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-s-hero-project-2019-series",
+      "title": "Marvel's Hero Project",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "peter-s-to-do-list-2019-special",
+      "title": "Peter's To-Do List",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "spider-ham-caught-in-a-ham-2019-special",
+      "title": "Spider-Ham: Caught in a Ham",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "the-daily-bugle-2019-series",
+      "title": "The Daily Bugle",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "helstrom-2020-series",
+      "title": "Helstrom",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "lego-marvel-avengers-climate-conundrum-2020-series",
+      "title": "Lego Marvel Avengers: Climate Conundrum",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-battleworld-2020-series",
+      "title": "Marvel Battleworld",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-s-616-2020-series",
+      "title": "Marvel's 616",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "deadpool-and-korg-react-2021-special",
+      "title": "Deadpool and Korg React",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "hit-monkey-2021-series",
+      "title": "Hit-Monkey",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "lego-marvel-avengers-loki-in-training-2021-special",
+      "title": "Lego Marvel Avengers: Loki in Training",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "m-o-d-o-k-2021-series",
+      "title": "M.O.D.O.K.",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-studios-assembled-2021-series",
+      "title": "Marvel Studios: Assembled",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-studios-legends-2021-series",
+      "title": "Marvel Studios: Legends",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "meet-spidey-and-his-amazing-friends-2021-series",
+      "title": "Meet Spidey and His Amazing Friends",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "spidey-and-his-amazing-friends-2021-series",
+      "title": "Spidey and His Amazing Friends",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "super-crooks-2021-series",
+      "title": "Super Crooks",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "baymax-2022-series",
+      "title": "Baymax!",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "i-am-groot-2022-series",
+      "title": "I Am Groot",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "lego-marvel-avengers-time-twisted-2022-special",
+      "title": "Lego Marvel Avengers: Time Twisted",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "the-guardians-of-the-galaxy-holiday-special-2022-special",
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "werewolf-by-night-2022-special",
+      "title": "Werewolf by Night",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "moon-girl-and-devil-dinosaur-2023-series",
+      "title": "Moon Girl and Devil Dinosaur",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "mpower-2023-series",
+      "title": "MPower",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "the-spider-within-a-spider-verse-story-2023-special",
+      "title": "The Spider Within: A Spider-Verse Story",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "voices-rising-the-music-of-wakanda-forever-2023-series",
+      "title": "Voices Rising: The Music of Wakanda Forever",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "argylle-2024-movie",
+      "title": "Argylle",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "kraven-the-hunter-2024-movie",
+      "title": "Kraven the Hunter",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "lego-marvel-avengers-mission-demolition-2024-special",
+      "title": "Lego Marvel Avengers: Mission Demolition",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "madame-web-2024-movie",
+      "title": "Madame Web",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "x-men-97-2024-series",
+      "title": "X-Men '97",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "eyes-of-wakanda-2025-series",
+      "title": "Eyes of Wakanda",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "iron-man-and-his-awesome-friends-2025-series",
+      "title": "Iron Man and His Awesome Friends",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "lego-marvel-avengers-strange-tails-2025-series",
+      "title": "Lego Marvel Avengers: Strange Tails",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "marvel-zombies-2025-series",
+      "title": "Marvel Zombies",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "meet-iron-man-and-his-awesome-friends-2025-series",
+      "title": "Meet Iron Man and His Awesome Friends",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "spidey-and-iron-man-avengers-team-up-2025-special",
+      "title": "Spidey and Iron Man: Avengers Team-Up!",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "thunderbolts-2025-movie",
+      "title": "Thunderbolts*",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "your-friendly-neighborhood-spider-man-2025-series",
+      "title": "Your Friendly Neighborhood Spider-Man",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "spidey-and-the-avengers-halloween-team-up-2026-special",
+      "title": "Spidey and the Avengers: Halloween Team-Up!",
+      "type": "special",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "wonder-man-2026-series",
+      "title": "Wonder Man",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "the-king-s-man-2021-movie",
+      "title": "The King's Man",
+      "type": "movie",
+      "reason": "no exact title/year/type match"
+    },
+    {
+      "id": "echo-2024-series",
+      "title": "Echo",
+      "type": "series",
+      "reason": "no exact title/year/type match"
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "avengers-doomsday-2026-movie",
+      "title": "Avengers: Doomsday",
+      "reason": "unreleased"
+    },
+    {
+      "id": "spider-man-beyond-the-spider-verse-2027-movie",
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "reason": "unreleased"
+    },
+    {
+      "id": "avengers-secret-wars-2027-movie",
+      "title": "Avengers: Secret Wars",
+      "reason": "unreleased"
+    }
+  ],
+  "errors": [],
+  "matches": [
+    {
+      "id": "blade-ii-2002-movie",
+      "title": "Blade II",
+      "releaseYear": "2002",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-blade-ii-2002-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Blade II 2002 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-blade-ii-2002-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "men-in-black-ii-2002-movie",
+      "title": "Men in Black II",
+      "releaseYear": "2002",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-men-in-black-ii-2002-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d8%a8%d8%ac%d9%88%d8%af%d8%a9-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Men In Black II 2002 مترجم كامل بجودة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-men-in-black-ii-2002-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d8%a8%d8%ac%d9%88%d8%af%d8%a9-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "spider-man-2002-movie",
+      "title": "Spider-Man",
+      "releaseYear": "2002",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-2002-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Spider-Man 2002 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-2002-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "hulk-2003-movie",
+      "title": "Hulk",
+      "releaseYear": "2003",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-hulk-2003-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Hulk 2003 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-hulk-2003-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "blade-trinity-2004-movie",
+      "title": "Blade: Trinity",
+      "releaseYear": "2004",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-blade-trinity-2004-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Blade Trinity 2004 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-blade-trinity-2004-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "spider-man-2-2004-movie",
+      "title": "Spider-Man 2",
+      "releaseYear": "2004",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-2-2004-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Spider-Man 2 2004 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-2-2004-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "the-punisher-2004-movie",
+      "title": "The Punisher",
+      "releaseYear": "2004",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-punisher-2004-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم The Punisher 2004 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-punisher-2004-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "x-men-2000-movie",
+      "title": "X-Men",
+      "releaseYear": "2000",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم X Men",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "fantastic-four-2005-movie",
+      "title": "Fantastic Four",
+      "releaseYear": "2005",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-fantastic-four-2005-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Fantastic Four 2005 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-fantastic-four-2005-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "ultimate-avengers-2006-movie",
+      "title": "Ultimate Avengers",
+      "releaseYear": "2006",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ultimate-avengers-2006-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Ultimate Avengers 2006 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ultimate-avengers-2006-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "x-men-the-last-stand-2006-movie",
+      "title": "X-Men: The Last Stand",
+      "releaseYear": "2006",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-the-last-stand-2006-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم X-Men: The Last Stand 2006 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-the-last-stand-2006-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "elektra-2005-movie",
+      "title": "Elektra",
+      "releaseYear": "2005",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-elektra/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Elektra",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-elektra/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "spider-man-3-2007-movie",
+      "title": "Spider-Man 3",
+      "releaseYear": "2007",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-3-2007-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Spider-Man 3 2007 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-3-2007-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "the-invincible-iron-man-2007-movie",
+      "title": "The Invincible Iron Man",
+      "releaseYear": "2007",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-invincible-iron-man-2007-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم The Invincible Iron Man 2007 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-invincible-iron-man-2007-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "iron-man-2008-movie",
+      "title": "Iron Man",
+      "releaseYear": "2008",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-2008-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Iron Man 2008 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-2008-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "next-avengers-heroes-of-tomorrow-2008-movie",
+      "title": "Next Avengers: Heroes of Tomorrow",
+      "releaseYear": "2008",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-next-avengers-heroes-of-tomorrow-2008-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Next Avengers: Heroes of Tomorrow 2008 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-next-avengers-heroes-of-tomorrow-2008-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "x2-2003-movie",
+      "title": "X2",
+      "releaseYear": "2003",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-2/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم X Men 2",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-2/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "daredevil-2003-movie",
+      "title": "Daredevil",
+      "releaseYear": "2003",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-daredevil/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Daredevil",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-daredevil/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "x-men-origins-wolverine-2009-movie",
+      "title": "X-Men Origins: Wolverine",
+      "releaseYear": "2009",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-origins-wolverine-2009-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم X-Men Origins: Wolverine 2009 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-origins-wolverine-2009-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "iron-man-2-2010-movie",
+      "title": "Iron Man 2",
+      "releaseYear": "2010",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-2-2010-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Iron Man 2 2010 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-2-2010-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "planet-hulk-2010-movie",
+      "title": "Planet Hulk",
+      "releaseYear": "2010",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-planet-hulk-2010-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Planet Hulk 2010 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-planet-hulk-2010-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "captain-america-the-first-avenger-2011-movie",
+      "title": "Captain America: The First Avenger",
+      "releaseYear": "2011",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-the-first-avenger-2011-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Captain America: The First Avenger 2011 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-the-first-avenger-2011-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "ghost-rider-2007-movie",
+      "title": "Ghost Rider",
+      "releaseYear": "2007",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ghost-rider/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Ghost Rider",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ghost-rider/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "punisher-war-zone-2008-movie",
+      "title": "Punisher: War Zone",
+      "releaseYear": "2008",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-punisher-war-zone/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Punisher: War Zone",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-punisher-war-zone/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "thor-tales-of-asgard-2011-movie",
+      "title": "Thor: Tales of Asgard",
+      "releaseYear": "2011",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-tales-of-asgard-2011-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Thor Tales of Asgard 2011 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-tales-of-asgard-2011-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "x-men-first-class-2011-movie",
+      "title": "X-Men: First Class",
+      "releaseYear": "2011",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-first-class-2011-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم X Men First Class 2011 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-first-class-2011-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "the-amazing-spider-man-2012-movie",
+      "title": "The Amazing Spider-Man",
+      "releaseYear": "2012",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-amazing-spider-man-2012-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم The Amazing Spider-Man 2012 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-amazing-spider-man-2012-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "the-incredible-hulk-2008-movie",
+      "title": "The Incredible Hulk",
+      "releaseYear": "2008",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-incredible-hulk/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم The Incredible Hulk",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-incredible-hulk/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "agents-of-s-h-i-e-l-d-2013-series",
+      "title": "Agents of S.H.I.E.L.D.",
+      "releaseYear": "2013",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-agents-of-shield-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل Agents of SHIELD الموسم السادس الحلقة 1 الاولي مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-agents-of-shield-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "iron-man-3-2013-movie",
+      "title": "Iron Man 3",
+      "releaseYear": "2013",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-3-2013-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Iron Man 3 2013 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-3-2013-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "iron-man-rise-of-technovore-2013-movie",
+      "title": "Iron Man: Rise of Technovore",
+      "releaseYear": "2013",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-rise-of-technovore-2013-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Iron Man Rise Of Technovore 2013 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-rise-of-technovore-2013-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "ghost-rider-spirit-of-vengeance-2011-movie",
+      "title": "Ghost Rider: Spirit of Vengeance",
+      "releaseYear": "2012",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ghost-rider-spirit-of-vengeance/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Ghost Rider: Spirit of Vengeance",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ghost-rider-spirit-of-vengeance/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "the-avengers-2012-movie",
+      "title": "The Avengers",
+      "releaseYear": "2012",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-avengers/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم The Avengers",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-avengers/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "avengers-confidential-black-widow-punisher-2014-movie",
+      "title": "Avengers Confidential: Black Widow & Punisher",
+      "releaseYear": "2014",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-confidential-black-widow-punisher-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Avengers Confidential Black Widow Punisher 2014 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-confidential-black-widow-punisher-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "big-hero-6-2014-movie",
+      "title": "Big Hero 6",
+      "releaseYear": "2014",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-big-hero-6-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Big Hero 6 2014 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-big-hero-6-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "captain-america-the-winter-soldier-2014-movie",
+      "title": "Captain America: The Winter Soldier",
+      "releaseYear": "2014",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-the-winter-soldier-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Captain America: The Winter Soldier 2014 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-the-winter-soldier-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "thor-the-dark-world-2013-movie",
+      "title": "Thor: The Dark World",
+      "releaseYear": "2013",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-the-dark-world/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Thor: The Dark World",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-the-dark-world/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "the-wolverine-2013-movie",
+      "title": "The Wolverine",
+      "releaseYear": "2013",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-wolverine/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم The Wolverine",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-wolverine/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "the-amazing-spider-man-2-2014-movie",
+      "title": "The Amazing Spider-Man 2",
+      "releaseYear": "2014",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-amazing-spider-man-2-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم The Amazing Spider-Man 2 2014 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-amazing-spider-man-2-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "thor-2011-movie",
+      "title": "Thor",
+      "releaseYear": "2011",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Thor",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "ant-man-2015-movie",
+      "title": "Ant-Man",
+      "releaseYear": "2015",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ant-man-2015-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Ant-Man 2015 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ant-man-2015-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "avengers-age-of-ultron-2015-movie",
+      "title": "Avengers: Age of Ultron",
+      "releaseYear": "2015",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-age-of-ultron-2015-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Avengers Age of Ultron 2015 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-age-of-ultron-2015-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "fantastic-four-2015-movie",
+      "title": "Fantastic Four",
+      "releaseYear": "2015",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-fantastic-four-2015-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Fantastic Four 2015 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-fantastic-four-2015-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "guardians-of-the-galaxy-2014-movie",
+      "title": "Guardians of the Galaxy",
+      "releaseYear": "2014",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-guardians-of-the-galaxy/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Guardians of the Galaxy",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-guardians-of-the-galaxy/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "kingsman-the-secret-service-2014-movie",
+      "title": "Kingsman: The Secret Service",
+      "releaseYear": "2014",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-kingsman-the-secret-service/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Kingsman: The Secret Service",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-kingsman-the-secret-service/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "deadpool-2016-movie",
+      "title": "Deadpool",
+      "releaseYear": "2016",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-deadpool-2016-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Deadpool 2016 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-deadpool-2016-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "x-men-days-of-future-past-2014-movie",
+      "title": "X-Men: Days of Future Past",
+      "releaseYear": "2014",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-days-of-future-past/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم X Men: Days of Future Past",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-days-of-future-past/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "x-men-apocalypse-2016-movie",
+      "title": "X-Men: Apocalypse",
+      "releaseYear": "2016",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-apocalypse-2016-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم X-Men: Apocalypse 2016 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-apocalypse-2016-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "guardians-of-the-galaxy-vol-2-2017-movie",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "releaseYear": "2017",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-guardians-of-the-galaxy-vol-2-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Guardians Of The Galaxy Vol.2 2017 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-guardians-of-the-galaxy-vol-2-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "logan-2017-movie",
+      "title": "Logan",
+      "releaseYear": "2017",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-logan-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Logan 2017 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-logan-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "captain-america-civil-war-2016-movie",
+      "title": "Captain America: Civil War",
+      "releaseYear": "2016",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-civil-war/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Captain America: Civil War",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-civil-war/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "spider-man-homecoming-2017-movie",
+      "title": "Spider-Man: Homecoming",
+      "releaseYear": "2017",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-homecoming-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Spider-Man: Homecoming 2017 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-homecoming-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "the-punisher-2017-series",
+      "title": "The Punisher",
+      "releaseYear": "2017",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-punisher-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل The Punisher الموسم الاول الحلقة 1 الاولي مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-punisher-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d8%a7%d9%84/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "thor-ragnarok-2017-movie",
+      "title": "Thor: Ragnarok",
+      "releaseYear": "2017",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-ragnarok-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Thor: Ragnarok 2017 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-ragnarok-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "ant-man-and-the-wasp-2018-movie",
+      "title": "Ant-Man and the Wasp",
+      "releaseYear": "2018",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ant-man-and-the-wasp-2018-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Ant-Man and the Wasp 2018 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ant-man-and-the-wasp-2018-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "doctor-strange-2016-movie",
+      "title": "Doctor Strange",
+      "releaseYear": "2016",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-doctor-strange/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Doctor Strange",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-doctor-strange/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "black-panther-2018-movie",
+      "title": "Black Panther",
+      "releaseYear": "2018",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-black-panther-2018-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Black Panther 2018 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-black-panther-2018-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "deadpool-2-2018-movie",
+      "title": "Deadpool 2",
+      "releaseYear": "2018",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-deadpool-2-2018-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Deadpool 2 2018 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-deadpool-2-2018-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "kingsman-the-golden-circle-2017-movie",
+      "title": "Kingsman: The Golden Circle",
+      "releaseYear": "2017",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-kingsman-the-golden-circle/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Kingsman: The Golden Circle",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-kingsman-the-golden-circle/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "venom-2018-movie",
+      "title": "Venom",
+      "releaseYear": "2018",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-venom-2018-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Venom 2018 مدبلج كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-venom-2018-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "no-good-deed-2017-special",
+      "title": "No Good Deed",
+      "releaseYear": "2017",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-no-good-deed/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم No Good Deed",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-no-good-deed/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "avengers-infinity-war-2018-movie",
+      "title": "Avengers: Infinity War",
+      "releaseYear": "2018",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-infinity-war/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Avengers: Infinity War",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-infinity-war/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "dark-phoenix-2019-movie",
+      "title": "Dark Phoenix",
+      "releaseYear": "2019",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-dark-phoenix-2019-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم X-Men: Dark Phoenix 2019 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-dark-phoenix-2019-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "men-in-black-international-2019-movie",
+      "title": "Men in Black: International",
+      "releaseYear": "2019",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-men-in-black-international-2019-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84-%d8%a8%d8%ac%d9%88%d8%af%d8%a9-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Men in Black: International 2019 مدبلج كامل بجودة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-men-in-black-international-2019-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84-%d8%a8%d8%ac%d9%88%d8%af%d8%a9-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "spider-man-far-from-home-2019-movie",
+      "title": "Spider-Man: Far From Home",
+      "releaseYear": "2019",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-far-from-home-2019-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Spider-Man: Far From Home 2019 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-far-from-home-2019-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "the-new-mutants-2020-movie",
+      "title": "The New Mutants",
+      "releaseYear": "2020",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-new-mutants-2020-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم The New Mutants 2020 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-new-mutants-2020-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "black-widow-2021-movie",
+      "title": "Black Widow",
+      "releaseYear": "2021",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-black-widow-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Black Widow 2021 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-black-widow-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "eternals-2021-movie",
+      "title": "Eternals",
+      "releaseYear": "2021",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-eternals-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Eternals 2021 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-eternals-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "hawkeye-2021-series",
+      "title": "Hawkeye",
+      "releaseYear": "2021",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-hawkeye-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل Hawkeye الموسم الاول الحلقة 1 مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-hawkeye-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "loki-2021-series",
+      "title": "Loki",
+      "releaseYear": "2021",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-loki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل Loki الموسم الاول الحلقة 1 الاولي مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-loki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d8%a7%d9%84%d8%a7/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "shang-chi-and-the-legend-of-the-ten-rings-2021-movie",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "releaseYear": "2021",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shang-chi-and-the-legend-of-the-ten-rings-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Shang-Chi and the Legend of the Ten Rings 2021 مترجم",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shang-chi-and-the-legend-of-the-ten-rings-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "spider-man-no-way-home-2021-movie",
+      "title": "Spider-Man: No Way Home",
+      "releaseYear": "2021",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-no-way-home-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Spider-Man: No Way Home 2021 مترجم HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-no-way-home-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "the-falcon-and-the-winter-soldier-2021-series",
+      "title": "The Falcon and the Winter Soldier",
+      "releaseYear": "2021",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-falcon-and-the-winter-soldier-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل The Falcon and the Winter Soldier الحلقة 1 مترجمة",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-falcon-and-the-winter-soldier-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "spider-man-into-the-spider-verse-2018-movie",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "releaseYear": "2018",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-into-the-spider-verse/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Spider Man: Into the Spider Verse",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-into-the-spider-verse/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "venom-let-there-be-carnage-2021-movie",
+      "title": "Venom: Let There Be Carnage",
+      "releaseYear": "2021",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-venom-let-there-be-carnage-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Venom: Let There Be Carnage 2021 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-venom-let-there-be-carnage-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "wandavision-2021-series",
+      "title": "WandaVision",
+      "releaseYear": "2021",
+      "url": "https://www.moviz.land/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wandavision-%d8%ac%d9%85%d9%8a%d8%b9-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b3%d9%85/",
+      "linkKind": "all-seasons",
+      "matchedTitle": "مشاهدة مسلسل WandaVision الحلقة 1 مترجمة",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-wandavision-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "what-if-2021-series",
+      "title": "What If...?",
+      "releaseYear": "2021",
+      "url": "https://www.moviz.land/series/%d8%a7%d9%86%d9%85%d9%8a-what-if-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة انمي What If الموسم الثالث الحلقة 2 الثانية مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d8%a7%d9%86%d9%85%d9%8a-what-if-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d8%a7%d9%84/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "black-panther-wakanda-forever-2022-movie",
+      "title": "Black Panther: Wakanda Forever",
+      "releaseYear": "2022",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-black-panther-wakanda-forever-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Black Panther: Wakanda Forever 2022 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-black-panther-wakanda-forever-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "doctor-strange-in-the-multiverse-of-madness-2022-movie",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "releaseYear": "2022",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-doctor-strange-in-the-multiverse-of-madness-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Doctor Strange in the Multiverse of Madness 2022 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-doctor-strange-in-the-multiverse-of-madness-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "moon-knight-2022-series",
+      "title": "Moon Knight",
+      "releaseYear": "2022",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-moon-knight-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل Moon Knight الموسم الاول الحلقة 1 مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-moon-knight-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "morbius-2022-movie",
+      "title": "Morbius",
+      "releaseYear": "2022",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-morbius-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Morbius 2022 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-morbius-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "ms-marvel-2022-series",
+      "title": "Ms. Marvel",
+      "releaseYear": "2022",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ms-marvel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل Ms. Marvel الموسم الاول الحلقة 1 مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-ms-marvel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "she-hulk-attorney-at-law-2022-series",
+      "title": "She-Hulk: Attorney at Law",
+      "releaseYear": "2022",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-she-hulk-attorney-at-law-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل She-Hulk: Attorney at Law الموسم الاول الحلقة 1 الاولي مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-she-hulk-attorney-at-law-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "avengers-endgame-2019-movie",
+      "title": "Avengers: Endgame",
+      "releaseYear": "2019",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-endgame/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Avengers: Endgame",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-endgame/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "ant-man-and-the-wasp-quantumania-2023-movie",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "releaseYear": "2023",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ant-man-and-the-wasp-quantumania-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Ant-Man and the Wasp: Quantumania 2023 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ant-man-and-the-wasp-quantumania-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "guardians-of-the-galaxy-vol-3-2023-movie",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "releaseYear": "2023",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-guardians-of-the-galaxy-vol-3-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Guardians of the Galaxy Vol. 3 2023 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-guardians-of-the-galaxy-vol-3-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "lego-marvel-avengers-code-red-2023-special",
+      "title": "Lego Marvel Avengers: Code Red",
+      "releaseYear": "2023",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-lego-marvel-avengers-code-red-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Lego Marvel Avengers: Code Red 2023 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-lego-marvel-avengers-code-red-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "secret-invasion-2023-series",
+      "title": "Secret Invasion",
+      "releaseYear": "2023",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-secret-invasion-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل Secret Invasion الموسم الاول الحلقة 1 الاولي مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-secret-invasion-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d8%a7/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "spider-man-across-the-spider-verse-2023-movie",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "releaseYear": "2023",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-across-the-spider-verse-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Spider-Man: Across the Spider-Verse 2023 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-across-the-spider-verse-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "the-marvels-2023-movie",
+      "title": "The Marvels",
+      "releaseYear": "2023",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-marvels-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم The Marvels 2023 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-marvels-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "agatha-all-along-2024-series",
+      "title": "Agatha All Along",
+      "releaseYear": "2024",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-agatha-all-along-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل Agatha All Along الموسم الاول الحلقة 1 الاولي مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-agatha-all-along-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d8%a7/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "thor-love-and-thunder-2022-movie",
+      "title": "Thor: Love and Thunder",
+      "releaseYear": "2022",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-love-and-thunder-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Thor: Love and Thunder 2022 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-love-and-thunder-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "captain-marvel-2019-movie",
+      "title": "Captain Marvel",
+      "releaseYear": "2019",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-marvel/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Captain Marvel",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-marvel/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "venom-the-last-dance-2024-movie",
+      "title": "Venom: The Last Dance",
+      "releaseYear": "2024",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-venom-the-last-dance-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Venom: The Last Dance 2024 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-venom-the-last-dance-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "captain-america-brave-new-world-2025-movie",
+      "title": "Captain America: Brave New World",
+      "releaseYear": "2025",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-brave-new-world-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Captain America: Brave New World 2025 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-brave-new-world-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "daredevil-born-again-2025-series",
+      "title": "Daredevil: Born Again",
+      "releaseYear": "2025",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-daredevil-born-again-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل Daredevil: Born Again الموسم الاول الحلقة 1 الاولي مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-daredevil-born-again-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "ironheart-2025-series",
+      "title": "Ironheart",
+      "releaseYear": "2025",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ironheart-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل Ironheart الموسم الاول الحلقة 1 الاولي مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-ironheart-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d8%a7%d9%84/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "the-fantastic-four-first-steps-2025-movie",
+      "title": "The Fantastic Four: First Steps",
+      "releaseYear": "2025",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-fantastic-four-first-steps-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم The Fantastic Four: First Steps 2025 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-fantastic-four-first-steps-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "spider-man-brand-new-day-2026-movie",
+      "title": "Spider-Man: Brand New Day",
+      "releaseYear": "2026",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-brand-new-day-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Spider-Man: Brand New Day 2026 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-brand-new-day-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "spider-noir-2026-series",
+      "title": "Spider-Noir",
+      "releaseYear": "2026",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-spider-noir-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل Spider-Noir الموسم الاول الحلقة 1 الاولي مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-spider-noir-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d8%a7%d9%84/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "the-punisher-one-last-kill-2026-special",
+      "title": "The Punisher: One Last Kill",
+      "releaseYear": "2026",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-punisher-one-last-kill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم The Punisher: One Last Kill 2026 مترجم كامل HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-punisher-one-last-kill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "visionquest-2026-series",
+      "title": "VisionQuest",
+      "releaseYear": "2026",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-visionquest-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+      "linkKind": "season-one",
+      "matchedTitle": "مشاهدة مسلسل VisionQuest الموسم الاول الحلقة 1 الاولي مترجمة HD",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84-visionquest-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d8%a7%d9%84/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "deadpool-wolverine-2024-movie",
+      "title": "Deadpool & Wolverine",
+      "releaseYear": "2024",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-deadpool-amp-wolverine/watch/",
+      "linkKind": "watch-page",
+      "matchedTitle": "مشاهدة فيلم Deadpool &amp; Wolverine",
+      "evidenceUrl": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-deadpool-amp-wolverine/",
+      "checkedAt": "2026-11-11"
+    }
+  ]
+}

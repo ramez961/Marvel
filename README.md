@@ -28,6 +28,10 @@ Series appear once at their initial storyline, so later seasons can span subsequ
 
 ## Add watch links
 
+MovizLand matching was checked on November 11, 2026. There are 104 linked entries, including the original owner-provided Blade link. Another 153 released entries had no verified match, and 3 upcoming films remain unlinked. All 260 catalog entries were accounted for. `link-audit.json` records matches, evidence pages and unmatched titles. HTTP responses and title identity were checked; video playback and availability can change independently.
+
+Movie links open verified title/watch pages. Series use an all-seasons page where found, otherwise a verified first-season page with episode selection. Exact title checks reject similarly named works such as making-of documentaries. Existing owner-supplied destinations are preserved. Added records include `watchSource`, `watchCheckedAt` and `watchPageType` for maintenance.
+
 Find a title in `catalog.js` and replace its empty `url` with the desired HTTP/HTTPS destination. The entire card becomes clickable in either mode. Existing watch links are preserved during catalog updates. The site hosts no video files.
 
 ## Maintain the catalog

@@ -54,11 +54,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "x-men-evolution-2000-series",
@@ -98,11 +101,14 @@ window.MARVEL_CATALOG = {
       "collection": "other",
       "animated": false,
       "studios": "New Line Cinema",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-blade-ii-2002-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "men-in-black-ii-2002-movie",
@@ -112,13 +118,16 @@ window.MARVEL_CATALOG = {
       "collection": "imprints",
       "animated": false,
       "studios": "Columbia Pictures / Amblin Entertainment / Parkes + MacDonald Productions",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-men-in-black-ii-2002-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d8%a8%d8%ac%d9%88%d8%af%d8%a9-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "imprints",
         "sony"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Men_in_Black_II"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Men_in_Black_II",
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "spider-man-2002-movie",
@@ -128,11 +137,14 @@ window.MARVEL_CATALOG = {
       "collection": "sony",
       "animated": false,
       "studios": "Columbia Pictures",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-2002-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "daredevil-2003-movie",
@@ -142,11 +154,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-daredevil/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "hulk-2003-movie",
@@ -156,11 +171,14 @@ window.MARVEL_CATALOG = {
       "collection": "other",
       "animated": false,
       "studios": "Universal Pictures",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-hulk-2003-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "spider-man-the-new-animated-series-2003-series",
@@ -186,11 +204,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-2/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "blade-trinity-2004-movie",
@@ -200,11 +221,14 @@ window.MARVEL_CATALOG = {
       "collection": "other",
       "animated": false,
       "studios": "New Line Cinema",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-blade-trinity-2004-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "spider-man-2-2004-movie",
@@ -214,11 +238,14 @@ window.MARVEL_CATALOG = {
       "collection": "sony",
       "animated": false,
       "studios": "Columbia Pictures",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-2-2004-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "the-punisher-2004-movie",
@@ -228,11 +255,14 @@ window.MARVEL_CATALOG = {
       "collection": "other",
       "animated": false,
       "studios": "Artisan Entertainment",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-punisher-2004-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "elektra-2005-movie",
@@ -242,11 +272,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-elektra/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "fantastic-four-2005-movie",
@@ -256,11 +289,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-fantastic-four-2005-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "man-thing-2005-movie",
@@ -330,12 +366,15 @@ window.MARVEL_CATALOG = {
       "collection": "animation",
       "animated": true,
       "studios": "MLG Productions",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ultimate-avengers-2006-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Ultimate_Avengers"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Ultimate_Avengers",
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "ultimate-avengers-2-2006-movie",
@@ -359,11 +398,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-the-last-stand-2006-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "doctor-strange-the-sorcerer-supreme-2007-movie",
@@ -401,11 +443,14 @@ window.MARVEL_CATALOG = {
       "collection": "sony",
       "animated": false,
       "studios": "Columbia Pictures",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ghost-rider/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "spider-man-3-2007-movie",
@@ -415,11 +460,14 @@ window.MARVEL_CATALOG = {
       "collection": "sony",
       "animated": false,
       "studios": "Columbia Pictures",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-3-2007-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "the-invincible-iron-man-2007-movie",
@@ -429,11 +477,14 @@ window.MARVEL_CATALOG = {
       "collection": "animation",
       "animated": true,
       "studios": "MLG Productions",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-invincible-iron-man-2007-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "iron-man-2008-movie",
@@ -443,11 +494,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-2008-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "next-avengers-heroes-of-tomorrow-2008-movie",
@@ -457,12 +511,15 @@ window.MARVEL_CATALOG = {
       "collection": "animation",
       "animated": true,
       "studios": "MLG Productions",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-next-avengers-heroes-of-tomorrow-2008-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Next_Avengers:_Heroes_of_Tomorrow"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Next_Avengers:_Heroes_of_Tomorrow",
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "punisher-war-zone-2008-movie",
@@ -472,11 +529,14 @@ window.MARVEL_CATALOG = {
       "collection": "other",
       "animated": false,
       "studios": "Lionsgate Films",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-punisher-war-zone/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "the-incredible-hulk-2008-movie",
@@ -486,11 +546,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-incredible-hulk/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "the-spectacular-spider-man-2008-series",
@@ -603,11 +666,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-origins-wolverine-2009-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "black-panther-2010-series",
@@ -632,11 +698,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-2-2010-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "iron-man-extremis-2010-series",
@@ -749,11 +818,14 @@ window.MARVEL_CATALOG = {
       "collection": "animation",
       "animated": true,
       "studios": "MLG Productions",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-planet-hulk-2010-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "the-avengers-earth-s-mightiest-heroes-2010-series",
@@ -792,11 +864,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-the-first-avenger-2011-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "ghost-rider-spirit-of-vengeance-2011-movie",
@@ -806,11 +881,14 @@ window.MARVEL_CATALOG = {
       "collection": "sony",
       "animated": false,
       "studios": "Columbia Pictures",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ghost-rider-spirit-of-vengeance/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "spider-woman-agent-of-s-w-o-r-d-2011-series",
@@ -848,11 +926,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "thor-loki-blood-brothers-2011-series",
@@ -876,11 +957,14 @@ window.MARVEL_CATALOG = {
       "collection": "animation",
       "animated": true,
       "studios": "MLG Productions",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-tales-of-asgard-2011-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "x-men-first-class-2011-movie",
@@ -890,11 +974,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-first-class-2011-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "astonishing-x-men-dangerous-2012-series",
@@ -1019,11 +1106,14 @@ window.MARVEL_CATALOG = {
       "collection": "sony",
       "animated": false,
       "studios": "Columbia Pictures",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-amazing-spider-man-2012-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "the-avengers-2012-movie",
@@ -1033,11 +1123,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-avengers/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "ultimate-spider-man-2012-series",
@@ -1077,11 +1170,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "ABC Studios / Marvel Television / Mutant Enemy Productions",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-agents-of-shield-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "avengers-assemble-2013-series",
@@ -1149,11 +1245,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-3-2013-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "iron-man-rise-of-technovore-2013-movie",
@@ -1163,11 +1262,14 @@ window.MARVEL_CATALOG = {
       "collection": "animation",
       "animated": true,
       "studios": "Madhouse",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-rise-of-technovore-2013-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "kick-ass-2-2013-movie",
@@ -1248,11 +1350,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-wolverine/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "thor-the-dark-world-2013-movie",
@@ -1262,11 +1367,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-the-dark-world/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "ultimate-wolverine-vs-hulk-2013-series",
@@ -1319,11 +1427,14 @@ window.MARVEL_CATALOG = {
       "collection": "animation",
       "animated": true,
       "studios": "Madhouse",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-confidential-black-widow-punisher-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "big-hero-6-2014-movie",
@@ -1333,11 +1444,14 @@ window.MARVEL_CATALOG = {
       "collection": "animation",
       "animated": true,
       "studios": "Walt Disney Animation Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-big-hero-6-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "captain-america-the-winter-soldier-2014-movie",
@@ -1347,11 +1461,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-the-winter-soldier-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "eternals-2014-series",
@@ -1375,11 +1492,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-guardians-of-the-galaxy/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "iron-man-captain-america-heroes-united-2014-movie",
@@ -1403,12 +1523,15 @@ window.MARVEL_CATALOG = {
       "collection": "imprints",
       "animated": false,
       "studios": "Marv Films / Cloudy Productions / Shangri-La Entertainment",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-kingsman-the-secret-service/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "imprints"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service",
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "marvel-75-years-from-pulp-to-pop-2014-series",
@@ -1460,11 +1583,14 @@ window.MARVEL_CATALOG = {
       "collection": "sony",
       "animated": false,
       "studios": "Columbia Pictures",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-amazing-spider-man-2-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "wolverine-versus-sabretooth-2014-series",
@@ -1502,11 +1628,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-days-of-future-past/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "agent-carter-2015-series",
@@ -1530,11 +1659,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ant-man-2015-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "avengers-age-of-ultron-2015-movie",
@@ -1544,11 +1676,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-age-of-ultron-2015-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "daredevil-2015-series",
@@ -1572,11 +1707,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-fantastic-four-2015-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "guardians-of-the-galaxy-2015-series",
@@ -1703,11 +1841,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-civil-war/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "deadpool-2016-movie",
@@ -1717,11 +1858,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-deadpool-2016-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "doctor-strange-2016-movie",
@@ -1731,11 +1875,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-doctor-strange/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "hulk-where-monsters-dwell-2016-movie",
@@ -1816,11 +1963,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-apocalypse-2016-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "tbt-to-that-time-archer-met-kingsman-2017-special",
@@ -1873,11 +2023,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-guardians-of-the-galaxy-vol-2-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "inhumans-2017-movie",
@@ -1930,12 +2083,15 @@ window.MARVEL_CATALOG = {
       "collection": "imprints",
       "animated": false,
       "studios": "Marv Films / Cloudy Productions",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-kingsman-the-golden-circle/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "imprints"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle",
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "legion-2017-series",
@@ -1973,11 +2129,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-logan-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "marvel-future-avengers-2017-series",
@@ -2074,12 +2233,15 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-no-good-deed/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/No_Good_Deed_(2017_film)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/No_Good_Deed_(2017_film)",
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "runaways-2017-series",
@@ -2103,12 +2265,15 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Columbia Pictures /Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-homecoming-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu",
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "team-thor-part-2-2017-special",
@@ -2160,11 +2325,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "ABC Studios / Marvel Television / Bohemian Risk Productions",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-punisher-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "thor-ragnarok-2017-movie",
@@ -2174,11 +2342,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-ragnarok-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "ant-man-and-the-wasp-2018-movie",
@@ -2188,11 +2359,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ant-man-and-the-wasp-2018-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "avengers-infinity-war-2018-movie",
@@ -2202,11 +2376,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-infinity-war/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "baymax-and-2018-series",
@@ -2258,11 +2435,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-black-panther-2018-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "cloak-dagger-2018-series",
@@ -2286,11 +2466,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-deadpool-2-2018-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda-2018-special",
@@ -2343,12 +2526,15 @@ window.MARVEL_CATALOG = {
       "collection": "animation",
       "animated": true,
       "studios": "Sony Pictures Animation",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-into-the-spider-verse/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation",
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "team-darryl-2018-special",
@@ -2372,11 +2558,14 @@ window.MARVEL_CATALOG = {
       "collection": "sony",
       "animated": false,
       "studios": "Columbia Pictures",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-venom-2018-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "avengers-endgame-2019-movie",
@@ -2386,11 +2575,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-endgame/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "baymax-mochi-2019-series",
@@ -2414,11 +2606,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-marvel/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "dark-phoenix-2019-movie",
@@ -2428,11 +2623,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Fox",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-dark-phoenix-2019-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "lego-marvel-spider-man-vexed-by-venom-2019-special",
@@ -2555,13 +2753,16 @@ window.MARVEL_CATALOG = {
       "collection": "imprints",
       "animated": false,
       "studios": "Columbia Pictures / Amblin Entertainment / Parkes + MacDonald Productions / Image Nation / Tencent Pictures",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-men-in-black-international-2019-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84-%d8%a8%d8%ac%d9%88%d8%af%d8%a9-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "imprints",
         "sony"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Men_in_Black:_International"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Men_in_Black:_International",
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "peter-s-to-do-list-2019-special",
@@ -2603,12 +2804,15 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Columbia Pictures /Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-far-from-home-2019-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu",
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "the-daily-bugle-2019-series",
@@ -2691,11 +2895,14 @@ window.MARVEL_CATALOG = {
       "collection": "fox",
       "animated": false,
       "studios": "20th Century Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-new-mutants-2020-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "black-widow-2021-movie",
@@ -2705,11 +2912,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-black-widow-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "deadpool-and-korg-react-2021-special",
@@ -2734,11 +2944,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-eternals-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "hawkeye-2021-series",
@@ -2748,11 +2961,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-hawkeye-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "hit-monkey-2021-series",
@@ -2791,11 +3007,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-loki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "m-o-d-o-k-2021-series",
@@ -2864,11 +3083,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shang-chi-and-the-legend-of-the-ten-rings-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "spider-man-no-way-home-2021-movie",
@@ -2878,12 +3100,15 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Columbia Pictures /Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-no-way-home-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu",
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "spidey-and-his-amazing-friends-2021-series",
@@ -2923,11 +3148,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-falcon-and-the-winter-soldier-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "the-king-s-man-2021-movie",
@@ -2952,11 +3180,14 @@ window.MARVEL_CATALOG = {
       "collection": "sony",
       "animated": false,
       "studios": "Columbia Pictures",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-venom-let-there-be-carnage-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "wandavision-2021-series",
@@ -2966,11 +3197,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wandavision-%d8%ac%d9%85%d9%8a%d8%b9-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b3%d9%85/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "all-seasons"
     },
     {
       "id": "what-if-2021-series",
@@ -2980,12 +3214,15 @@ window.MARVEL_CATALOG = {
       "collection": "animation",
       "animated": true,
       "studios": "Marvel Studios Animation",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d8%a7%d9%86%d9%85%d9%8a-what-if-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation",
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "baymax-2022-series",
@@ -3010,11 +3247,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-black-panther-wakanda-forever-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "doctor-strange-in-the-multiverse-of-madness-2022-movie",
@@ -3024,11 +3264,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-doctor-strange-in-the-multiverse-of-madness-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "i-am-groot-2022-series",
@@ -3067,11 +3310,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-moon-knight-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "morbius-2022-movie",
@@ -3081,11 +3327,14 @@ window.MARVEL_CATALOG = {
       "collection": "sony",
       "animated": false,
       "studios": "Columbia Pictures",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-morbius-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "ms-marvel-2022-series",
@@ -3095,11 +3344,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ms-marvel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "she-hulk-attorney-at-law-2022-series",
@@ -3109,11 +3361,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-she-hulk-attorney-at-law-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "the-guardians-of-the-galaxy-holiday-special-2022-special",
@@ -3137,11 +3392,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-love-and-thunder-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "werewolf-by-night-2022-special",
@@ -3165,11 +3423,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ant-man-and-the-wasp-quantumania-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "guardians-of-the-galaxy-vol-3-2023-movie",
@@ -3179,11 +3440,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-guardians-of-the-galaxy-vol-3-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "lego-marvel-avengers-code-red-2023-special",
@@ -3193,11 +3457,14 @@ window.MARVEL_CATALOG = {
       "collection": "animation",
       "animated": true,
       "studios": "The Lego Group",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-lego-marvel-avengers-code-red-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "moon-girl-and-devil-dinosaur-2023-series",
@@ -3236,11 +3503,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-secret-invasion-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "spider-man-across-the-spider-verse-2023-movie",
@@ -3250,12 +3520,15 @@ window.MARVEL_CATALOG = {
       "collection": "animation",
       "animated": true,
       "studios": "Sony Pictures Animation",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-across-the-spider-verse-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation",
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "the-marvels-2023-movie",
@@ -3265,11 +3538,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-marvels-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "the-spider-within-a-spider-verse-story-2023-special",
@@ -3308,11 +3584,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Television",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-agatha-all-along-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "argylle-2024-movie",
@@ -3337,11 +3616,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-deadpool-amp-wolverine/watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "echo-2024-series",
@@ -3407,11 +3689,14 @@ window.MARVEL_CATALOG = {
       "collection": "sony",
       "animated": false,
       "studios": "Columbia Pictures",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-venom-the-last-dance-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "x-men-97-2024-series",
@@ -3435,11 +3720,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-brave-new-world-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "daredevil-born-again-2025-series",
@@ -3449,11 +3737,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Television",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-daredevil-born-again-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "eyes-of-wakanda-2025-series",
@@ -3492,11 +3783,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Television / Proximity Media",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ironheart-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "lego-marvel-avengers-strange-tails-2025-series",
@@ -3563,11 +3857,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-fantastic-four-first-steps-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "thunderbolts-2025-movie",
@@ -3605,12 +3902,15 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Columbia Pictures /Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-brand-new-day-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu",
         "sony"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "spider-noir-2026-series",
@@ -3620,12 +3920,15 @@ window.MARVEL_CATALOG = {
       "collection": "sony",
       "animated": false,
       "studios": "Sony Pictures Television / Amazon MGM Studios / Lord Miller Productions / Pascal Pictures / Bohemian Risk Productions / Oren",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-spider-noir-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Noir"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Noir",
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "spidey-and-the-avengers-halloween-team-up-2026-special",
@@ -3649,11 +3952,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Studios",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-punisher-one-last-kill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "watch-page"
     },
     {
       "id": "visionquest-2026-series",
@@ -3663,11 +3969,14 @@ window.MARVEL_CATALOG = {
       "collection": "mcu",
       "animated": false,
       "studios": "Marvel Television",
-      "url": "",
+      "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-visionquest-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "watchSource": "MovizLand",
+      "watchCheckedAt": "2026-11-11",
+      "watchPageType": "season-one"
     },
     {
       "id": "wonder-man-2026-series",
