@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101011">
+  <meta name="description" content="Explore Marvel on screen: MCU, Fox, Sony, animation, classic television, shorts and more, from 1944 onward.">
+  <title>Marvel — The release timeline</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="catalog.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#timeline">Skip to timeline</a>
+  <header class="header"><a class="brand" href="./" aria-label="Marvel timeline home">MARVEL<span>THE TIMELINE</span></a><a class="header-link" href="#timeline">Explore the universe <span aria-hidden="true">↘</span></a></header>
+  <main>
+    <section class="hero" aria-labelledby="heading">
+      <p class="eyebrow"><span class="red-dot"></span> MARVEL ON SCREEN · SINCE 1944</p>
+      <h1 id="heading">Every universe.<br><span>Every chapter.</span></h1>
+      <div class="hero-bottom"><p>Marvel Studios. Fox. Sony. And everything between.<br>Explore the movies, series, animation and shorts.</p><a class="start" href="#timeline">Start the timeline <span aria-hidden="true">↓</span></a></div>
+      <div class="hero-year" aria-hidden="true">1944<span>— NOW</span></div>
+    </section>
+    <section class="library" id="timeline" aria-labelledby="timeline-heading">
+      <div class="section-title"><div><p class="eyebrow">THE STORY SO FAR</p><h2 id="timeline-heading">Release timeline</h2></div><p class="updated">Catalog reviewed <time datetime="2026-11-11">11 Nov 2026</time></p></div>
+      <div class="toolbar">
+        <div class="tabs" role="group" aria-label="Release type"><button class="active" data-type="all" aria-pressed="true">Everything</button><button data-type="movie" aria-pressed="false">Movies</button><button data-type="series" aria-pressed="false">Series</button><button data-type="special" aria-pressed="false">Specials & shorts</button></div>
+        <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Find a title…" aria-label="Search titles"></label>
+      </div>
+      <div class="subtoolbar"><div class="selects"><label>Year <select id="year"><option value="all">All years</option></select></label><label>Collection <select id="collection"><option value="all">All collections</option><option value="mcu">MCU</option><option value="fox">Fox</option><option value="sony">Sony</option><option value="animation">Animation</option><option value="imprints">Marvel imprints</option><option value="other">Classics & other</option><option value="documentary">Documentaries</option></select></label><label>Order <select id="order"><option value="asc">Oldest first</option><option value="desc">Newest first</option></select></label></div><span id="count" role="status" aria-live="polite"></span></div>
+      <p class="catalog-note">Series appear at their first premiere. Where an exact date is unverified, only the release year is shown; those entries follow dated releases within that year.</p>
+      <div class="timeline" id="releases"></div>
+      <div class="empty" id="empty" hidden><h3>No chapters found.</h3><p>Try another title or reset your filters.</p><button id="reset">Reset filters</button></div>
+      <noscript><p>Enable JavaScript to explore the release timeline.</p></noscript>
+    </section>
+  </main>
+  <footer><a class="footer-brand" href="#">MARVEL <span>THE TIMELINE</span></a><p>An independent fan project. Marvel on screen, from 1944 onward.<br>Links will be added as the collection grows.</p><a href="https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications" target="_blank" rel="noopener noreferrer">Catalog reference ↗</a></footer>
+</body>
+</html>
