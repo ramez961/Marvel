@@ -10,7 +10,7 @@ window.MARVEL_CATALOG = {
       "collection": "other",
       "animated": false,
       "studios": "New Line Cinema",
-      "url": "",
+      "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-blade-1998-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/watch/#!/EiZqvgcReC51",
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
