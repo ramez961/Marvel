@@ -28,11 +28,17 @@ Series appear once at their initial storyline, so later seasons can span subsequ
 
 ## Add watch links
 
-MovizLand matching was checked on November 11, 2026. There are 104 linked entries, including the original owner-provided Blade link. Another 153 released entries had no verified match, and 3 upcoming films remain unlinked. All 260 catalog entries were accounted for. `link-audit.json` records matches, evidence pages and unmatched titles. HTTP responses and title identity were checked; video playback and availability can change independently.
+Each release now displays separate named source buttons. The current source inventory is 104 MovizLand, 158 Flaxfer and 168 Streamex options: 430 options across 197 projects, with multiple options for 145 projects. `source-audit.json` records the new source matching and unresolved lookups. Every provider is optional; a missing match is not replaced by a fabricated link. Upcoming projects receive no watch options.
+
+`watchSources` is an array of `{ source, url, checkedAt, verification }` objects. Add or update provider links there. The original `url` remains compatible with previously supplied links and is merged without duplicate URLs. Visible provider buttons open the selected website in the same tab; the card itself no longer forces one provider. Names and accessible labels distinguish the choices, and no nested anchors are used.
+
+Streamex pages were matched by title, media type and release year. Flaxfer uses TMDB title identifiers in its documented public routes; those identifiers were matched through public TMDB metadata where available, or consistent identifiers on independently matched Streamex pages. The Flaxfer HTML shell responds generically, so a successful route response is not proof that a stream plays. No third-party API credentials, embedded players, media files or downloads were used. Some public metadata requests returned access errors; unresolved cases remain without an option. Video playback has not been tested for any provider.
+
+MovizLand matching was checked on November 11, 2026. There are 104 MovizLand-linked entries, including the original owner-provided Blade link. Another 153 released entries had no verified MovizLand match, and 3 upcoming films remain unlinked. All 260 catalog entries were accounted for. `link-audit.json` records this provider's matches, evidence pages and unmatched titles. HTTP responses and title identity were checked; video playback and availability can change independently.
 
 Movie links open verified title/watch pages. Series use an all-seasons page where found, otherwise a verified first-season page with episode selection. Exact title checks reject similarly named works such as making-of documentaries. Existing owner-supplied destinations are preserved. Added records include `watchSource`, `watchCheckedAt` and `watchPageType` for maintenance.
 
-Find a title in `catalog.js` and replace its empty `url` with the desired HTTP/HTTPS destination. The entire card becomes clickable in either mode. Existing watch links are preserved during catalog updates. The site hosts no video files.
+Find a title in `catalog.js` and add the desired HTTP/HTTPS destination to its `watchSources` array. Existing watch links are preserved during catalog updates. The site hosts no video files.
 
 ## Maintain the catalog
 

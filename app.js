@@ -15,6 +15,19 @@
     try { const url = new URL(value); return ['https:', 'http:'].includes(url.protocol) ? url.href : null; }
     catch { return null; }
   }
+  function watchSources(entry) {
+    if (upcoming(entry)) return [];
+    const sources = [];
+    if (entry.url) sources.push({ source: entry.watchSource || 'MovizLand', url: entry.url });
+    sources.push(...(entry.watchSources || []));
+    const seen = new Set();
+    return sources.flatMap(source => {
+      const url = safeUrl(source.url);
+      if (!url || seen.has(url)) return [];
+      seen.add(url);
+      return [{ source: source.source, url }];
+    });
+  }
   function element(tag, className, text) {
     const node = document.createElement(tag);
     if (className) node.className = className;
@@ -22,9 +35,8 @@
     return node;
   }
   function card(entry, storyNumber, storySetting) {
-    const url = safeUrl(entry.url);
-    const node = element(url ? 'a' : 'article', `release${url ? ' available' : ''}`);
-    if (url) { node.href = url; node.setAttribute('aria-label', `Watch ${entry.title}`); }
+    const sources = watchSources(entry);
+    const node = element('article', `release${sources.length ? ' available' : ''}`);
     node.append(element('span', 'release-number', storyNumber === undefined ? numbers.get(entry.id) : String(storyNumber).padStart(2, '0')));
     const main = element('div', 'release-main');
     const meta = element('div', 'release-meta');
@@ -37,7 +49,19 @@
     main.append(meta, element('h3', '', entry.title)); node.append(main);
     if (storySetting) main.append(element('p', 'story-setting', `Story: ${storySetting.period}`));
     if (!storySetting && state.view === 'story' && storyOrder.nonLinear[entry.id]) main.append(element('p', 'story-setting', storyOrder.nonLinear[entry.id]));
-    const status = element('span', 'release-status', upcoming(entry) ? 'Coming soon' : url ? 'Watch now' : 'Link coming soon');
+    if (sources.length) {
+      const options = element('div', 'source-options');
+      options.setAttribute('role', 'group');
+      options.setAttribute('aria-label', `Watch sources for ${entry.title}`);
+      sources.forEach(source => {
+        const link = element('a', 'source-link', source.source);
+        link.href = source.url;
+        link.setAttribute('aria-label', `Watch ${entry.title} on ${source.source}`);
+        options.append(link);
+      });
+      main.append(options);
+    }
+    const status = element('span', 'release-status', upcoming(entry) ? 'Coming soon' : sources.length ? `${sources.length} source${sources.length === 1 ? '' : 's'}` : 'Link coming soon');
     node.append(status); return node;
   }
   function render() {

@@ -14,6 +14,25 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
+      ],
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-blade-1998-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/watch/#!/EiZqvgcReC51",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/blade-36647",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-blade-1998-9an2h1",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -29,7 +48,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man_Unlimited"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man_Unlimited",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/spider-man-unlimited-10079",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-avengers-united-they-stand-1999-series",
@@ -44,7 +71,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Avengers:_United_They_Stand"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Avengers:_United_They_Stand",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/the-avengers-united-they-stand-1300",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
+      ]
     },
     {
       "id": "x-men-2000-movie",
@@ -61,7 +96,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/x-men-36657",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-x-men-2000-zqmpg9",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "x-men-evolution-2000-series",
@@ -76,7 +130,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/X-Men:_Evolution"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/X-Men:_Evolution",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/x-men-evolution-668",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
+      ]
     },
     {
       "id": "mutant-x-2001-series",
@@ -91,7 +153,21 @@ window.MARVEL_CATALOG = {
       "collections": [
         "other"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Mutant_X_(TV_series)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Mutant_X_(TV_series)",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/mutant-x-1449",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-mutant-x-2001-zumd7g",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "blade-ii-2002-movie",
@@ -108,7 +184,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-blade-ii-2002-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/blade-ii-36586",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-blade-ii-2002-sh7z8k",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "men-in-black-ii-2002-movie",
@@ -127,7 +222,26 @@ window.MARVEL_CATALOG = {
       "releaseDateSource": "https://en.wikipedia.org/wiki/Men_in_Black_II",
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-men-in-black-ii-2002-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-%d8%a8%d8%ac%d9%88%d8%af%d8%a9-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/men-in-black-ii-608",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-men-in-black-ii-2002-cfdl2h",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "spider-man-2002-movie",
@@ -144,7 +258,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-2002-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/spider-man-557",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-spider-man-2002-rak651",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "daredevil-2003-movie",
@@ -161,7 +294,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-daredevil/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/daredevil-9480",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-daredevil-2003-rad0tw",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "hulk-2003-movie",
@@ -178,7 +330,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-hulk-2003-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/hulk-1927",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-hulk-2003-5jr1gi",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "spider-man-the-new-animated-series-2003-series",
@@ -194,7 +365,21 @@ window.MARVEL_CATALOG = {
         "animation",
         "sony"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man:_The_New_Animated_Series"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man:_The_New_Animated_Series",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/spider-man-the-new-animated-series-1664",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-spider-man-the-new-animated-series-2003-ua5bn6",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "x2-2003-movie",
@@ -211,7 +396,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-2/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/x2-36658",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-x2-2003-4ds7nt",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "blade-trinity-2004-movie",
@@ -228,7 +432,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-blade-trinity-2004-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/blade-trinity-36648",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-blade-trinity-2004-dlgxfk",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "spider-man-2-2004-movie",
@@ -245,7 +468,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-2-2004-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/spider-man-2-558",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-spider-man-2-2004-vknqe6",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-punisher-2004-movie",
@@ -262,7 +504,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-punisher-2004-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/the-punisher-7220",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-the-punisher-2004-9rwdge",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "elektra-2005-movie",
@@ -279,7 +540,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-elektra/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/elektra-9947",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-elektra-2005-svmuwi",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "fantastic-four-2005-movie",
@@ -296,7 +576,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-fantastic-four-2005-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/fantastic-four-9738",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-fantastic-four-2005-x3nh08",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "man-thing-2005-movie",
@@ -311,7 +610,21 @@ window.MARVEL_CATALOG = {
       "collections": [
         "other"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Man-Thing_(film)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Man-Thing_(film)",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/man-thing-18882",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-man-thing-2005-xit9nc",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "blade-house-of-chthon-2006-movie",
@@ -326,7 +639,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "other"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Blade:_The_Series"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Blade:_The_Series",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/blade-house-of-chthon-32219",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
+      ]
     },
     {
       "id": "blade-the-series-2006-series",
@@ -341,7 +662,21 @@ window.MARVEL_CATALOG = {
       "collections": [
         "other"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Blade:_The_Series"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Blade:_The_Series",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/blade-the-series-4619",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-blade-the-series-2006-hq64i9",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "fantastic-four-world-s-greatest-heroes-2006-series",
@@ -356,7 +691,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Fantastic_Four:_World's_Greatest_Heroes"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Fantastic_Four:_World's_Greatest_Heroes",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/fantastic-four-world-s-greatest-heroes-132",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
+      ]
     },
     {
       "id": "ultimate-avengers-2006-movie",
@@ -374,7 +717,14 @@ window.MARVEL_CATALOG = {
       "releaseDateSource": "https://en.wikipedia.org/wiki/Ultimate_Avengers",
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ultimate-avengers-2006-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        }
+      ]
     },
     {
       "id": "ultimate-avengers-2-2006-movie",
@@ -388,6 +738,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/ultimate-avengers-2-14611",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-ultimate-avengers-2-2006-jousap",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -405,7 +769,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-the-last-stand-2006-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/x-men-the-last-stand-36668",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-x-men-the-last-stand-2006-pxfnqs",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "doctor-strange-the-sorcerer-supreme-2007-movie",
@@ -433,6 +816,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/fantastic-four-rise-of-the-silver-surfer-1979",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-fantastic-four-rise-of-the-silver-surfer-2007-vqhpl1",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -450,7 +847,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ghost-rider/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/ghost-rider-1250",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-ghost-rider-2007-ipj1b2",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "spider-man-3-2007-movie",
@@ -467,7 +883,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-3-2007-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/spider-man-3-559",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-spider-man-3-2007-p8yu6t",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-invincible-iron-man-2007-movie",
@@ -484,7 +919,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-invincible-iron-man-2007-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/the-invincible-iron-man-13647",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-the-invincible-iron-man-2007-1ov42z",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "iron-man-2008-movie",
@@ -501,7 +955,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-2008-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/iron-man-1726",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-iron-man-2008-5vpyq9",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "next-avengers-heroes-of-tomorrow-2008-movie",
@@ -519,7 +992,26 @@ window.MARVEL_CATALOG = {
       "releaseDateSource": "https://en.wikipedia.org/wiki/Next_Avengers:_Heroes_of_Tomorrow",
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-next-avengers-heroes-of-tomorrow-2008-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/next-avengers-heroes-of-tomorrow-14613",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-next-avengers-heroes-of-tomorrow-2008-i0dmjn",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "punisher-war-zone-2008-movie",
@@ -536,7 +1028,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-punisher-war-zone/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/punisher-war-zone-13056",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-punisher-war-zone-2008-yi1un4",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-incredible-hulk-2008-movie",
@@ -553,7 +1064,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-incredible-hulk/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/the-incredible-hulk-1724",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-the-incredible-hulk-2008-r752q4",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-spectacular-spider-man-2008-series",
@@ -569,7 +1099,21 @@ window.MARVEL_CATALOG = {
         "animation",
         "sony"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Spectacular_Spider-Man_(TV_series)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Spectacular_Spider-Man_(TV_series)",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/the-spectacular-spider-man-3854",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-the-spectacular-spider-man-2008-6n4cdi",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "astonishing-x-men-gifted-2009-series",
@@ -597,6 +1141,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/hulk-vs-394355",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
       ]
     },
     {
@@ -612,7 +1164,21 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Iron_Man:_Armored_Adventures"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Iron_Man:_Armored_Adventures",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/iron-man-armored-adventures-7330",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-iron-man-armored-adventures-2009-j79h3p",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "marvel-superheroes-what-the-2009-series",
@@ -641,7 +1207,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Super_Hero_Squad_Show"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Super_Hero_Squad_Show",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/the-super-hero-squad-show-21781",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
+      ]
     },
     {
       "id": "wolverine-and-the-x-men-2009-series",
@@ -656,7 +1230,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Wolverine_and_the_X-Men_(TV_series)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Wolverine_and_the_X-Men_(TV_series)",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/wolverine-and-the-x-men-6549",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
+      ]
     },
     {
       "id": "x-men-origins-wolverine-2009-movie",
@@ -673,7 +1255,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-origins-wolverine-2009-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/x-men-origins-wolverine-2080",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-x-men-origins-wolverine-2009-vgzs1u",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "black-panther-2010-series",
@@ -688,7 +1289,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Black_Panther_(TV_series)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Black_Panther_(TV_series)",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/black-panther-19757",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
+      ]
     },
     {
       "id": "iron-man-2-2010-movie",
@@ -705,7 +1314,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-2-2010-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/iron-man-2-10138",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-iron-man-2-2010-ae8wi0",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "iron-man-extremis-2010-series",
@@ -719,6 +1347,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/iron-man-extremis-77362",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
       ]
     },
     {
@@ -734,7 +1370,21 @@ window.MARVEL_CATALOG = {
       "collections": [
         "imprints"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Kick-Ass_(film)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Kick-Ass_(film)",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/kick-ass-23483",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-kick-ass-2010-gzc83p",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "marvel-anime-blade-2010-series",
@@ -749,6 +1399,20 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation",
         "sony"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/blade-62798",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-blade-2011-yrmcov",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -764,6 +1428,14 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation",
         "sony"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/iron-man-45418",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
       ]
     },
     {
@@ -779,6 +1451,20 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation",
         "sony"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/wolverine-38247",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-wolverine-2011-iy7wv9",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -794,6 +1480,14 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation",
         "sony"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/x-men-43146",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
       ]
     },
     {
@@ -825,7 +1519,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-planet-hulk-2010-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/planet-hulk-30675",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-planet-hulk-2010-fdzgqr",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-avengers-earth-s-mightiest-heroes-2010-series",
@@ -840,7 +1553,21 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Avengers:_Earth's_Mightiest_Heroes"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Avengers:_Earth's_Mightiest_Heroes",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/the-avengers-earth-s-mightiest-heroes-33623",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-the-avengers-earths-mightiest-heroes-2010-6ivya0",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "a-funny-thing-happened-on-the-way-to-thor-s-hammer-2011-special",
@@ -854,6 +1581,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/a-funny-thing-happened-on-the-way-to-thor-s-hammer-76535",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-hammer-2011-18uw6e",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -871,7 +1612,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-the-first-avenger-2011-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/captain-america-the-first-avenger-1771",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-captain-america-the-first-avenger-2011-tyn2oe",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "ghost-rider-spirit-of-vengeance-2011-movie",
@@ -888,7 +1648,14 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ghost-rider-spirit-of-vengeance/watch/",
+          "checkedAt": "2026-11-11"
+        }
+      ]
     },
     {
       "id": "spider-woman-agent-of-s-w-o-r-d-2011-series",
@@ -916,6 +1683,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/the-consultant-76122",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-marvel-one-shot-the-consultant-2011-en7bf2",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -933,7 +1714,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/thor-10195",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-thor-2011-niruwe",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "thor-loki-blood-brothers-2011-series",
@@ -964,7 +1764,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-tales-of-asgard-2011-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/thor-tales-of-asgard-63686",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-thor-tales-of-asgard-2011-t1cqj8",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "x-men-first-class-2011-movie",
@@ -981,7 +1800,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-first-class-2011-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/x-men-first-class-49538",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-x-men-first-class-2011-1mo64j",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "astonishing-x-men-dangerous-2012-series",
@@ -1096,7 +1934,21 @@ window.MARVEL_CATALOG = {
         "imprints",
         "sony"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Men_in_Black_3"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Men_in_Black_3",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/men-in-black-3-41154",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-men-in-black-3-2012-9l4bnz",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-amazing-spider-man-2012-movie",
@@ -1113,7 +1965,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-amazing-spider-man-2012-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/the-amazing-spider-man-1930",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-the-amazing-spider-man-2012-04qg7k",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-avengers-2012-movie",
@@ -1130,7 +2001,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-avengers/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/the-avengers-24428",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-the-avengers-2012-87qm9j",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "ultimate-spider-man-2012-series",
@@ -1145,7 +2035,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Ultimate_Spider-Man_(TV_series)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Ultimate_Spider-Man_(TV_series)",
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-ultimate-spider-man-2012-rgoms3",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "agent-carter-2013-special",
@@ -1160,7 +2058,21 @@ window.MARVEL_CATALOG = {
       "collections": [
         "mcu"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Agent_Carter_(film)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Agent_Carter_(film)",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/agent-carter-211387",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-marvel-one-shot-agent-carter-2013-euly2n",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "agents-of-s-h-i-e-l-d-2013-series",
@@ -1177,7 +2089,20 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-agents-of-shield-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-agents-of-shield-2013-cy1vd9",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "avengers-assemble-2013-series",
@@ -1235,6 +2160,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/iron-man-hulk-heroes-united-230896",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-iron-man-hulk-heroes-united-2013-laqnbj",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -1252,7 +2191,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-3-2013-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/iron-man-3-68721",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-iron-man-3-2013-uy56ns",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "iron-man-rise-of-technovore-2013-movie",
@@ -1269,7 +2227,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-iron-man-rise-of-technovore-2013-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/iron-man-rise-of-technovore-169934",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-iron-man-rise-of-technovore-2013-i6l1zk",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "kick-ass-2-2013-movie",
@@ -1284,7 +2261,21 @@ window.MARVEL_CATALOG = {
       "collections": [
         "imprints"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Kick-Ass_2_(film)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Kick-Ass_2_(film)",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/kick-ass-2-59859",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-kick-ass-2-2013-o5hj8m",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "lego-marvel-super-heroes-maximum-overload-2013-special",
@@ -1340,6 +2331,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/phineas-and-ferb-mission-marvel-284019",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
       ]
     },
     {
@@ -1357,7 +2356,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-wolverine/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/the-wolverine-76170",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-the-wolverine-2013-30nv7c",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "thor-the-dark-world-2013-movie",
@@ -1374,7 +2392,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-the-dark-world/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/thor-the-dark-world-76338",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-thor-the-dark-world-2013-yg3a0z",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "ultimate-wolverine-vs-hulk-2013-series",
@@ -1402,6 +2439,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/wolverine-origin-274972",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
       ]
     },
     {
@@ -1417,7 +2462,21 @@ window.MARVEL_CATALOG = {
       "collections": [
         "mcu"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/All_Hail_the_King"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/All_Hail_the_King",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/marvel-one-shot-all-hail-the-king-253980",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-marvel-one-shot-all-hail-the-king-2014-1o6xne",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "avengers-confidential-black-widow-punisher-2014-movie",
@@ -1434,7 +2493,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-confidential-black-widow-punisher-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/avengers-confidential-black-widow-punisher-257346",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-avengers-confidential-black-widow-punisher-2014-l40tvw",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "big-hero-6-2014-movie",
@@ -1451,7 +2529,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-big-hero-6-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/big-hero-6-177572",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-big-hero-6-2014-q52eks",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "captain-america-the-winter-soldier-2014-movie",
@@ -1468,7 +2565,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-the-winter-soldier-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/captain-america-the-winter-soldier-100402",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-captain-america-the-winter-soldier-2014-nwmb3o",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "eternals-2014-series",
@@ -1499,7 +2615,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-guardians-of-the-galaxy/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/guardians-of-the-galaxy-118340",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-guardians-of-the-galaxy-2014-w3a6ce",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "iron-man-captain-america-heroes-united-2014-movie",
@@ -1513,6 +2648,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/iron-man-captain-america-heroes-united-284274",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-iron-man-captain-america-heroes-united-2014-6gj8kh",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -1531,7 +2680,26 @@ window.MARVEL_CATALOG = {
       "releaseDateSource": "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service",
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-kingsman-the-secret-service/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/kingsman-the-secret-service-207703",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-kingsman-the-secret-service-2014-7mr3qk",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "marvel-75-years-from-pulp-to-pop-2014-series",
@@ -1590,7 +2758,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-amazing-spider-man-2-2014-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/the-amazing-spider-man-2-102382",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-the-amazing-spider-man-2-2014-9b63hs",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "wolverine-versus-sabretooth-2014-series",
@@ -1618,6 +2805,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/wolverine-weapon-x-tomorrow-dies-today-130805",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
       ]
     },
     {
@@ -1635,7 +2830,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-days-of-future-past/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/x-men-days-of-future-past-127585",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-x-men-days-of-future-past-2014-xqg8ep",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "agent-carter-2015-series",
@@ -1649,6 +2863,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/agent-carter-61550",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-agent-carter-2015-m0trbh",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -1666,7 +2894,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ant-man-2015-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/ant-man-102899",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-ant-man-2015-38csgy",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "avengers-age-of-ultron-2015-movie",
@@ -1683,7 +2930,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-age-of-ultron-2015-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/avengers-age-of-ultron-99861",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-avengers-age-of-ultron-2015-ynhgl5",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "daredevil-2015-series",
@@ -1697,6 +2963,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/daredevil-61889",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-daredevil-2015-2z865y",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -1714,7 +2994,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-fantastic-four-2015-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/fantastic-four-166424",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-fantastic-four-2015-yvq6pw",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "guardians-of-the-galaxy-2015-series",
@@ -1729,7 +3028,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(TV_series)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(TV_series)",
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-guardians-of-the-galaxy-2015-9tmdh7",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "jessica-jones-2015-series",
@@ -1743,6 +3050,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/jessica-jones-38472",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-jessica-jones-2015-zmoin0",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -1757,6 +3078,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/lego-marvel-super-heroes-avengers-reassembled-368304",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
       ]
     },
     {
@@ -1771,6 +3100,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/marvel-super-hero-adventures-frost-fight-372631",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-marvel-super-hero-adventures-frost-fight-2015-pqlbaf",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -1787,7 +3130,21 @@ window.MARVEL_CATALOG = {
         "imprints",
         "sony"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Powers_(American_TV_series)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Powers_(American_TV_series)",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/powers-42531",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-powers-2015-o0q9tv",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "whih-newsfront-2015-series",
@@ -1831,7 +3188,21 @@ window.MARVEL_CATALOG = {
       "collections": [
         "mcu"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D.:_Slingshot"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D.:_Slingshot",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/agents-of-s-h-i-e-l-d-slingshot-69088",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-agents-of-shield-slingshot-2016-ksxvl9",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "captain-america-civil-war-2016-movie",
@@ -1848,7 +3219,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-civil-war/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/captain-america-civil-war-271110",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-captain-america-civil-war-2016-ghns4j",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "deadpool-2016-movie",
@@ -1865,7 +3255,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-deadpool-2016-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/deadpool-293660",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-deadpool-2016-iv71ly",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "doctor-strange-2016-movie",
@@ -1882,7 +3291,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-doctor-strange/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/doctor-strange-284052",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-doctor-strange-2016-38ksjd",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "hulk-where-monsters-dwell-2016-movie",
@@ -1897,7 +3325,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Hulk:_Where_Monsters_Dwell"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Hulk:_Where_Monsters_Dwell",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/hulk-where-monsters-dwell-422153",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
+      ]
     },
     {
       "id": "luke-cage-2016-series",
@@ -1911,6 +3347,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-luke-cage-2016-89p4y0",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -1970,7 +3414,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-apocalypse-2016-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/x-men-apocalypse-246655",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-x-men-apocalypse-2016-5lq8v1",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "tbt-to-that-time-archer-met-kingsman-2017-special",
@@ -2013,7 +3476,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Big_Hero_6:_The_Series"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Big_Hero_6:_The_Series",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/big-hero-6-the-series-68665",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
+      ]
     },
     {
       "id": "guardians-of-the-galaxy-vol-2-2017-movie",
@@ -2030,7 +3501,20 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-guardians-of-the-galaxy-vol-2-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/guardians-of-the-galaxy-vol-2-283995",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
+      ]
     },
     {
       "id": "inhumans-2017-movie",
@@ -2059,7 +3543,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "mcu"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Inhumans_premiere"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Inhumans_premiere",
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-inhumans-2017-q087xh",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "iron-fist-2017-series",
@@ -2073,6 +3565,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-iron-fist-2017-4ie3rb",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2091,7 +3591,26 @@ window.MARVEL_CATALOG = {
       "releaseDateSource": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle",
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-kingsman-the-golden-circle/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/kingsman-the-golden-circle-343668",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-kingsman-the-golden-circle-2017-e7c0yi",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "legion-2017-series",
@@ -2105,6 +3624,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-legion-2017-4nhf8r",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2136,7 +3663,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-logan-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/logan-263115",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-logan-2017-n2holc",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "marvel-future-avengers-2017-series",
@@ -2165,7 +3711,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Marvel_Super_Hero_Adventures"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Marvel_Super_Hero_Adventures",
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvel-super-hero-adventures-2017-vxwm5u",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "marvel-super-heroes-4d-sentosa-2017-special",
@@ -2241,7 +3795,14 @@ window.MARVEL_CATALOG = {
       "releaseDateSource": "https://en.wikipedia.org/wiki/No_Good_Deed_(2017_film)",
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-no-good-deed/watch/",
+          "checkedAt": "2026-11-11"
+        }
+      ]
     },
     {
       "id": "runaways-2017-series",
@@ -2255,6 +3816,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-runaways-2017-mp4b0y",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2273,7 +3842,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-homecoming-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/spider-man-homecoming-315635",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-spider-man-homecoming-2017-1axu95",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "team-thor-part-2-2017-special",
@@ -2301,6 +3889,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-the-defenders-2017-4o3v5l",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2315,6 +3911,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-the-gifted-2017-4dfuje",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2332,7 +3936,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-punisher-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/the-punisher-67178",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-the-punisher-2017-cbqei8",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "thor-ragnarok-2017-movie",
@@ -2349,7 +3972,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-ragnarok-2017-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/thor-ragnarok-284053",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-thor-ragnarok-2017-gru4ti",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "ant-man-and-the-wasp-2018-movie",
@@ -2366,7 +4008,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ant-man-and-the-wasp-2018-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/ant-man-and-the-wasp-363088",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-ant-man-and-the-wasp-2018-4ncwhf",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "avengers-infinity-war-2018-movie",
@@ -2383,7 +4044,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-infinity-war/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/avengers-infinity-war-299536",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-avengers-infinity-war-2018-t32jxn",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "baymax-and-2018-series",
@@ -2425,6 +4105,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/big-chibi-6-the-shorts-288289",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
       ]
     },
     {
@@ -2442,7 +4130,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-black-panther-2018-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/black-panther-284054",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-black-panther-2018-f6ly1i",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "cloak-dagger-2018-series",
@@ -2456,6 +4163,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-cloak-dagger-2018-q7tm5e",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2473,7 +4188,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-deadpool-2-2018-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/deadpool-2-383498",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-deadpool-2-2018-u1hgr3",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda-2018-special",
@@ -2487,6 +4221,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/lego-marvel-super-heroes-black-panther-trouble-in-wakanda-528222",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
       ]
     },
     {
@@ -2501,6 +4243,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvel-rising-initiation-2018-8mr0z9",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2516,7 +4266,21 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Marvel_Rising:_Secret_Warriors"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Marvel_Rising:_Secret_Warriors",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/marvel-rising-secret-warriors-491633",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-marvel-rising-secret-warriors-2018-h3tpr1",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "spider-man-into-the-spider-verse-2018-movie",
@@ -2534,7 +4298,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-into-the-spider-verse/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/spider-man-into-the-spider-verse-324857",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-spider-man-into-the-spider-verse-2018-gtd1na",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "team-darryl-2018-special",
@@ -2548,6 +4331,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/team-darryl-505945",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
       ]
     },
     {
@@ -2565,7 +4356,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-venom-2018-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/venom-335983",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-venom-2018-qjlcts",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "avengers-endgame-2019-movie",
@@ -2582,7 +4392,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-avengers-endgame/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/avengers-endgame-299534",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-avengers-endgame-2019-t6a8nd",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "baymax-mochi-2019-series",
@@ -2613,7 +4442,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-marvel/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/captain-marvel-299537",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-captain-marvel-2019-fl7cav",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "dark-phoenix-2019-movie",
@@ -2630,7 +4478,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-x-men-dark-phoenix-2019-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/dark-phoenix-320288",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-dark-phoenix-2019-vlhwz1",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "lego-marvel-spider-man-vexed-by-venom-2019-special",
@@ -2658,6 +4525,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/marvel-rising-battle-of-the-bands-592687",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-marvel-rising-battle-of-the-bands-2019-dm4u7n",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2672,6 +4553,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/marvel-rising-chasing-ghosts-576743",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-marvel-rising-chasing-ghosts-2019-iyg3wx",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2686,6 +4581,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/marvel-rising-heart-of-iron-583209",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-marvel-rising-heart-of-iron-2019-wnlp7f",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2700,6 +4609,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/marvel-rising-operation-shuri-592688",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-marvel-rising-operation-shuri-2019-nv4uk7",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2714,6 +4637,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/marvel-rising-playing-with-fire-592689",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-marvel-rising-playing-with-fire-2019-ko9pjm",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2762,7 +4699,26 @@ window.MARVEL_CATALOG = {
       "releaseDateSource": "https://en.wikipedia.org/wiki/Men_in_Black:_International",
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-men-in-black-international-2019-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84-%d8%a8%d8%ac%d9%88%d8%af%d8%a9-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/men-in-black-international-479455",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-men-in-black-international-2019-uk7woz",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "peter-s-to-do-list-2019-special",
@@ -2794,7 +4750,21 @@ window.MARVEL_CATALOG = {
         "animation",
         "sony"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Ham:_Caught_in_a_Ham"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Ham:_Caught_in_a_Ham",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/spider-ham-caught-in-a-ham-583055",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-spider-ham-caught-in-a-ham-2019-n3f2wl",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "spider-man-far-from-home-2019-movie",
@@ -2812,7 +4782,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-far-from-home-2019-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/spider-man-far-from-home-429617",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-spider-man-far-from-home-2019-somjgw",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-daily-bugle-2019-series",
@@ -2842,6 +4831,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/helstrom-88987",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-helstrom-2020-uz9lmk",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2856,6 +4859,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/lego-marvel-avengers-climate-conundrum-112851",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-lego-marvel-avengers-climate-conundrum-2020-yi8kaj",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -2902,7 +4919,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-new-mutants-2020-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/the-new-mutants-340102",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-the-new-mutants-2020-oyanc5",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "black-widow-2021-movie",
@@ -2919,7 +4955,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-black-widow-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/black-widow-497698",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-black-widow-2021-4e1fc0",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "deadpool-and-korg-react-2021-special",
@@ -2951,7 +5006,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-eternals-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/eternals-524434",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-eternals-2021-ijynxw",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "hawkeye-2021-series",
@@ -2968,7 +5042,20 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-hawkeye-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-hawkeye-2021-1wp4kd",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "hit-monkey-2021-series",
@@ -2983,7 +5070,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Hit-Monkey_(TV_series)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Hit-Monkey_(TV_series)",
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-hit-monkey-2021-pmfoxh",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "lego-marvel-avengers-loki-in-training-2021-special",
@@ -2997,6 +5092,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/lego-marvel-avengers-loki-in-training-899249",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-lego-marvel-avengers-loki-in-training-2021-zj12f8",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3014,7 +5123,20 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-loki-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-loki-2021-4bm510",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "m-o-d-o-k-2021-series",
@@ -3029,7 +5151,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/M.O.D.O.K._(TV_series)"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/M.O.D.O.K._(TV_series)",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/m-o-d-o-k-111312",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        }
+      ]
     },
     {
       "id": "marvel-studios-assembled-2021-series",
@@ -3044,7 +5174,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "documentary"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Marvel_Studios:_Assembled"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Marvel_Studios:_Assembled",
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvel-studios-assembled-2021-w1hmuy",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "marvel-studios-legends-2021-series",
@@ -3090,7 +5228,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shang-chi-and-the-legend-of-the-ten-rings-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/shang-chi-and-the-legend-of-the-ten-rings-566525",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-shang-chi-and-the-legend-of-the-ten-rings-2021-0jtbg1",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "spider-man-no-way-home-2021-movie",
@@ -3108,7 +5265,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-no-way-home-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/spider-man-no-way-home-634649",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-spider-man-no-way-home-2021-owgit1",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "spidey-and-his-amazing-friends-2021-series",
@@ -3138,7 +5314,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Super_Crooks"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Super_Crooks",
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-super-crooks-2021-syal68",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-falcon-and-the-winter-soldier-2021-series",
@@ -3155,7 +5339,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-the-falcon-and-the-winter-soldier-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/the-falcon-and-the-winter-soldier-88396",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-the-falcon-and-the-winter-soldier-2021-xtkw5b",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-king-s-man-2021-movie",
@@ -3170,7 +5373,21 @@ window.MARVEL_CATALOG = {
       "collections": [
         "imprints"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/The_King's_Man"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_King's_Man",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/the-king-s-man-476669",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-the-kings-man-2021-7ziak8",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "venom-let-there-be-carnage-2021-movie",
@@ -3187,7 +5404,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-venom-let-there-be-carnage-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/venom-let-there-be-carnage-580489",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-venom-let-there-be-carnage-2021-3vdm2a",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "wandavision-2021-series",
@@ -3204,7 +5440,20 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "all-seasons"
+      "watchPageType": "all-seasons",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84-wandavision-%d8%ac%d9%85%d9%8a%d8%b9-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b3%d9%85/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-wandavision-2021-q15ths",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "what-if-2021-series",
@@ -3222,7 +5471,14 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d8%a7%d9%86%d9%85%d9%8a-what-if-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        }
+      ]
     },
     {
       "id": "baymax-2022-series",
@@ -3237,7 +5493,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Baymax!"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Baymax!",
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-baymax-2022-upw9d3",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "black-panther-wakanda-forever-2022-movie",
@@ -3254,7 +5518,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-black-panther-wakanda-forever-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/black-panther-wakanda-forever-505642",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-black-panther-wakanda-forever-2022-kp75ia",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "doctor-strange-in-the-multiverse-of-madness-2022-movie",
@@ -3271,7 +5554,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-doctor-strange-in-the-multiverse-of-madness-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/doctor-strange-in-the-multiverse-of-madness-453395",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-doctor-strange-in-the-multiverse-of-madness-2022-10qbye",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "i-am-groot-2022-series",
@@ -3286,6 +5588,20 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation",
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/i-am-groot-232125",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-i-am-groot-2022-bs8h06",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3300,6 +5616,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/lego-marvel-avengers-time-twisted-940543",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-lego-marvel-avengers-time-twisted-2022-p4dcu5",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3317,7 +5647,20 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-moon-knight-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-moon-knight-2022-p05uvr",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "morbius-2022-movie",
@@ -3334,7 +5677,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-morbius-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/morbius-526896",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-morbius-2022-vui2zn",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "ms-marvel-2022-series",
@@ -3351,7 +5713,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ms-marvel-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/ms-marvel-92782",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-ms-marvel-2022-sogh1l",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "she-hulk-attorney-at-law-2022-series",
@@ -3368,7 +5749,20 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-she-hulk-attorney-at-law-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-she-hulk-attorney-at-law-2022-jbdmqt",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-guardians-of-the-galaxy-holiday-special-2022-special",
@@ -3382,6 +5776,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/the-guardians-of-the-galaxy-holiday-special-774752",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-the-guardians-of-the-galaxy-holiday-special-2022-8wfkhu",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3399,7 +5807,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-thor-love-and-thunder-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/thor-love-and-thunder-616037",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-thor-love-and-thunder-2022-hgdks7",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "werewolf-by-night-2022-special",
@@ -3413,6 +5840,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/werewolf-by-night-894205",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-werewolf-by-night-2022-qcselz",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3430,7 +5871,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ant-man-and-the-wasp-quantumania-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/ant-man-and-the-wasp-quantumania-640146",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-ant-man-and-the-wasp-quantumania-2023-ntaxkm",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "guardians-of-the-galaxy-vol-3-2023-movie",
@@ -3447,7 +5907,14 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-guardians-of-the-galaxy-vol-3-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        }
+      ]
     },
     {
       "id": "lego-marvel-avengers-code-red-2023-special",
@@ -3464,7 +5931,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-lego-marvel-avengers-code-red-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/lego-marvel-avengers-code-red-1154598",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-lego-marvel-avengers-code-red-2023-ifnak2",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "moon-girl-and-devil-dinosaur-2023-series",
@@ -3479,7 +5965,15 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Moon_Girl_and_Devil_Dinosaur"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Moon_Girl_and_Devil_Dinosaur",
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvels-moon-girl-and-devil-dinosaur-2023-5gz3lv",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "mpower-2023-series",
@@ -3510,7 +6004,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-secret-invasion-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/secret-invasion-114472",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-secret-invasion-2023-ljcz31",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "spider-man-across-the-spider-verse-2023-movie",
@@ -3528,7 +6041,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-across-the-spider-verse-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/spider-man-across-the-spider-verse-569094",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-spider-man-across-the-spider-verse-2023-zdtaws",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-marvels-2023-movie",
@@ -3545,7 +6077,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-marvels-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/the-marvels-609681",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-the-marvels-2023-t9gobq",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "the-spider-within-a-spider-verse-story-2023-special",
@@ -3574,6 +6125,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "documentary"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-voices-rising-the-music-of-wakanda-forever-2023-29mhf5",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3591,7 +6150,20 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-agatha-all-along-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-agatha-all-along-2024-3oabhp",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "argylle-2024-movie",
@@ -3606,7 +6178,21 @@ window.MARVEL_CATALOG = {
       "collections": [
         "imprints"
       ],
-      "releaseDateSource": "https://en.wikipedia.org/wiki/Argylle"
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Argylle",
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/argylle-848538",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-argylle-2024-nm50wr",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "deadpool-wolverine-2024-movie",
@@ -3623,7 +6209,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-deadpool-amp-wolverine/watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/deadpool-wolverine-533535",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-deadpool-wolverine-2024-6cq42m",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "echo-2024-series",
@@ -3637,6 +6242,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-echo-2024-trvd5f",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3651,6 +6264,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/kraven-the-hunter-539972",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-kraven-the-hunter-2024-hfngco",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3665,6 +6292,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/lego-marvel-avengers-mission-demolition-1359227",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-lego-marvel-avengers-mission-demolition-2024-4aylwc",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3679,6 +6320,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/madame-web-634492",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-madame-web-2024-rs49mf",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3696,7 +6351,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-venom-the-last-dance-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/venom-the-last-dance-912649",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-venom-the-last-dance-2024-4u2ndf",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "x-men-97-2024-series",
@@ -3710,6 +6384,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-x-men-97-2024-3xtfnw",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3727,7 +6409,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-captain-america-brave-new-world-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/captain-america-brave-new-world-822119",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-captain-america-brave-new-world-2025-r8qx4z",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "daredevil-born-again-2025-series",
@@ -3744,7 +6445,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-daredevil-born-again-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/daredevil-born-again-202555",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-daredevil-born-again-2025-wlu0g6",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "eyes-of-wakanda-2025-series",
@@ -3759,6 +6479,14 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation",
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-eyes-of-wakanda-2025-ocjp5n",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3790,7 +6518,20 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-ironheart-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-ironheart-2025-dub9a6",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "lego-marvel-avengers-strange-tails-2025-series",
@@ -3804,6 +6545,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-lego-marvel-avengers-strange-tails-2025-px0qy2",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3819,6 +6568,14 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation",
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-marvel-zombies-2025-8lvfi1",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3833,6 +6590,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/meet-iron-man-and-his-awesome-friends-294895",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-meet-iron-man-and-his-awesome-friends-2025-rw7y5c",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3864,7 +6635,14 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-fantastic-four-first-steps-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        }
+      ]
     },
     {
       "id": "thunderbolts-2025-movie",
@@ -3878,6 +6656,20 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/thunderbolts-986056",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-thunderbolts-2025-sw03rf",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
@@ -3910,7 +6702,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-spider-man-brand-new-day-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/spider-man-brand-new-day-969681",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-spider-man-brand-new-day-2026-urpgi1",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "spider-noir-2026-series",
@@ -3928,7 +6739,26 @@ window.MARVEL_CATALOG = {
       "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Noir",
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-spider-noir-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/tv/spider-noir-220102",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact TMDB title/type/year, documented public Flaxfer title route, HTTP response; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-spider-noir-2026-blpyr2",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "spidey-and-the-avengers-halloween-team-up-2026-special",
@@ -3959,7 +6789,26 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "watch-page"
+      "watchPageType": "watch-page",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-punisher-one-last-kill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd//watch/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Flaxfer",
+          "url": "https://flaxfer.lol/movie/the-punisher-one-last-kill-1439930",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-movie-the-punisher-one-last-kill-2026-4boe3l",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "visionquest-2026-series",
@@ -3976,7 +6825,20 @@ window.MARVEL_CATALOG = {
       ],
       "watchSource": "MovizLand",
       "watchCheckedAt": "2026-11-11",
-      "watchPageType": "season-one"
+      "watchPageType": "season-one",
+      "watchSources": [
+        {
+          "source": "MovizLand",
+          "url": "https://www.moviz.land/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-visionquest-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-1/",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-visionquest-2026-x6qht7",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
+      ]
     },
     {
       "id": "wonder-man-2026-series",
@@ -3990,6 +6852,14 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
+      ],
+      "watchSources": [
+        {
+          "source": "Streamex",
+          "url": "https://streamex.ws/watch-tv-wonder-man-2026-djbruo",
+          "checkedAt": "2026-11-11",
+          "verification": "title, type, release year and HTTP page response; playback untested"
+        }
       ]
     },
     {
