@@ -37,7 +37,13 @@ Dates accept `YYYY-MM-DD` or `YYYY`. The timeline groups by year and sorts exact
 
 ## Coverage and sources
 
-Owner-provided official MCU story-order reference: https://www.marvel.com/articles/movies/mcu-timeline-order-disney-plus. The page links to it. The article returned HTTP 403 during verification, so its exact current sequence has not been imported. The local catalog currently remains in release order. Fox, Sony and other continuities are retained in the broader collection.
+The page defaults to **Release order**. The **Story order** switch uses curated sequences in `story-order.js`, with each continuity in its own group. MCU prequels move ahead of Iron Man; Fox X-Men branches, Sony Spider-Man continuities, and selected other film series have separate sequences. Entries without a mapped story placement remain in a clearly labeled section in release order. This includes standalone works, documentaries, uncertain placements and some alternate-universe projects. No shared chronology across these continuities is implied.
+
+Series are listed once at their initial storyline, so this is a project-level viewing guide, not an episode-by-episode chronology. Time travel, overlapping events and later seasons mean some placements are approximate. Dates printed on cards always remain original release dates. The release-year, type, collection and search filters work in both modes; the oldest/newest selector applies only to Release order. Reset clears filters while preserving the selected mode.
+
+To add a story placement, append `[title, releaseYear, type]` to the relevant continuity group in `story-order.js`; the default type is `movie`. Each tuple must match a catalog entry. Startup rejects missing or duplicate placements. Watch links remain in `catalog.js` and work in both views.
+
+Owner-provided official MCU reference: https://www.marvel.com/articles/movies/mcu-timeline-order-disney-plus. That article returned HTTP 403 during verification, so this feature is labeled curated and is not an exact verified import of its current sequence. Supporting chronology references: https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_timeline and https://en.wikipedia.org/wiki/X-Men_(film_series)#Timeline.
 
 Initial catalog: 310 entries, from the 1944 Captain America serial through releases known as of November 11, 2026. Includes MCU, Fox, Sony, older live-action films, TV movies, animation, web series, shorts, motion comics, documentaries and Marvel imprints such as Men in Black and Kingsman. Series are listed once at their initial premiere; seasons and episodes are not separate entries. Upcoming, canceled and unaired productions are excluded from the released timeline. Alternate edits and reissues generally share their original title's entry.
 

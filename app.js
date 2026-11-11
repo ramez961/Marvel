@@ -1,8 +1,9 @@
 (() => {
   'use strict';
   const $ = (selector) => document.querySelector(selector);
-  const state = { type: 'all', query: '', year: 'all', collection: 'all', order: 'asc' };
+  const state = { view: 'release' };
   const catalog = window.MARVEL_CATALOG;
+  const storyOrder = window.MARVEL_STORY_ORDER;
   // Stable IDs and watch URLs are kept in catalog.js so updates never require layout edits.
   const sortDate = entry => entry.date.length === 4 ? entry.date + '-12-32' : entry.date;
   const all = [...catalog.releases].sort((a, b) => sortDate(a).localeCompare(sortDate(b)) || a.id.localeCompare(b.id));
@@ -18,14 +19,11 @@
     if (text !== undefined) node.textContent = text;
     return node;
   }
-  [...new Set(all.map(entry => entry.date.slice(0, 4)))].sort().forEach(year => {
-    const option = element('option', '', year); option.value = year; $('#year').append(option);
-  });
-  function card(entry) {
+  function card(entry, storyNumber) {
     const url = safeUrl(entry.url);
     const node = element(url ? 'a' : 'article', `release${url ? ' available' : ''}`);
     if (url) { node.href = url; node.setAttribute('aria-label', `Watch ${entry.title}`); }
-    node.append(element('span', 'release-number', numbers.get(entry.id)));
+    node.append(element('span', 'release-number', storyNumber === undefined ? numbers.get(entry.id) : String(storyNumber).padStart(2, '0')));
     const main = element('div', 'release-main');
     const meta = element('div', 'release-meta');
     const isOriginalSerial = entry.id === 'captain-america-1944-special';
@@ -41,50 +39,48 @@
     node.append(status); return node;
   }
   function render() {
-    let entries = all.filter(entry => (state.type === 'all' || entry.type === state.type)
-      && entry.title.toLocaleLowerCase().includes(state.query.toLocaleLowerCase())
-      && (state.year === 'all' || entry.date.startsWith(state.year))
-      && (state.collection === 'all' || (entry.collections || [entry.collection]).includes(state.collection)));
-    if (state.order === 'desc') entries = entries.reverse();
+    const entries = [...all];
+    const storyView = state.view === 'story';
+    if (storyView) entries.sort((a, b) => {
+      const left = storyOrder.placements[a.id];
+      const right = storyOrder.placements[b.id];
+      return (left?.groupIndex ?? 999) - (right?.groupIndex ?? 999)
+        || (left?.rank ?? 999) - (right?.rank ?? 999)
+        || sortDate(a).localeCompare(sortDate(b)) || a.id.localeCompare(b.id);
+    });
+    const grouping = entry => storyView ? (storyOrder.placements[entry.id]?.group || 'unplaced') : entry.date.slice(0, 4);
+    const groupCounts = new Map();
+    entries.forEach(entry => { const key = grouping(entry); groupCounts.set(key, (groupCounts.get(key) || 0) + 1); });
+    $('#timeline-heading').textContent = storyView ? 'Story timeline' : 'Release timeline';
     const fragment = document.createDocumentFragment();
-    let currentYear, items;
+    let currentGroup, items, groupNumber = 0;
     let branchIndex = 0;
     for (const entry of entries) {
-      const year = entry.date.slice(0, 4);
-      if (year !== currentYear) {
-        currentYear = year;
-        const group = element('section', 'year-group');
-        group.setAttribute('aria-label', `Releases in ${year}`);
-        const heading = element('h3', 'year-heading', year);
-        const count = entries.filter(item => item.date.startsWith(year)).length;
-        heading.append(element('span', '', `${count} RELEASE${count === 1 ? '' : 'S'}`));
+      const groupKey = grouping(entry);
+      if (groupKey !== currentGroup) {
+        currentGroup = groupKey;
+        groupNumber = 0;
+        const label = storyView ? (storyOrder.groups.find(group => group.id === groupKey)?.label || 'Story placement unconfirmed') : groupKey;
+        const group = element('section', `year-group${storyView ? ' story-group' : ''}`);
+        group.setAttribute('aria-label', storyView ? label : `Releases in ${label}`);
+        const heading = element('h3', 'year-heading', label);
+        const count = groupCounts.get(groupKey);
+        heading.append(element('span', '', storyView && groupKey === 'unplaced' ? `${count} TITLES · RELEASE ORDER` : `${count} RELEASE${count === 1 ? '' : 'S'}`));
         items = element('div', 'year-items'); group.append(heading, items); fragment.append(group);
       }
       const branch = element('div', `branch ${branchIndex++ % 2 === 0 ? 'branch-left' : 'branch-right'}`);
-      branch.append(card(entry));
+      branch.append(card(entry, storyView ? ++groupNumber : undefined));
       items.append(branch);
     }
     $('#releases').replaceChildren(fragment);
-    $('#count').textContent = `${entries.length} of ${all.length} releases`;
-    $('#empty').hidden = entries.length > 0;
   }
-  function updateTabs() {
-    document.querySelectorAll('[data-type]').forEach(button => {
-      const active = state.type === button.dataset.type;
-      button.classList.toggle('active', active); button.setAttribute('aria-pressed', String(active));
+  document.querySelectorAll('[data-view]').forEach(button => button.addEventListener('click', () => {
+    state.view = button.dataset.view;
+    document.querySelectorAll('[data-view]').forEach(tab => {
+      const active = tab.dataset.view === state.view;
+      tab.classList.toggle('active', active); tab.setAttribute('aria-pressed', String(active));
     });
-  }
-  document.querySelectorAll('[data-type]').forEach(button => button.addEventListener('click', () => {
-    state.type = button.dataset.type; updateTabs(); render();
+    render();
   }));
-  $('#search').addEventListener('input', event => { state.query = event.target.value.trim(); render(); });
-  ['year', 'collection', 'order'].forEach(key => $('#' + key).addEventListener('change', event => {
-    state[key] = event.target.value; render();
-  }));
-  $('#reset').addEventListener('click', () => {
-    Object.assign(state, { type: 'all', query: '', year: 'all', collection: 'all', order: 'asc' });
-    $('#search').value = ''; $('#year').value = 'all'; $('#collection').value = 'all'; $('#order').value = 'asc';
-    updateTabs(); render(); $('#search').focus();
-  });
   render();
 })();

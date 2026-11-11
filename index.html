@@ -8,6 +8,7 @@
   <title>Marvel — The release timeline</title>
   <link rel="stylesheet" href="styles.css">
   <script src="catalog.js" defer></script>
+  <script src="story-order.js" defer></script>
   <script src="app.js" defer></script>
 </head>
 <body>
@@ -22,15 +23,8 @@
     </section>
     <section class="library" id="timeline" aria-labelledby="timeline-heading">
       <div class="section-title"><div><p class="eyebrow">THE STORY SO FAR</p><h2 id="timeline-heading">Release timeline</h2></div><p class="updated">Catalog reviewed <time datetime="2026-11-11">11 Nov 2026</time></p></div>
-      <div class="toolbar">
-        <div class="tabs" role="group" aria-label="Release type"><button class="active" data-type="all" aria-pressed="true">Everything</button><button data-type="movie" aria-pressed="false">Movies</button><button data-type="series" aria-pressed="false">Series</button><button data-type="special" aria-pressed="false">Specials & shorts</button></div>
-        <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Find a title…" aria-label="Search titles"></label>
-      </div>
-      <div class="subtoolbar"><div class="selects"><label>Year <select id="year"><option value="all">All years</option></select></label><label>Collection <select id="collection"><option value="all">All collections</option><option value="mcu">MCU</option><option value="fox">Fox</option><option value="sony">Sony</option><option value="animation">Animation</option><option value="imprints">Marvel imprints</option><option value="other">Classics & other</option><option value="documentary">Documentaries</option></select></label><label>Order <select id="order"><option value="asc">Oldest first</option><option value="desc">Newest first</option></select></label></div><span id="count" role="status" aria-live="polite"></span></div>
-      <p class="catalog-note">Series appear at their first premiere. Where an exact date is unverified, only the release year is shown; those entries follow dated releases within that year.</p>
-      <p class="catalog-note">Ordered by original project release date. Captain America (1944) is the original theatrical serial; Captain America: The First Avenger was released in 2011.</p>
+      <div class="view-switch" role="group" aria-label="Timeline order"><button class="active" data-view="release" aria-pressed="true">Release order</button><button data-view="story" aria-pressed="false">Story order</button></div>
       <div class="timeline" id="releases"></div>
-      <div class="empty" id="empty" hidden><h3>No chapters found.</h3><p>Try another title or reset your filters.</p><button id="reset">Reset filters</button></div>
       <noscript><p>Enable JavaScript to explore the release timeline.</p></noscript>
     </section>
   </main>
