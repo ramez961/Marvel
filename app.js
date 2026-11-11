@@ -34,7 +34,6 @@
     meta.append(element('span', 'phase', {mcu:'MCU',fox:'Fox',sony:'Sony',animation:'Animation',imprints:'Marvel imprints',other:'Classics & other',documentary:'Documentary'}[entry.collection]));
     main.append(meta, element('h3', '', entry.title)); node.append(main);
     const status = element('span', 'release-status', url ? 'Watch now ' : 'Link coming soon');
-    if (url) status.append(element('span', 'arrow', '↗'));
     node.append(status); return node;
   }
   function render() {
