@@ -32,6 +32,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-blade-1998-9an2h1",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2323/hd-mtrgm-blade-1998-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -202,6 +208,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-blade-ii-2002-sh7z8k",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2322/hd-mtrgm-blade-2-2002-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -276,6 +288,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-spider-man-2002-rak651",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1782/hd-mtrgm-spider-man-2002-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -348,6 +366,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-hulk-2003-5jr1gi",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/3716/hd-mtrgm-the-hulk-2003-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -450,6 +474,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-blade-trinity-2004-dlgxfk",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2321/hd-mtrgm-blade-trinity-3-2004-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -486,6 +516,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-spider-man-2-2004-vknqe6",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1781/hd-mtrgm-spider-man-2-2004-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -522,6 +558,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-the-punisher-2004-9rwdge",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/5621/hd-mtrgm-the-punisher-2004-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -594,6 +636,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-fantastic-four-2005-x3nh08",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/3678/hd-mtrgm-fantastic-four-2005-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -901,6 +949,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-spider-man-3-2007-p8yu6t",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1780/hd-mtrgm-spider-man-3-2007-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -1046,6 +1100,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-punisher-war-zone-2008-yi1un4",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/3914/hd-mtrgm-punisher-war-zone-2008-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -1082,6 +1142,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-the-incredible-hulk-2008-r752q4",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/3717/hd-mtrgm-the-incredible-hulk-2008-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -1273,6 +1339,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-x-men-origins-wolverine-2009-vgzs1u",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2218/hd-mtrgm-x-men-origins-wolverine-2009-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -1630,6 +1702,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-captain-america-the-first-avenger-2011-tyn2oe",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1027/hd-mtrgm-captain-america-the-first-avenger-2011-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -1983,6 +2061,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-the-amazing-spider-man-2012-04qg7k",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1776/hd-mtrgm-the-amazing-spider-man-2012-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -2019,6 +2103,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-the-avengers-2012-87qm9j",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2195/hd-mtrgm-the-avengers-2012-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -2374,6 +2464,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-the-wolverine-2013-30nv7c",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1916/hd-mtrgm-the-wolverine-2013-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -2583,6 +2679,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-captain-america-the-winter-soldier-2014-nwmb3o",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/3719/hd-mtrgm-captain-america-2-the-winter-soldier-2014-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -2698,6 +2800,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-kingsman-the-secret-service-2014-7mr3qk",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2834/hd-mtrgm-kingsman-the-secret-service-2015-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -2776,6 +2884,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-the-amazing-spider-man-2-2014-9b63hs",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1775/hd-mtrgm-the-amazing-spider-man-2-2014-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -2912,6 +3026,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-ant-man-2015-38csgy",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2083/hd-mtrgm-ant-man-2015-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -2948,6 +3068,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-avengers-age-of-ultron-2015-ynhgl5",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2194/hd-mtrgm-avengers-2-age-of-ultron-2015-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -2976,6 +3102,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-tv-marvels-daredevil-2015-2z865y",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2011/hd-mtrgm-daredevil-2015-mslsl",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -3012,6 +3144,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-fantastic-four-2015-yvq6pw",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/3677/hd-mtrgm-fantastic-four-2015-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -3237,6 +3375,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-captain-america-civil-war-2016-ghns4j",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/3718/hd-mtrgm-captain-america-3-civil-war-2016-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -3273,6 +3417,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-deadpool-2016-iv71ly",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/596/hd-mtrgm-deadpool-2016-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -3432,6 +3582,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-x-men-apocalypse-2016-5lq8v1",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/3336/hd-mtrgm-x-men-apocalypse-2016-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -3609,6 +3765,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-kingsman-the-golden-circle-2017-e7c0yi",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2833/hd-mtrgm-kingsman-the-golden-circle-2-2017-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -3681,6 +3843,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-logan-2017-n2holc",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/616/hd-mtrgm-logan-2017-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -3860,6 +4028,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-spider-man-homecoming-2017-1axu95",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1779/hd-mtrgm-spider-man-homecoming-2017-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -3954,6 +4128,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-tv-marvels-the-punisher-2017-cbqei8",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1349/hd-mtrgm-the-punisher-2017-mslsl",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -4026,6 +4206,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-ant-man-and-the-wasp-2018-4ncwhf",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2082/hd-mtrgm-ant-man-and-the-wasp-2018-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -4062,6 +4248,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-avengers-infinity-war-2018-t32jxn",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2193/hd-mtrgm-avengers-3-infinity-war-2018-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -4148,6 +4340,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-black-panther-2018-f6ly1i",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2494/hd-mtrgm-black-panther-2018-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -4206,6 +4404,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-deadpool-2-2018-u1hgr3",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/597/hd-mtrgm-deadpool-2-2018-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -4316,6 +4520,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-spider-man-into-the-spider-verse-2018-gtd1na",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/5359/hd-mtrgm-spider-man-into-the-spider-verse-2018-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -4374,6 +4584,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-venom-2018-qjlcts",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1/hd-mtrgm-venom-2018-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -4410,6 +4626,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-avengers-endgame-2019-t6a8nd",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2192/hd-mtrgm-avengers-4-endgame-2019-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -4460,6 +4682,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-captain-marvel-2019-fl7cav",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2266/hd-mtrgm-captain-marvel-2019-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -4800,6 +5028,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-spider-man-far-from-home-2019-somjgw",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1778/hd-mtrgm-spider-man-2-far-from-home-2019-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -4973,6 +5207,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-black-widow-2021-4e1fc0",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1940/hd-mtrgm-black-widow-2021-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -5283,6 +5523,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-spider-man-no-way-home-2021-owgit1",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1777/hd-mtrgm-spider-man-3-no-way-home-2021-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -5386,6 +5632,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-the-kings-man-2021-7ziak8",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2832/hd-mtrgm-the-kings-man-3-2021-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -5422,6 +5674,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-venom-let-there-be-carnage-2021-3vdm2a",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1392/hd-mtrgm-venom-2-let-there-be-carnage-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -5536,6 +5794,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-black-panther-wakanda-forever-2022-kp75ia",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2493/hd-mtrgm-black-panther-wakanda-forever-2022-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -5695,6 +5959,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-morbius-2022-vui2zn",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1406/hd-mtrgm-morbius-2022-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -5889,6 +6159,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-ant-man-and-the-wasp-quantumania-2023-ntaxkm",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2081/hd-mtrgm-ant-man-and-the-wasp-quantumania-2023-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -6059,6 +6335,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-spider-man-across-the-spider-verse-2023-zdtaws",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/5358/hd-mtrgm-spider-man-2-across-the-spider-verse-2023-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -6095,6 +6377,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-the-marvels-2023-t9gobq",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2265/hd-mtrgm-the-marvels-2023-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -6191,6 +6479,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-argylle-2024-nm50wr",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1094/hd-mtrgm-argylle-2024-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -6227,6 +6521,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-deadpool-wolverine-2024-6cq42m",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2007/hd-mtrgm-deadpool-and-wolverine-2024-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -6277,6 +6577,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-kraven-the-hunter-2024-hfngco",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2746/hd-mtrgm-kraven-the-hunter-2024-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -6333,6 +6639,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-madame-web-2024-rs49mf",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/1252/hd-mtrgm-madame-web-2024-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -6369,6 +6681,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-venom-the-last-dance-2024-4u2ndf",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2928/hd-mtrgm-venom-the-last-dance-2024-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -6427,6 +6745,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-captain-america-brave-new-world-2025-r8qx4z",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/3037/hd-mtrgm-captain-america-4-brave-new-world-2025-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -6463,6 +6787,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-tv-daredevil-born-again-2025-wlu0g6",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/2909/hd-mtrgm-daredevil-born-again-2025-mslsl",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -6669,6 +6999,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-thunderbolts-2025-sw03rf",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/3087/hd-mtrgm-thunderbolts-2025-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -6757,6 +7093,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-tv-spider-noir-2026-blpyr2",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/4634/hd-mtrgm-spider-noir-2026-mslsl",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -6807,6 +7149,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-movie-the-punisher-one-last-kill-2026-4boe3l",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/4434/hd-mtrgm-the-punisher-one-last-kill-2026-fylm",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
         }
       ]
     },
@@ -6837,6 +7185,12 @@ window.MARVEL_CATALOG = {
           "url": "https://streamex.ws/watch-tv-visionquest-2026-x6qht7",
           "checkedAt": "2026-11-11",
           "verification": "title, type, release year and HTTP page response; playback untested"
+        },
+        {
+          "source": "EgyBest",
+          "url": "https://www.egybest.co.in/titles/5574/hd-mtrgm-visionquest-2026-mslsl",
+          "checkedAt": "2026-11-11",
+          "verification": "Exact title, release year, media type and public page listing; playback untested"
         }
       ]
     },

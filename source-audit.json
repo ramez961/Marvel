@@ -3,7 +3,8 @@
   "sourceCounts": {
     "MovizLand": 104,
     "Flaxfer": 158,
-    "Streamex": 168
+    "Streamex": 168,
+    "EgyBest": 59
   },
   "totalProjects": 260,
   "linkedProjects": 197,
@@ -1136,6 +1137,1194 @@
       "title": "Wonder Man",
       "source": "Flaxfer",
       "reason": "No exact metadata identity and supported title route verified"
+    },
+    {
+      "id": "spider-man-unlimited-1999-series",
+      "title": "Spider-Man Unlimited",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "x-men-2000-movie",
+      "title": "X-Men",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "mutant-x-2001-series",
+      "title": "Mutant X",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-avengers-united-they-stand-1999-series",
+      "title": "The Avengers: United They Stand",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "x-men-evolution-2000-series",
+      "title": "X-Men: Evolution",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "men-in-black-ii-2002-movie",
+      "title": "Men in Black II",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "daredevil-2003-movie",
+      "title": "Daredevil",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "spider-man-the-new-animated-series-2003-series",
+      "title": "Spider-Man: The New Animated Series",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "x2-2003-movie",
+      "title": "X2",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "elektra-2005-movie",
+      "title": "Elektra",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "man-thing-2005-movie",
+      "title": "Man-Thing",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "ultimate-avengers-2006-movie",
+      "title": "Ultimate Avengers",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "blade-house-of-chthon-2006-movie",
+      "title": "Blade: House of Chthon",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "blade-the-series-2006-series",
+      "title": "Blade: The Series",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "fantastic-four-world-s-greatest-heroes-2006-series",
+      "title": "Fantastic Four: World's Greatest Heroes",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "ultimate-avengers-2-2006-movie",
+      "title": "Ultimate Avengers 2",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "ghost-rider-2007-movie",
+      "title": "Ghost Rider",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "x-men-the-last-stand-2006-movie",
+      "title": "X-Men: The Last Stand",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "fantastic-four-rise-of-the-silver-surfer-2007-movie",
+      "title": "Fantastic Four: Rise of the Silver Surfer",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "doctor-strange-the-sorcerer-supreme-2007-movie",
+      "title": "Doctor Strange: The Sorcerer Supreme",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-invincible-iron-man-2007-movie",
+      "title": "The Invincible Iron Man",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "iron-man-2008-movie",
+      "title": "Iron Man",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-spectacular-spider-man-2008-series",
+      "title": "The Spectacular Spider-Man",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "next-avengers-heroes-of-tomorrow-2008-movie",
+      "title": "Next Avengers: Heroes of Tomorrow",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "astonishing-x-men-gifted-2009-series",
+      "title": "Astonishing X-Men: Gifted",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "hulk-versus-2009-movie",
+      "title": "Hulk Versus",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "iron-man-armored-adventures-2009-series",
+      "title": "Iron Man: Armored Adventures",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-superheroes-what-the-2009-series",
+      "title": "Marvel Superheroes: What the--?!",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-super-hero-squad-show-2009-series",
+      "title": "The Super Hero Squad Show",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "wolverine-and-the-x-men-2009-series",
+      "title": "Wolverine and the X-Men",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "black-panther-2010-series",
+      "title": "Black Panther",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "iron-man-2-2010-movie",
+      "title": "Iron Man 2",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-anime-blade-2010-series",
+      "title": "Marvel Anime: Blade",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-anime-iron-man-2010-series",
+      "title": "Marvel Anime: Iron Man",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "kick-ass-2010-movie",
+      "title": "Kick-Ass",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-anime-wolverine-2010-series",
+      "title": "Marvel Anime: Wolverine",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-anime-x-men-2010-series",
+      "title": "Marvel Anime: X-Men",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "iron-man-extremis-2010-series",
+      "title": "Iron Man: Extremis",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-super-heroes-4d-london-2010-special",
+      "title": "Marvel Super Heroes 4D (London)",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "planet-hulk-2010-movie",
+      "title": "Planet Hulk",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "a-funny-thing-happened-on-the-way-to-thor-s-hammer-2011-special",
+      "title": "A Funny Thing Happened on the Way to Thor's Hammer",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-avengers-earth-s-mightiest-heroes-2010-series",
+      "title": "The Avengers: Earth's Mightiest Heroes",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "ghost-rider-spirit-of-vengeance-2011-movie",
+      "title": "Ghost Rider: Spirit of Vengeance",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-consultant-2011-special",
+      "title": "The Consultant",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "spider-woman-agent-of-s-w-o-r-d-2011-series",
+      "title": "Spider-Woman: Agent of S.W.O.R.D.",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "thor-2011-movie",
+      "title": "Thor",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "thor-loki-blood-brothers-2011-series",
+      "title": "Thor / Loki: Blood Brothers",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "thor-tales-of-asgard-2011-movie",
+      "title": "Thor: Tales of Asgard",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "x-men-first-class-2011-movie",
+      "title": "X-Men: First Class",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "astonishing-x-men-dangerous-2012-series",
+      "title": "Astonishing X-Men: Dangerous",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "fury-files-2012-series",
+      "title": "Fury Files",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "astonishing-x-men-torn-2012-series",
+      "title": "Astonishing X-Men: Torn",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "item-47-2012-special",
+      "title": "Item 47",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-super-heroes-4d-new-york-2012-special",
+      "title": "Marvel Super Heroes 4D (New York)",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "astonishing-x-men-unstoppable-2012-series",
+      "title": "Astonishing X-Men: Unstoppable",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "men-in-black-3-2012-movie",
+      "title": "Men in Black 3",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-all-winners-squad-2012-special",
+      "title": "Marvel: All Winners Squad",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "ultimate-spider-man-2012-series",
+      "title": "Ultimate Spider-Man",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "agent-carter-2013-special",
+      "title": "Agent Carter",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "avengers-assemble-2013-series",
+      "title": "Avengers Assemble",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "inhumans-2013-series",
+      "title": "Inhumans",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "agents-of-s-h-i-e-l-d-2013-series",
+      "title": "Agents of S.H.I.E.L.D.",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "hulk-and-the-agents-of-s-m-a-s-h-2013-series",
+      "title": "Hulk and the Agents of S.M.A.S.H.",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "iron-man-3-2013-movie",
+      "title": "Iron Man 3",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "kick-ass-2-2013-movie",
+      "title": "Kick-Ass 2",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "iron-man-hulk-heroes-united-2013-movie",
+      "title": "Iron Man & Hulk: Heroes United",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "iron-man-rise-of-technovore-2013-movie",
+      "title": "Iron Man: Rise of Technovore",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-super-heroes-4d-bali-2013-special",
+      "title": "Marvel Super Heroes 4D (Bali)",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-super-heroes-4d-las-vegas-2013-special",
+      "title": "Marvel Super Heroes 4D (Las Vegas)",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "lego-marvel-super-heroes-maximum-overload-2013-special",
+      "title": "Lego Marvel Super Heroes: Maximum Overload",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "phineas-and-ferb-mission-marvel-2013-special",
+      "title": "Phineas and Ferb: Mission Marvel",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "thor-the-dark-world-2013-movie",
+      "title": "Thor: The Dark World",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "ultimate-wolverine-vs-hulk-2013-series",
+      "title": "Ultimate Wolverine Vs. Hulk",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "all-hail-the-king-2014-special",
+      "title": "All Hail the King",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "big-hero-6-2014-movie",
+      "title": "Big Hero 6",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "wolverine-origin-2013-series",
+      "title": "Wolverine: Origin",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "avengers-confidential-black-widow-punisher-2014-movie",
+      "title": "Avengers Confidential: Black Widow & Punisher",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "eternals-2014-series",
+      "title": "Eternals",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "guardians-of-the-galaxy-2014-movie",
+      "title": "Guardians of the Galaxy",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "iron-man-captain-america-heroes-united-2014-movie",
+      "title": "Iron Man & Captain America: Heroes United",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-75-years-from-pulp-to-pop-2014-series",
+      "title": "Marvel 75 Years: From Pulp to Pop!",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-disk-wars-the-avengers-2014-series",
+      "title": "Marvel Disk Wars: The Avengers",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "wolverine-versus-sabretooth-2014-series",
+      "title": "Wolverine Versus Sabretooth",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "agent-carter-2015-series",
+      "title": "Agent Carter",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-studios-assembling-a-universe-2014-series",
+      "title": "Marvel Studios: Assembling a Universe",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "wolverine-weapon-x-tomorrow-dies-today-2014-series",
+      "title": "Wolverine: Weapon X: Tomorrow Dies Today",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "x-men-days-of-future-past-2014-movie",
+      "title": "X-Men: Days of Future Past",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "guardians-of-the-galaxy-2015-series",
+      "title": "Guardians of the Galaxy",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "jessica-jones-2015-series",
+      "title": "Jessica Jones",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "powers-2015-series",
+      "title": "Powers",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "whih-newsfront-2015-series",
+      "title": "WHIH Newsfront",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "lego-marvel-super-heroes-avengers-reassembled-2015-special",
+      "title": "Lego Marvel Super Heroes: Avengers Reassembled",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-super-hero-adventures-frost-fight-2015-movie",
+      "title": "Marvel Super Hero Adventures: Frost Fight!",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "wolverine-versus-sabretooth-reborn-2015-series",
+      "title": "Wolverine Versus Sabretooth: Reborn",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "agents-of-s-h-i-e-l-d-slingshot-2016-series",
+      "title": "Agents of S.H.I.E.L.D.: Slingshot",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "doctor-strange-2016-movie",
+      "title": "Doctor Strange",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "luke-cage-2016-series",
+      "title": "Luke Cage",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-funko-shorts-2016-series",
+      "title": "Marvel Funko Shorts",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "hulk-where-monsters-dwell-2016-movie",
+      "title": "Hulk: Where Monsters Dwell",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "team-thor-2016-special",
+      "title": "Team Thor",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-video-comics-a-k-a-marvel-ultimate-comics-2016-series",
+      "title": "Marvel Video Comics a.k.a. Marvel Ultimate Comics",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "tbt-to-that-time-archer-met-kingsman-2017-special",
+      "title": "#TBT to That Time Archer Met Kingsman",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "baymax-returns-2017-movie",
+      "title": "Baymax Returns",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "inhumans-2017-movie",
+      "title": "Inhumans",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "inhumans-2017-series",
+      "title": "Inhumans",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "big-hero-6-the-series-2017-series",
+      "title": "Big Hero 6: The Series",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "iron-fist-2017-series",
+      "title": "Iron Fist",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "guardians-of-the-galaxy-vol-2-2017-movie",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "legion-2017-series",
+      "title": "Legion",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-future-avengers-2017-series",
+      "title": "Marvel Future Avengers",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-super-hero-adventures-2017-series",
+      "title": "Marvel Super Hero Adventures",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat-2017-special",
+      "title": "Lego Marvel Super Heroes - Guardians of the Galaxy: The Thanos Threat",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-super-heroes-4d-sentosa-2017-special",
+      "title": "Marvel Super Heroes 4D (Sentosa)",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-s-ant-man-2017-series",
+      "title": "Marvel's Ant-Man",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-s-spider-man-2017-series",
+      "title": "Marvel's Spider-Man",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "no-good-deed-2017-special",
+      "title": "No Good Deed",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "runaways-2017-series",
+      "title": "Runaways",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-s-rocket-groot-2017-series",
+      "title": "Marvel's Rocket & Groot",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-defenders-2017-series",
+      "title": "The Defenders",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-gifted-2017-series",
+      "title": "The Gifted",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "team-thor-part-2-2017-special",
+      "title": "Team Thor: Part 2",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "baymax-and-2018-series",
+      "title": "Baymax And",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "thor-ragnarok-2017-movie",
+      "title": "Thor: Ragnarok",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "baymax-dreams-2018-series",
+      "title": "Baymax Dreams",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "big-chibi-6-the-shorts-2018-series",
+      "title": "Big Chibi 6 The Shorts",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "cloak-dagger-2018-series",
+      "title": "Cloak & Dagger",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda-2018-special",
+      "title": "Lego Marvel Super Heroes - Black Panther: Trouble in Wakanda",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-rising-initiation-2018-series",
+      "title": "Marvel Rising: Initiation",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "team-darryl-2018-special",
+      "title": "Team Darryl",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-rising-secret-warriors-2018-movie",
+      "title": "Marvel Rising: Secret Warriors",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "dark-phoenix-2019-movie",
+      "title": "Dark Phoenix",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "baymax-mochi-2019-series",
+      "title": "Baymax & Mochi",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "lego-marvel-spider-man-vexed-by-venom-2019-special",
+      "title": "Lego Marvel Spider-Man: Vexed by Venom",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-rising-battle-of-the-bands-2019-special",
+      "title": "Marvel Rising: Battle of the Bands",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-rising-heart-of-iron-2019-special",
+      "title": "Marvel Rising: Heart of Iron",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-rising-chasing-ghosts-2019-special",
+      "title": "Marvel Rising: Chasing Ghosts",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-rising-operation-shuri-2019-special",
+      "title": "Marvel Rising: Operation Shuri",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-rising-playing-with-fire-2019-special",
+      "title": "Marvel Rising: Playing with Fire",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-studios-expanding-the-universe-2019-series",
+      "title": "Marvel Studios: Expanding the Universe",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-s-hero-project-2019-series",
+      "title": "Marvel's Hero Project",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "peter-s-to-do-list-2019-special",
+      "title": "Peter's To-Do List",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "men-in-black-international-2019-movie",
+      "title": "Men in Black: International",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "spider-ham-caught-in-a-ham-2019-special",
+      "title": "Spider-Ham: Caught in a Ham",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-daily-bugle-2019-series",
+      "title": "The Daily Bugle",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "helstrom-2020-series",
+      "title": "Helstrom",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-battleworld-2020-series",
+      "title": "Marvel Battleworld",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-new-mutants-2020-movie",
+      "title": "The New Mutants",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "lego-marvel-avengers-climate-conundrum-2020-series",
+      "title": "Lego Marvel Avengers: Climate Conundrum",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "eternals-2021-movie",
+      "title": "Eternals",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-s-616-2020-series",
+      "title": "Marvel's 616",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "deadpool-and-korg-react-2021-special",
+      "title": "Deadpool and Korg React",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "hawkeye-2021-series",
+      "title": "Hawkeye",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "hit-monkey-2021-series",
+      "title": "Hit-Monkey",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "loki-2021-series",
+      "title": "Loki",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "lego-marvel-avengers-loki-in-training-2021-special",
+      "title": "Lego Marvel Avengers: Loki in Training",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "m-o-d-o-k-2021-series",
+      "title": "M.O.D.O.K.",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-studios-assembled-2021-series",
+      "title": "Marvel Studios: Assembled",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "meet-spidey-and-his-amazing-friends-2021-series",
+      "title": "Meet Spidey and His Amazing Friends",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-studios-legends-2021-series",
+      "title": "Marvel Studios: Legends",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "shang-chi-and-the-legend-of-the-ten-rings-2021-movie",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "spidey-and-his-amazing-friends-2021-series",
+      "title": "Spidey and His Amazing Friends",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "super-crooks-2021-series",
+      "title": "Super Crooks",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-falcon-and-the-winter-soldier-2021-series",
+      "title": "The Falcon and the Winter Soldier",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "wandavision-2021-series",
+      "title": "WandaVision",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "baymax-2022-series",
+      "title": "Baymax!",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "doctor-strange-in-the-multiverse-of-madness-2022-movie",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "what-if-2021-series",
+      "title": "What If...?",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "i-am-groot-2022-series",
+      "title": "I Am Groot",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "moon-knight-2022-series",
+      "title": "Moon Knight",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "lego-marvel-avengers-time-twisted-2022-special",
+      "title": "Lego Marvel Avengers: Time Twisted",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "ms-marvel-2022-series",
+      "title": "Ms. Marvel",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-guardians-of-the-galaxy-holiday-special-2022-special",
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "werewolf-by-night-2022-special",
+      "title": "Werewolf by Night",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "she-hulk-attorney-at-law-2022-series",
+      "title": "She-Hulk: Attorney at Law",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "thor-love-and-thunder-2022-movie",
+      "title": "Thor: Love and Thunder",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "moon-girl-and-devil-dinosaur-2023-series",
+      "title": "Moon Girl and Devil Dinosaur",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "lego-marvel-avengers-code-red-2023-special",
+      "title": "Lego Marvel Avengers: Code Red",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "mpower-2023-series",
+      "title": "MPower",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "guardians-of-the-galaxy-vol-3-2023-movie",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "secret-invasion-2023-series",
+      "title": "Secret Invasion",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-spider-within-a-spider-verse-story-2023-special",
+      "title": "The Spider Within: A Spider-Verse Story",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "agatha-all-along-2024-series",
+      "title": "Agatha All Along",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "voices-rising-the-music-of-wakanda-forever-2023-series",
+      "title": "Voices Rising: The Music of Wakanda Forever",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "echo-2024-series",
+      "title": "Echo",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "lego-marvel-avengers-mission-demolition-2024-special",
+      "title": "Lego Marvel Avengers: Mission Demolition",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "x-men-97-2024-series",
+      "title": "X-Men '97",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "eyes-of-wakanda-2025-series",
+      "title": "Eyes of Wakanda",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "iron-man-and-his-awesome-friends-2025-series",
+      "title": "Iron Man and His Awesome Friends",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "ironheart-2025-series",
+      "title": "Ironheart",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "marvel-zombies-2025-series",
+      "title": "Marvel Zombies",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "meet-iron-man-and-his-awesome-friends-2025-series",
+      "title": "Meet Iron Man and His Awesome Friends",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "lego-marvel-avengers-strange-tails-2025-series",
+      "title": "Lego Marvel Avengers: Strange Tails",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "spidey-and-iron-man-avengers-team-up-2025-special",
+      "title": "Spidey and Iron Man: Avengers Team-Up!",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "your-friendly-neighborhood-spider-man-2025-series",
+      "title": "Your Friendly Neighborhood Spider-Man",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "the-fantastic-four-first-steps-2025-movie",
+      "title": "The Fantastic Four: First Steps",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "spider-man-brand-new-day-2026-movie",
+      "title": "Spider-Man: Brand New Day",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "spidey-and-the-avengers-halloween-team-up-2026-special",
+      "title": "Spidey and the Avengers: Halloween Team-Up!",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
+    },
+    {
+      "id": "wonder-man-2026-series",
+      "title": "Wonder Man",
+      "reason": "No exact public title/type/year or known title ID match verified",
+      "source": "EgyBest"
     }
   ],
   "metadataLookupErrors": [
@@ -5175,6 +6364,655 @@
       "identitySource": "https://streamex.ws/watch-movie-the-punisher-one-last-kill-2026-4boe3l",
       "checkedAt": "2026-11-11",
       "verification": "Exact Streamex title/type/year and consistent TMDB ID across multiple embedded-provider references; documented public Flaxfer title route; playback untested"
+    },
+    {
+      "id": "blade-1998-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2323/hd-mtrgm-blade-1998-fylm",
+      "matchedTitle": "Blade",
+      "releaseYear": 1998,
+      "localId": 2323,
+      "tmdbId": 36647,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "blade-ii-2002-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2322/hd-mtrgm-blade-2-2002-fylm",
+      "matchedTitle": "Blade II",
+      "releaseYear": 2002,
+      "localId": 2322,
+      "tmdbId": 36586,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "spider-man-2002-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1782/hd-mtrgm-spider-man-2002-fylm",
+      "matchedTitle": "Spider-Man",
+      "releaseYear": 2002,
+      "localId": 1782,
+      "tmdbId": 557,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "hulk-2003-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/3716/hd-mtrgm-the-hulk-2003-fylm",
+      "matchedTitle": "Hulk",
+      "releaseYear": 2003,
+      "localId": 3716,
+      "tmdbId": 1927,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "blade-trinity-2004-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2321/hd-mtrgm-blade-trinity-3-2004-fylm",
+      "matchedTitle": "Blade: Trinity",
+      "releaseYear": 2004,
+      "localId": 2321,
+      "tmdbId": 36648,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "spider-man-2-2004-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1781/hd-mtrgm-spider-man-2-2004-fylm",
+      "matchedTitle": "Spider-Man 2",
+      "releaseYear": 2004,
+      "localId": 1781,
+      "tmdbId": 558,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "the-punisher-2004-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/5621/hd-mtrgm-the-punisher-2004-fylm",
+      "matchedTitle": "The Punisher",
+      "releaseYear": 2004,
+      "localId": 5621,
+      "tmdbId": 7220,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "fantastic-four-2005-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/3678/hd-mtrgm-fantastic-four-2005-fylm",
+      "matchedTitle": "Fantastic Four",
+      "releaseYear": 2005,
+      "localId": 3678,
+      "tmdbId": 9738,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "spider-man-3-2007-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1780/hd-mtrgm-spider-man-3-2007-fylm",
+      "matchedTitle": "Spider-Man 3",
+      "releaseYear": 2007,
+      "localId": 1780,
+      "tmdbId": 559,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "punisher-war-zone-2008-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/3914/hd-mtrgm-punisher-war-zone-2008-fylm",
+      "matchedTitle": "Punisher: War Zone",
+      "releaseYear": 2008,
+      "localId": 3914,
+      "tmdbId": 13056,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "the-incredible-hulk-2008-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/3717/hd-mtrgm-the-incredible-hulk-2008-fylm",
+      "matchedTitle": "The Incredible Hulk",
+      "releaseYear": 2008,
+      "localId": 3717,
+      "tmdbId": 1724,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "x-men-origins-wolverine-2009-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2218/hd-mtrgm-x-men-origins-wolverine-2009-fylm",
+      "matchedTitle": "X-Men Origins: Wolverine",
+      "releaseYear": 2009,
+      "localId": 2218,
+      "tmdbId": 2080,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "captain-america-the-first-avenger-2011-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1027/hd-mtrgm-captain-america-the-first-avenger-2011-fylm",
+      "matchedTitle": "Captain America: The First Avenger",
+      "releaseYear": 2011,
+      "localId": 1027,
+      "tmdbId": 1771,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "the-amazing-spider-man-2012-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1776/hd-mtrgm-the-amazing-spider-man-2012-fylm",
+      "matchedTitle": "The Amazing Spider-Man",
+      "releaseYear": 2012,
+      "localId": 1776,
+      "tmdbId": 1930,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "the-avengers-2012-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2195/hd-mtrgm-the-avengers-2012-fylm",
+      "matchedTitle": "The Avengers",
+      "releaseYear": 2012,
+      "localId": 2195,
+      "tmdbId": 24428,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "the-wolverine-2013-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1916/hd-mtrgm-the-wolverine-2013-fylm",
+      "matchedTitle": "The Wolverine",
+      "releaseYear": 2013,
+      "localId": 1916,
+      "tmdbId": 76170,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "captain-america-the-winter-soldier-2014-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/3719/hd-mtrgm-captain-america-2-the-winter-soldier-2014-fylm",
+      "matchedTitle": "Captain America: The Winter Soldier",
+      "releaseYear": 2014,
+      "localId": 3719,
+      "tmdbId": 100402,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "kingsman-the-secret-service-2014-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2834/hd-mtrgm-kingsman-the-secret-service-2015-fylm",
+      "matchedTitle": "Kingsman: The Secret Service",
+      "releaseYear": 2015,
+      "localId": 2834,
+      "tmdbId": 207703,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "the-amazing-spider-man-2-2014-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1775/hd-mtrgm-the-amazing-spider-man-2-2014-fylm",
+      "matchedTitle": "The Amazing Spider-Man 2",
+      "releaseYear": 2014,
+      "localId": 1775,
+      "tmdbId": 102382,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "ant-man-2015-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2083/hd-mtrgm-ant-man-2015-fylm",
+      "matchedTitle": "Ant-Man",
+      "releaseYear": 2015,
+      "localId": 2083,
+      "tmdbId": 102899,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "daredevil-2015-series",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2011/hd-mtrgm-daredevil-2015-mslsl",
+      "matchedTitle": "Marvel's Daredevil",
+      "releaseYear": 2015,
+      "localId": 2011,
+      "tmdbId": 61889,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "avengers-age-of-ultron-2015-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2194/hd-mtrgm-avengers-2-age-of-ultron-2015-fylm",
+      "matchedTitle": "Avengers: Age of Ultron",
+      "releaseYear": 2015,
+      "localId": 2194,
+      "tmdbId": 99861,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "fantastic-four-2015-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/3677/hd-mtrgm-fantastic-four-2015-fylm",
+      "matchedTitle": "Fantastic Four",
+      "releaseYear": 2015,
+      "localId": 3677,
+      "tmdbId": 166424,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "deadpool-2016-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/596/hd-mtrgm-deadpool-2016-fylm",
+      "matchedTitle": "Deadpool",
+      "releaseYear": 2016,
+      "localId": 596,
+      "tmdbId": 293660,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "captain-america-civil-war-2016-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/3718/hd-mtrgm-captain-america-3-civil-war-2016-fylm",
+      "matchedTitle": "Captain America: Civil War",
+      "releaseYear": 2016,
+      "localId": 3718,
+      "tmdbId": 271110,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "x-men-apocalypse-2016-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/3336/hd-mtrgm-x-men-apocalypse-2016-fylm",
+      "matchedTitle": "X-Men: Apocalypse",
+      "releaseYear": 2016,
+      "localId": 3336,
+      "tmdbId": 246655,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "kingsman-the-golden-circle-2017-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2833/hd-mtrgm-kingsman-the-golden-circle-2-2017-fylm",
+      "matchedTitle": "Kingsman: The Golden Circle",
+      "releaseYear": 2017,
+      "localId": 2833,
+      "tmdbId": 343668,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "logan-2017-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/616/hd-mtrgm-logan-2017-fylm",
+      "matchedTitle": "Logan",
+      "releaseYear": 2017,
+      "localId": 616,
+      "tmdbId": 263115,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "spider-man-homecoming-2017-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1779/hd-mtrgm-spider-man-homecoming-2017-fylm",
+      "matchedTitle": "Spider-Man: Homecoming",
+      "releaseYear": 2017,
+      "localId": 1779,
+      "tmdbId": 315635,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "the-punisher-2017-series",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1349/hd-mtrgm-the-punisher-2017-mslsl",
+      "matchedTitle": "Marvel's The Punisher",
+      "releaseYear": 2017,
+      "localId": 1349,
+      "tmdbId": 67178,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "ant-man-and-the-wasp-2018-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2082/hd-mtrgm-ant-man-and-the-wasp-2018-fylm",
+      "matchedTitle": "Ant-Man and the Wasp",
+      "releaseYear": 2018,
+      "localId": 2082,
+      "tmdbId": 363088,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "avengers-infinity-war-2018-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2193/hd-mtrgm-avengers-3-infinity-war-2018-fylm",
+      "matchedTitle": "Avengers: Infinity War",
+      "releaseYear": 2018,
+      "localId": 2193,
+      "tmdbId": 299536,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "black-panther-2018-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2494/hd-mtrgm-black-panther-2018-fylm",
+      "matchedTitle": "Black Panther",
+      "releaseYear": 2018,
+      "localId": 2494,
+      "tmdbId": 284054,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "deadpool-2-2018-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/597/hd-mtrgm-deadpool-2-2018-fylm",
+      "matchedTitle": "Deadpool 2",
+      "releaseYear": 2018,
+      "localId": 597,
+      "tmdbId": 383498,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "spider-man-into-the-spider-verse-2018-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/5359/hd-mtrgm-spider-man-into-the-spider-verse-2018-fylm",
+      "matchedTitle": "Spider-Man: Into the Spider-Verse - سبايدرمان  في بُعد العنكبوت",
+      "releaseYear": 2018,
+      "localId": 5359,
+      "tmdbId": 324857,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "venom-2018-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1/hd-mtrgm-venom-2018-fylm",
+      "matchedTitle": "Venom",
+      "releaseYear": 2018,
+      "localId": 1,
+      "tmdbId": 335983,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "avengers-endgame-2019-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2192/hd-mtrgm-avengers-4-endgame-2019-fylm",
+      "matchedTitle": "Avengers: Endgame",
+      "releaseYear": 2019,
+      "localId": 2192,
+      "tmdbId": 299534,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "captain-marvel-2019-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2266/hd-mtrgm-captain-marvel-2019-fylm",
+      "matchedTitle": "Captain Marvel",
+      "releaseYear": 2019,
+      "localId": 2266,
+      "tmdbId": 299537,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "spider-man-far-from-home-2019-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1778/hd-mtrgm-spider-man-2-far-from-home-2019-fylm",
+      "matchedTitle": "Spider-Man: Far From Home",
+      "releaseYear": 2019,
+      "localId": 1778,
+      "tmdbId": 429617,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "black-widow-2021-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1940/hd-mtrgm-black-widow-2021-fylm",
+      "matchedTitle": "Black Widow",
+      "releaseYear": 2021,
+      "localId": 1940,
+      "tmdbId": 497698,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "spider-man-no-way-home-2021-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1777/hd-mtrgm-spider-man-3-no-way-home-2021-fylm",
+      "matchedTitle": "Spider-Man: No Way Home",
+      "releaseYear": 2021,
+      "localId": 1777,
+      "tmdbId": 634649,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "the-king-s-man-2021-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2832/hd-mtrgm-the-kings-man-3-2021-fylm",
+      "matchedTitle": "The King's Man",
+      "releaseYear": 2021,
+      "localId": 2832,
+      "tmdbId": 476669,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "venom-let-there-be-carnage-2021-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1392/hd-mtrgm-venom-2-let-there-be-carnage-fylm",
+      "matchedTitle": "Venom: Let There Be Carnage",
+      "releaseYear": 2021,
+      "localId": 1392,
+      "tmdbId": 580489,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "black-panther-wakanda-forever-2022-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2493/hd-mtrgm-black-panther-wakanda-forever-2022-fylm",
+      "matchedTitle": "Black Panther: Wakanda Forever",
+      "releaseYear": 2022,
+      "localId": 2493,
+      "tmdbId": 505642,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "morbius-2022-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1406/hd-mtrgm-morbius-2022-fylm",
+      "matchedTitle": "Morbius",
+      "releaseYear": 2022,
+      "localId": 1406,
+      "tmdbId": 526896,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "ant-man-and-the-wasp-quantumania-2023-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2081/hd-mtrgm-ant-man-and-the-wasp-quantumania-2023-fylm",
+      "matchedTitle": "Ant-Man and the Wasp: Quantumania",
+      "releaseYear": 2023,
+      "localId": 2081,
+      "tmdbId": 640146,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "the-marvels-2023-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2265/hd-mtrgm-the-marvels-2023-fylm",
+      "matchedTitle": "The Marvels",
+      "releaseYear": 2023,
+      "localId": 2265,
+      "tmdbId": 609681,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "spider-man-across-the-spider-verse-2023-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/5358/hd-mtrgm-spider-man-2-across-the-spider-verse-2023-fylm",
+      "matchedTitle": "Spider-Man: Across the Spider-Verse - سبايدرمان: عبر عالم العنكبوت",
+      "releaseYear": 2023,
+      "localId": 5358,
+      "tmdbId": 569094,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "argylle-2024-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1094/hd-mtrgm-argylle-2024-fylm",
+      "matchedTitle": "Argylle",
+      "releaseYear": 2024,
+      "localId": 1094,
+      "tmdbId": 848538,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "deadpool-wolverine-2024-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2007/hd-mtrgm-deadpool-and-wolverine-2024-fylm",
+      "matchedTitle": "Deadpool & Wolverine",
+      "releaseYear": 2024,
+      "localId": 2007,
+      "tmdbId": 533535,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "kraven-the-hunter-2024-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2746/hd-mtrgm-kraven-the-hunter-2024-fylm",
+      "matchedTitle": "Kraven the Hunter",
+      "releaseYear": 2024,
+      "localId": 2746,
+      "tmdbId": 539972,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "madame-web-2024-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/1252/hd-mtrgm-madame-web-2024-fylm",
+      "matchedTitle": "Madame Web",
+      "releaseYear": 2024,
+      "localId": 1252,
+      "tmdbId": 634492,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "venom-the-last-dance-2024-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2928/hd-mtrgm-venom-the-last-dance-2024-fylm",
+      "matchedTitle": "Venom The Last Dance",
+      "releaseYear": 2024,
+      "localId": 2928,
+      "tmdbId": 912649,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "captain-america-brave-new-world-2025-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/3037/hd-mtrgm-captain-america-4-brave-new-world-2025-fylm",
+      "matchedTitle": "Captain America: Brave New World",
+      "releaseYear": 2025,
+      "localId": 3037,
+      "tmdbId": 822119,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "daredevil-born-again-2025-series",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/2909/hd-mtrgm-daredevil-born-again-2025-mslsl",
+      "matchedTitle": "Daredevil: Born Again",
+      "releaseYear": 2025,
+      "localId": 2909,
+      "tmdbId": 202555,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "thunderbolts-2025-movie",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/3087/hd-mtrgm-thunderbolts-2025-fylm",
+      "matchedTitle": "Thunderbolts*",
+      "releaseYear": 2025,
+      "localId": 3087,
+      "tmdbId": 986056,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "spider-noir-2026-series",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/4634/hd-mtrgm-spider-noir-2026-mslsl",
+      "matchedTitle": "Spider-Noir",
+      "releaseYear": 2026,
+      "localId": 4634,
+      "tmdbId": 220102,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "the-punisher-one-last-kill-2026-special",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/4434/hd-mtrgm-the-punisher-one-last-kill-2026-fylm",
+      "matchedTitle": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+      "releaseYear": 2026,
+      "localId": 4434,
+      "tmdbId": 1439930,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact previously matched title identifier, media type and public page listing; playback untested"
+    },
+    {
+      "id": "visionquest-2026-series",
+      "source": "EgyBest",
+      "url": "https://www.egybest.co.in/titles/5574/hd-mtrgm-visionquest-2026-mslsl",
+      "matchedTitle": "VisionQuest",
+      "releaseYear": 2026,
+      "localId": 5574,
+      "tmdbId": 213375,
+      "checkedAt": "2026-11-11",
+      "verification": "Exact title, release year, media type and public page listing; playback untested"
     }
   ],
   "upcoming": [
@@ -5193,5 +7031,6 @@
       "title": "Avengers: Secret Wars",
       "reason": "Upcoming: no watch sources added"
     }
-  ]
+  ],
+  "totalOptions": 489
 }

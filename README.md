@@ -28,7 +28,9 @@ Series appear once at their initial storyline, so later seasons can span subsequ
 
 ## Add watch links
 
-Each release now displays separate named source buttons. The current source inventory is 104 MovizLand, 158 Flaxfer and 168 Streamex options: 430 options across 197 projects, with multiple options for 145 projects. `source-audit.json` records the new source matching and unresolved lookups. Every provider is optional; a missing match is not replaced by a fabricated link. Upcoming projects receive no watch options.
+Each release displays separate named source buttons. The current source inventory is 104 MovizLand, 158 Flaxfer, 168 Streamex and 59 EgyBest options: 489 options across 197 projects, with multiple options for 145 projects. `source-audit.json` records source matching and unresolved lookups. Every provider is optional; a missing match is not replaced by a fabricated link. Upcoming projects receive no watch options.
+
+EgyBest was checked against all 260 catalog records on November 11, 2026. Public title pages were verified by original title, media type and release year, or an exact previously verified TMDB title identifier. Movie pages needed a listed video; series pages needed season or episode information. 59 matches were added, 198 released titles remained unmatched, and 3 upcoming films were skipped. Four lookup errors (403/404) are recorded in `egybest-audit.json`; no access challenge was bypassed. Existing options from all other providers and the owner's original Blade URL are unchanged. Playback was not tested.
 
 `watchSources` is an array of `{ source, url, checkedAt, verification }` objects. Add or update provider links there. The original `url` remains compatible with previously supplied links and is merged without duplicate URLs. Visible provider buttons open the selected website in the same tab; the card itself no longer forces one provider. Names and accessible labels distinguish the choices, and no nested anchors are used.
 
