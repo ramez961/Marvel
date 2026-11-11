@@ -37,6 +37,8 @@ Dates accept `YYYY-MM-DD` or `YYYY`. The timeline groups by year and sorts exact
 
 ## Coverage and sources
 
+Owner-provided official MCU story-order reference: https://www.marvel.com/articles/movies/mcu-timeline-order-disney-plus. The page links to it. The article returned HTTP 403 during verification, so its exact current sequence has not been imported. The local catalog currently remains in release order. Fox, Sony and other continuities are retained in the broader collection.
+
 Initial catalog: 310 entries, from the 1944 Captain America serial through releases known as of November 11, 2026. Includes MCU, Fox, Sony, older live-action films, TV movies, animation, web series, shorts, motion comics, documentaries and Marvel imprints such as Men in Black and Kingsman. Series are listed once at their initial premiere; seasons and episodes are not separate entries. Upcoming, canceled and unaired productions are excluded from the released timeline. Alternate edits and reissues generally share their original title's entry.
 
 This is a broad initial catalog, not a claim that every regional compilation or promotional video is verified. Older entries retain year precision where a day has not been verified. Movie dates generally use US theatrical release; series dates use their original premiere. Correct or expand entries as needed.
