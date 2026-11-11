@@ -1,6 +1,6 @@
 # Marvel release and story timelines
 
-A responsive, buildless Marvel screen catalog with a single branching timeline and a Release order / Story order switch.
+A Marvel catch-up watch guide, starting with Blade (1998), with a single branching timeline and a Release order / Story order switch. Earlier releases are outside this guide.
 
 ## Open
 
@@ -8,9 +8,9 @@ Open `index.html`, or run `npm start` and visit http://127.0.0.1:4173. No depend
 
 ## Release order
 
-Starts with the original Captain America theatrical serial (February 5, 1944). Released projects progress by their original release dates. Announced upcoming projects follow with Scheduled and Coming soon labels. The November 11, 2026 catalog includes Avengers: Doomsday (December 18, 2026), Spider-Man: Beyond the Spider-Verse (June 18, 2027), and Avengers: Secret Wars (December 17, 2027).
+Starts with Blade (August 21, 1998). All projects released before that cutoff are removed from the catalog. Released projects progress by their original release dates. Announced upcoming projects follow with Scheduled and Coming soon labels. The November 11, 2026 catalog includes Avengers: Doomsday (December 18, 2026), Spider-Man: Beyond the Spider-Verse (June 18, 2027), and Avengers: Secret Wars (December 17, 2027).
 
-The catalog contains 313 records: 240 have exact release dates and 73 retain year precision. Within a year, entries with no verified day follow dated released projects; their ordering is not a verified day-by-day sequence. Upcoming projects remain after released entries. Series occupy one entry at their first premiere; this is not a season-by-season release catalog. Alternate edits, regional reissues and some promotional compilations share their original title's entry.
+The catalog contains 260 records: 197 have exact release dates and 63 retain year precision. Within a year, entries with no verified day follow dated released projects; their ordering is not a verified day-by-day sequence. Upcoming projects remain after released entries. Series occupy one entry at their first premiere; this is not a season-by-season release catalog. Alternate edits, regional reissues and some promotional compilations share their original title's entry.
 
 ## Story order
 
@@ -32,7 +32,7 @@ Find a title in `catalog.js` and replace its empty `url` with the desired HTTP/H
 
 ## Maintain the catalog
 
-Add records to `catalog.js` with a unique `id`, `title`, `date` (`YYYY-MM-DD` or `YYYY`), `type` (`movie`, `series`, `special`), `collection`, `collections`, `studios`, `animated`, `url` and `source`. Set `status: "upcoming"` for announced future releases; remove the status after release. Add separate story metadata only when supported. The application does not derive fictional dates from release dates.
+Keep new records within the guide’s release scope (Blade, August 21, 1998 onward). The cutoff applies to publication dates, not fictional settings: The First Avenger (2011) still belongs in Story order’s wartime opening. Add records to `catalog.js` with a unique `id`, `title`, `date` (`YYYY-MM-DD` or `YYYY`), `type` (`movie`, `series`, `special`), `collection`, `collections`, `studios`, `animated`, `url` and `source`. Set `status: "upcoming"` for announced future releases; remove the status after release. Add separate story metadata only when supported. The application does not derive fictional dates from release dates.
 
 The page does not fetch new releases automatically. Request a catalog refresh or supply new links to update it. No recurring automation has been set up.
 

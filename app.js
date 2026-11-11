@@ -28,15 +28,13 @@
     node.append(element('span', 'release-number', storyNumber === undefined ? numbers.get(entry.id) : String(storyNumber).padStart(2, '0')));
     const main = element('div', 'release-main');
     const meta = element('div', 'release-meta');
-    const isOriginalSerial = entry.id === 'captain-america-1944-special';
-    meta.append(element('span', `kind ${entry.type}`, isOriginalSerial ? 'Theatrical serial' : {movie:'Movie',series:'Series',special:'Special / short'}[entry.type]));
+    meta.append(element('span', `kind ${entry.type}`, {movie:'Movie',series:'Series',special:'Special / short'}[entry.type]));
     const releaseLabel = upcoming(entry) ? 'Scheduled' : entry.type === 'series' ? 'Premiered' : 'Released';
     const releaseDate = entry.date.length === 4 ? entry.date : dateFormat.format(new Date(entry.date + 'T00:00:00Z'));
     const time = element('time', '', `${releaseLabel} ${releaseDate}`);
     time.dateTime = entry.date; meta.append(time);
     meta.append(element('span', 'phase', storySetting?.continuity || {mcu:'MCU',fox:'Fox',sony:'Sony',animation:'Animation',imprints:'Marvel imprints',other:'Classics & other',documentary:'Documentary'}[entry.collection]));
-    const displayTitle = isOriginalSerial ? 'Captain America (1944 serial)' : entry.title;
-    main.append(meta, element('h3', '', displayTitle)); node.append(main);
+    main.append(meta, element('h3', '', entry.title)); node.append(main);
     if (storySetting) main.append(element('p', 'story-setting', `Story: ${storySetting.period}`));
     if (!storySetting && state.view === 'story' && storyOrder.nonLinear[entry.id]) main.append(element('p', 'story-setting', storyOrder.nonLinear[entry.id]));
     const status = element('span', 'release-status', upcoming(entry) ? 'Coming soon' : url ? 'Watch now' : 'Link coming soon');
