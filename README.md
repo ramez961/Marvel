@@ -28,7 +28,15 @@ Series appear once at their initial storyline, so later seasons can span subsequ
 
 ## Add watch links
 
-Each release displays separate named source buttons. The current source inventory is 104 MovizLand, 158 Flaxfer, 168 Streamex and 59 EgyBest options: 489 options across 197 projects, with multiple options for 145 projects. `source-audit.json` records source matching and unresolved lookups. Every provider is optional; a missing match is not replaced by a fabricated link. Upcoming projects receive no watch options.
+Each release displays separate named source buttons. The current source inventory is 104 MovizLand, 158 Flaxfer, 168 Streamex, 59 EgyBest, 87 Disney+ and 3 Netflix options: 579 options across 201 projects. `source-audit.json` records source matching and unresolved lookups. Every provider is optional; a missing match is not replaced by a fabricated link. Upcoming projects receive no watch options.
+
+Official service links were verified against Disney+ title metadata and Netflix's public catalog pages. No country was selected, so no user-country availability is promised. Netflix pages explicitly marked locally unavailable during verification were excluded. Disney+ and Netflix buttons explain that availability varies by country and subscription. `official-source-audit.json` records page identity, source evidence and exclusions. Adding a service link does not verify playback or require purchasing a subscription.
+
+## Artwork
+
+All 260 release cards have locally stored cover images under `assets/artwork/`: 212 use matched promotional artwork and 48 obscure shorts, web extras or other entries use individually designed typographic title covers. `artwork-audit.json` identifies the artwork kind, source page and original image URL for each record. A title-specific text fallback remains if an image cannot load. Posters load lazily with explicit dimensions, and the branching timeline and named source buttons are retained.
+
+The hero uses a wide Avengers: Infinity War ensemble image with a dark overlay for readable text. It is a broad MCU ensemble rather than a claim to depict every character introduced through 2026. Its source and provenance are recorded in `artwork-audit.json`. The previously removed hero description and start link stay removed.
 
 EgyBest was checked against all 260 catalog records on November 11, 2026. Public title pages were verified by original title, media type and release year, or an exact previously verified TMDB title identifier. Movie pages needed a listed video; series pages needed season or episode information. 59 matches were added, 198 released titles remained unmatched, and 3 upcoming films were skipped. Four lookup errors (403/404) are recorded in `egybest-audit.json`; no access challenge was bypassed. Existing options from all other providers and the owner's original Blade URL are unchanged. Playback was not tested.
 

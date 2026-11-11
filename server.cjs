@@ -2,7 +2,7 @@ const http = require('node:http');
 const fs = require('node:fs');
 const path = require('node:path');
 const root = __dirname;
-const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8' };
+const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp', '.svg': 'image/svg+xml' };
 const files = new Set(['index.html', 'styles.css', 'catalog.js', 'story-order.js', 'app.js']);
 const port = Number(process.env.PORT || 4173);
 http.createServer((request, response) => {
@@ -10,9 +10,10 @@ http.createServer((request, response) => {
   try { filename = decodeURIComponent(new URL(request.url, 'http://localhost').pathname).replace(/^\//, '') || 'index.html'; }
   catch { response.writeHead(400).end('Bad request'); return; }
   if (!['GET', 'HEAD'].includes(request.method)) { response.writeHead(405, { Allow: 'GET, HEAD' }).end(); return; }
-  if (!files.has(filename)) { response.writeHead(404).end('Not found'); return; }
+  const imageAsset = /^assets\/(?:artwork|hero)\/[a-z0-9][a-z0-9._-]*\.(?:jpe?g|png|webp|svg)$/i.test(filename);
+  if (!files.has(filename) && !imageAsset) { response.writeHead(404).end('Not found'); return; }
   fs.readFile(path.join(root, filename), (error, data) => {
-    if (error) { response.writeHead(500).end('Unable to read page'); return; }
+    if (error) { response.writeHead(error.code === 'ENOENT' ? 404 : 500).end('Unable to read page'); return; }
     response.writeHead(200, { 'Content-Type': types[path.extname(filename)], 'Cache-Control': 'no-cache' });
     response.end(request.method === 'HEAD' ? undefined : data);
   });

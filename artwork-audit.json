@@ -1,0 +1,2045 @@
+{
+  "checkedAt": "2026-11-11",
+  "promotional": 212,
+  "titleCovers": 48,
+  "hero": {
+    "image": "assets/hero/mcu-ensemble.jpg",
+    "source": "https://wall.alphacoders.com/big.php?i=913734",
+    "originalUrl": "https://images5.alphacoders.com/913/913734.jpg",
+    "description": "Avengers: Infinity War ensemble promotional artwork. Depicts a broad MCU ensemble, not every character introduced through 2026."
+  },
+  "artwork": [
+    {
+      "id": "blade-1998-movie",
+      "title": "Blade",
+      "src": "assets/artwork/blade-1998-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Blade",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/oWT70TvbsmQaqyphCZpsnQR7R32.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-man-unlimited-1999-series",
+      "title": "Spider-Man Unlimited",
+      "src": "assets/artwork/spider-man-unlimited-1999-series.jpg",
+      "source": "https://www.themoviedb.org/tv/10079-spider-man-unlimited",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/hNdf1WmFil9IV7rabBe6PnAmYnI.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-avengers-united-they-stand-1999-series",
+      "title": "The Avengers: United They Stand",
+      "src": "assets/artwork/the-avengers-united-they-stand-1999-series.jpg",
+      "source": "https://www.themoviedb.org/tv/1300-the-avengers-united-they-stand",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/oNd4XaBeBkOOJYKK5k76zz2Debg.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "x-men-2000-movie",
+      "title": "X-Men",
+      "src": "assets/artwork/x-men-2000-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/36657-x-men",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "x-men-evolution-2000-series",
+      "title": "X-Men: Evolution",
+      "src": "assets/artwork/x-men-evolution-2000-series.jpg",
+      "source": "https://www.themoviedb.org/tv/668-x-men-evolution",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "mutant-x-2001-series",
+      "title": "Mutant X",
+      "src": "assets/artwork/mutant-x-2001-series.jpg",
+      "source": "https://www.themoviedb.org/tv/1449-mutant-x",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/yiKg027jdpkSsguVBI9WqliNWez.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "blade-ii-2002-movie",
+      "title": "Blade II",
+      "src": "assets/artwork/blade-ii-2002-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/36586-blade-ii",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/wAn6VYamKbnOtfyTZ6arVtkMzDv.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "men-in-black-ii-2002-movie",
+      "title": "Men in Black II",
+      "src": "assets/artwork/men-in-black-ii-2002-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/608-men-in-black-ii",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/enA22EPyzc2WQ1VVyY7zxresQQr.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-man-2002-movie",
+      "title": "Spider-Man",
+      "src": "assets/artwork/spider-man-2002-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/557-spider-man",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/or6XJBVpcEbIkma0V9zshnbEtx4.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "daredevil-2003-movie",
+      "title": "Daredevil",
+      "src": "assets/artwork/daredevil-2003-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/9480-daredevil",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "hulk-2003-movie",
+      "title": "Hulk",
+      "src": "assets/artwork/hulk-2003-movie.jpg",
+      "source": "https://www.egybest.co.in/titles/3716/hd-mtrgm-the-hulk-2003-fylm",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/UllIft2jLSBaay3zQyMV4GNdfy.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-man-the-new-animated-series-2003-series",
+      "title": "Spider-Man: The New Animated Series",
+      "src": "assets/artwork/spider-man-the-new-animated-series-2003-series.jpg",
+      "source": "https://www.themoviedb.org/tv/1664-spider-man-the-new-animated-series",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/9g1YPyKtpB0aNlgVb0N8YASKLZN.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "x2-2003-movie",
+      "title": "X2",
+      "src": "assets/artwork/x2-2003-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/36658-x2",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/bst4alFUXCxISwdRUKSMhhkrX1M.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "blade-trinity-2004-movie",
+      "title": "Blade: Trinity",
+      "src": "assets/artwork/blade-trinity-2004-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Blade: Trinity",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/6f7iXvPOnf83MaLB1JmPzUor1rr.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-man-2-2004-movie",
+      "title": "Spider-Man 2",
+      "src": "assets/artwork/spider-man-2-2004-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/558-spider-man-2",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-punisher-2004-movie",
+      "title": "The Punisher",
+      "src": "assets/artwork/the-punisher-2004-movie.jpg",
+      "source": "https://www.egybest.co.in/search/The Punisher",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/7rmA1HwYp2GKM85BL0cVwCaosGr.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "elektra-2005-movie",
+      "title": "Elektra",
+      "src": "assets/artwork/elektra-2005-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/9947-elektra",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/Z4dAOxjAHTUZO6DJ2WVAsxzwe3.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "fantastic-four-2005-movie",
+      "title": "Fantastic Four",
+      "src": "assets/artwork/fantastic-four-2005-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/9738-fantastic-four",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "man-thing-2005-movie",
+      "title": "Man-Thing",
+      "src": "assets/artwork/man-thing-2005-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/18882-man-thing",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/kfPPnOygXSGaBFpsCUyu7xQdkoO.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "blade-house-of-chthon-2006-movie",
+      "title": "Blade: House of Chthon",
+      "src": "assets/artwork/blade-house-of-chthon-2006-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/32219-blade-house-of-chthon",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/l8T18FQKDoQQxb9gMDDqNLpimb8.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "blade-the-series-2006-series",
+      "title": "Blade: The Series",
+      "src": "assets/artwork/blade-the-series-2006-series.jpg",
+      "source": "https://www.themoviedb.org/tv/4619-blade-the-series",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/e3pnvrKkwgX3GKI0vzgQ0igFt0l.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "fantastic-four-world-s-greatest-heroes-2006-series",
+      "title": "Fantastic Four: World's Greatest Heroes",
+      "src": "assets/artwork/fantastic-four-world-s-greatest-heroes-2006-series.jpg",
+      "source": "https://www.themoviedb.org/tv/132-fantastic-four-world-s-greatest-heroes",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "ultimate-avengers-2006-movie",
+      "title": "Ultimate Avengers",
+      "src": "assets/artwork/ultimate-avengers-2006-movie.jpg",
+      "source": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ultimate-avengers-2006-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+      "originalUrl": "https://www.moviz.land/wp-content/uploads/2026/09/d49dc90a8-1.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "ultimate-avengers-2-2006-movie",
+      "title": "Ultimate Avengers 2",
+      "src": "assets/artwork/ultimate-avengers-2-2006-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/14611-ultimate-avengers-2",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/sMFyYZR9krqcQC99G6jnb10Zv4P.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "x-men-the-last-stand-2006-movie",
+      "title": "X-Men: The Last Stand",
+      "src": "assets/artwork/x-men-the-last-stand-2006-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/36668-x-men-the-last-stand",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "doctor-strange-the-sorcerer-supreme-2007-movie",
+      "title": "Doctor Strange: The Sorcerer Supreme",
+      "src": "assets/artwork/doctor-strange-the-sorcerer-supreme-2007-movie-keyart.jpg",
+      "source": "https://portiabridget.wordpress.com/2016/12/23/movie-review-doctor-strange-the-sorcerer-supreme-by-jay-oliva-frank-paur-patrick-archibald-dick-sebast-2007/",
+      "originalUrl": "https://www.gstatic.com/tv/thumb/movieposters/177514/p177514_p_v8_ab.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "fantastic-four-rise-of-the-silver-surfer-2007-movie",
+      "title": "Fantastic Four: Rise of the Silver Surfer",
+      "src": "assets/artwork/fantastic-four-rise-of-the-silver-surfer-2007-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/1979-fantastic-four-rise-of-the-silver-surfer",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/9wRfzTcMyyzkQxVDqBHv8RwuZOv.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "ghost-rider-2007-movie",
+      "title": "Ghost Rider",
+      "src": "assets/artwork/ghost-rider-2007-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/1250-ghost-rider",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/4quwR1VwZouD0YF9AaD72kQAjxH.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-man-3-2007-movie",
+      "title": "Spider-Man 3",
+      "src": "assets/artwork/spider-man-3-2007-movie.jpg",
+      "source": "https://www.egybest.co.in/titles/1780/hd-mtrgm-spider-man-3-2007-fylm",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-invincible-iron-man-2007-movie",
+      "title": "The Invincible Iron Man",
+      "src": "assets/artwork/the-invincible-iron-man-2007-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/13647-the-invincible-iron-man",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/eebNTSRa5Hh5skPKGdGJIJpo9Ls.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "iron-man-2008-movie",
+      "title": "Iron Man",
+      "src": "assets/artwork/iron-man-2008-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/1726-iron-man",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "next-avengers-heroes-of-tomorrow-2008-movie",
+      "title": "Next Avengers: Heroes of Tomorrow",
+      "src": "assets/artwork/next-avengers-heroes-of-tomorrow-2008-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/14613-next-avengers-heroes-of-tomorrow",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/1y4J9HZJoTIMdt77wCq80uXaQJ.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "punisher-war-zone-2008-movie",
+      "title": "Punisher: War Zone",
+      "src": "assets/artwork/punisher-war-zone-2008-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/13056-punisher-war-zone",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/oOvKJgYUIpfswGHAdW6159bPbvM.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-incredible-hulk-2008-movie",
+      "title": "The Incredible Hulk",
+      "src": "assets/artwork/the-incredible-hulk-2008-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/1724-the-incredible-hulk",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-spectacular-spider-man-2008-series",
+      "title": "The Spectacular Spider-Man",
+      "src": "assets/artwork/the-spectacular-spider-man-2008-series.jpg",
+      "source": "https://www.themoviedb.org/tv/3854-the-spectacular-spider-man",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "astonishing-x-men-gifted-2009-series",
+      "title": "Astonishing X-Men: Gifted",
+      "src": "assets/artwork/astonishing-x-men-gifted-2009-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "hulk-versus-2009-movie",
+      "title": "Hulk Versus",
+      "src": "assets/artwork/hulk-versus-2009-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/394355-hulk-vs",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/cjUNXJIXBHmKjpI0oH5MmEKgOTt.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "iron-man-armored-adventures-2009-series",
+      "title": "Iron Man: Armored Adventures",
+      "src": "assets/artwork/iron-man-armored-adventures-2009-series.jpg",
+      "source": "https://www.themoviedb.org/tv/7330-iron-man-armored-adventures",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/kIJGgBwh37V2nfgnJFaN7zDIjdv.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-superheroes-what-the-2009-series",
+      "title": "Marvel Superheroes: What the--?!",
+      "src": "assets/artwork/marvel-superheroes-what-the-2009-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "the-super-hero-squad-show-2009-series",
+      "title": "The Super Hero Squad Show",
+      "src": "assets/artwork/the-super-hero-squad-show-2009-series.jpg",
+      "source": "https://www.themoviedb.org/tv/21781-the-super-hero-squad-show",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/3CdaaPZdU1Xv2c6hDaSVWhsXtuO.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "wolverine-and-the-x-men-2009-series",
+      "title": "Wolverine and the X-Men",
+      "src": "assets/artwork/wolverine-and-the-x-men-2009-series.jpg",
+      "source": "https://www.themoviedb.org/tv/6549-wolverine-and-the-x-men",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/oSeJ2nESB77iC6SLo4qcqoadjdt.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "x-men-origins-wolverine-2009-movie",
+      "title": "X-Men Origins: Wolverine",
+      "src": "assets/artwork/x-men-origins-wolverine-2009-movie.jpg",
+      "source": "https://www.egybest.co.in/titles/2218/hd-mtrgm-x-men-origins-wolverine-2009-fylm",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "black-panther-2010-series",
+      "title": "Black Panther",
+      "src": "assets/artwork/black-panther-2010-series.jpg",
+      "source": "https://www.themoviedb.org/tv/19757-black-panther",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/op1gn2mK4ohZfhpKj92KEbwvc9C.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "iron-man-2-2010-movie",
+      "title": "Iron Man 2",
+      "src": "assets/artwork/iron-man-2-2010-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/10138-iron-man-2",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "iron-man-extremis-2010-series",
+      "title": "Iron Man: Extremis",
+      "src": "assets/artwork/iron-man-extremis-2010-series.jpg",
+      "source": "https://www.themoviedb.org/tv/77362-iron-man-extremis",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/w10ClxT6uqnyxJZiMAx2ty9GkWu.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "kick-ass-2010-movie",
+      "title": "Kick-Ass",
+      "src": "assets/artwork/kick-ass-2010-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/23483-kick-ass",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/iHMbrTHJwocsNvo5murCBw0CwTo.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-anime-blade-2010-series",
+      "title": "Marvel Anime: Blade",
+      "src": "assets/artwork/marvel-anime-blade-2010-series.jpg",
+      "source": "https://www.themoviedb.org/tv/62798",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/ql9YpFD8J1zeWzLMHHjp4nKKD4n.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-anime-iron-man-2010-series",
+      "title": "Marvel Anime: Iron Man",
+      "src": "assets/artwork/marvel-anime-iron-man-2010-series.jpg",
+      "source": "https://www.themoviedb.org/tv/45418",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/zOTJT7JbzSrMBX2OCGPqUnkQA4y.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-anime-wolverine-2010-series",
+      "title": "Marvel Anime: Wolverine",
+      "src": "assets/artwork/marvel-anime-wolverine-2010-series.jpg",
+      "source": "https://www.themoviedb.org/tv/38247",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/dy8w7wSioNAgAykP91hiSGVgxJJ.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-anime-x-men-2010-series",
+      "title": "Marvel Anime: X-Men",
+      "src": "assets/artwork/marvel-anime-x-men-2010-series.jpg",
+      "source": "https://www.themoviedb.org/tv/43146",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/j4MRuaMIpbq8jpXt864R9ebzzuS.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-super-heroes-4d-london-2010-special",
+      "title": "Marvel Super Heroes 4D (London)",
+      "src": "assets/artwork/marvel-super-heroes-4d-london-2010-special.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "planet-hulk-2010-movie",
+      "title": "Planet Hulk",
+      "src": "assets/artwork/planet-hulk-2010-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/30675-planet-hulk",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/5wCzY3sAs6zHIzzHIcTKN2g0pu8.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-avengers-earth-s-mightiest-heroes-2010-series",
+      "title": "The Avengers: Earth's Mightiest Heroes",
+      "src": "assets/artwork/the-avengers-earth-s-mightiest-heroes-2010-series.jpg",
+      "source": "https://www.themoviedb.org/tv/33623-the-avengers-earth-s-mightiest-heroes",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/r1JDhMrqCOZKh7lc0vQlRYQ46cE.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "a-funny-thing-happened-on-the-way-to-thor-s-hammer-2011-special",
+      "title": "A Funny Thing Happened on the Way to Thor's Hammer",
+      "src": "assets/artwork/a-funny-thing-happened-on-the-way-to-thor-s-hammer-2011-special.jpg",
+      "source": "https://www.themoviedb.org/movie/76535-marvel-one-shot-a-funny-thing-happened-on-the-way-to-thor-s-hammer",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/njrOqsmFH4pxBrhcoslqLfw2OGk.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "captain-america-the-first-avenger-2011-movie",
+      "title": "Captain America: The First Avenger",
+      "src": "assets/artwork/captain-america-the-first-avenger-2011-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Captain America: The First Avenger",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "ghost-rider-spirit-of-vengeance-2011-movie",
+      "title": "Ghost Rider: Spirit of Vengeance",
+      "src": "assets/artwork/ghost-rider-spirit-of-vengeance-2011-movie.jpg",
+      "source": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-ghost-rider-spirit-of-vengeance/",
+      "originalUrl": "https://www.moviz.land/wp-content/uploads/2026/08/NmWyG-3427.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-woman-agent-of-s-w-o-r-d-2011-series",
+      "title": "Spider-Woman: Agent of S.W.O.R.D.",
+      "src": "assets/artwork/spider-woman-agent-of-s-w-o-r-d-2011-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "the-consultant-2011-special",
+      "title": "The Consultant",
+      "src": "assets/artwork/the-consultant-2011-special.jpg",
+      "source": "https://www.themoviedb.org/movie/76122-marvel-one-shot-the-consultant",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/xqNLXUUvBnfVk6m3QFGGU0Grgs7.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "thor-2011-movie",
+      "title": "Thor",
+      "src": "assets/artwork/thor-2011-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/10195-thor",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "thor-loki-blood-brothers-2011-series",
+      "title": "Thor / Loki: Blood Brothers",
+      "src": "assets/artwork/thor-loki-blood-brothers-2011-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "thor-tales-of-asgard-2011-movie",
+      "title": "Thor: Tales of Asgard",
+      "src": "assets/artwork/thor-tales-of-asgard-2011-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/63686-thor-tales-of-asgard",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/nM2rBqEMrAFiNFHXKWOhUgdKK45.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "x-men-first-class-2011-movie",
+      "title": "X-Men: First Class",
+      "src": "assets/artwork/x-men-first-class-2011-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/49538-x-men-first-class",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "astonishing-x-men-dangerous-2012-series",
+      "title": "Astonishing X-Men: Dangerous",
+      "src": "assets/artwork/astonishing-x-men-dangerous-2012-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "astonishing-x-men-torn-2012-series",
+      "title": "Astonishing X-Men: Torn",
+      "src": "assets/artwork/astonishing-x-men-torn-2012-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "astonishing-x-men-unstoppable-2012-series",
+      "title": "Astonishing X-Men: Unstoppable",
+      "src": "assets/artwork/astonishing-x-men-unstoppable-2012-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "fury-files-2012-series",
+      "title": "Fury Files",
+      "src": "assets/artwork/fury-files-2012-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "item-47-2012-special",
+      "title": "Item 47",
+      "src": "assets/artwork/item-47-2012-special.webp",
+      "source": "https://www.disneyplus.com/browse/entity-2cd46937-17fe-4ada-8de4-0972f2763f1c",
+      "originalUrl": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b25fc-1daa-792b-8930-84f33bc5a9c0/compose?aspectRatio=1.78&format=webp&width=1200",
+      "kind": "landscape"
+    },
+    {
+      "id": "marvel-super-heroes-4d-new-york-2012-special",
+      "title": "Marvel Super Heroes 4D (New York)",
+      "src": "assets/artwork/marvel-super-heroes-4d-new-york-2012-special.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "marvel-all-winners-squad-2012-special",
+      "title": "Marvel: All Winners Squad",
+      "src": "assets/artwork/marvel-all-winners-squad-2012-special.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "men-in-black-3-2012-movie",
+      "title": "Men in Black 3",
+      "src": "assets/artwork/men-in-black-3-2012-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/41154-men-in-black-3",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/90DdoEStzeObs96fsYf4GG544iN.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-amazing-spider-man-2012-movie",
+      "title": "The Amazing Spider-Man",
+      "src": "assets/artwork/the-amazing-spider-man-2012-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/1930-the-amazing-spider-man",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-avengers-2012-movie",
+      "title": "The Avengers",
+      "src": "assets/artwork/the-avengers-2012-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/24428-the-avengers",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "ultimate-spider-man-2012-series",
+      "title": "Ultimate Spider-Man",
+      "src": "assets/artwork/ultimate-spider-man-2012-series.jpg",
+      "source": "https://www.themoviedb.org/tv/34391-marvel-s-ultimate-spider-man",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/jK3pc8XOQT8UgdvSjMFk8xLQOxE.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "agent-carter-2013-special",
+      "title": "Agent Carter",
+      "src": "assets/artwork/agent-carter-2013-special.jpg",
+      "source": "https://www.themoviedb.org/movie/211387-marvel-one-shot-agent-carter",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/4vFKKWPvCVDJTOWiwReBfpAMScP.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "agents-of-s-h-i-e-l-d-2013-series",
+      "title": "Agents of S.H.I.E.L.D.",
+      "src": "assets/artwork/agents-of-s-h-i-e-l-d-2013-series.webp",
+      "source": "https://streamex.ws/watch-tv-marvels-agents-of-shield-2013-cy1vd9",
+      "originalUrl": "https://streamex.ws/images/posters/series/marvel-s-agents-of-s-h-i-e-l-d-2013.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "avengers-assemble-2013-series",
+      "title": "Avengers Assemble",
+      "src": "assets/artwork/avengers-assemble-2013-series.jpg",
+      "source": "https://en.wikipedia.org/wiki/Avengers_Assemble_(TV_series)",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/6/63/Avengers_Assemble_TV_series.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled",
+      "kind": "poster"
+    },
+    {
+      "id": "hulk-and-the-agents-of-s-m-a-s-h-2013-series",
+      "title": "Hulk and the Agents of S.M.A.S.H.",
+      "src": "assets/artwork/hulk-and-the-agents-of-s-m-a-s-h-2013-series.jpg",
+      "source": "https://www.themoviedb.org/tv/40044-marvel-s-hulk-and-the-agents-of-s-m-a-s-h",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/gkGIiIIkHOeVXzwjBNFTRqTCnqF.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "inhumans-2013-series",
+      "title": "Inhumans",
+      "src": "assets/artwork/inhumans-2013-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "iron-man-hulk-heroes-united-2013-movie",
+      "title": "Iron Man & Hulk: Heroes United",
+      "src": "assets/artwork/iron-man-hulk-heroes-united-2013-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/230896-iron-man-hulk-heroes-united",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/xCBBQMPxXsqIlZUAbpeSo1SVj6R.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "iron-man-3-2013-movie",
+      "title": "Iron Man 3",
+      "src": "assets/artwork/iron-man-3-2013-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/68721-iron-man-3",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "iron-man-rise-of-technovore-2013-movie",
+      "title": "Iron Man: Rise of Technovore",
+      "src": "assets/artwork/iron-man-rise-of-technovore-2013-movie.webp",
+      "source": "https://streamex.ws/watch-movie-iron-man-rise-of-technovore-2013-i6l1zk",
+      "originalUrl": "https://streamex.ws/images/posters/movies/iron-man-rise-of-technovore-2013.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "kick-ass-2-2013-movie",
+      "title": "Kick-Ass 2",
+      "src": "assets/artwork/kick-ass-2-2013-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/59859-kick-ass-2",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/1go2A3gdQjaMuHWquybgoJlQRcX.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "lego-marvel-super-heroes-maximum-overload-2013-special",
+      "title": "Lego Marvel Super Heroes: Maximum Overload",
+      "src": "assets/artwork/lego-marvel-super-heroes-maximum-overload-2013-special.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "marvel-super-heroes-4d-bali-2013-special",
+      "title": "Marvel Super Heroes 4D (Bali)",
+      "src": "assets/artwork/marvel-super-heroes-4d-bali-2013-special.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "marvel-super-heroes-4d-las-vegas-2013-special",
+      "title": "Marvel Super Heroes 4D (Las Vegas)",
+      "src": "assets/artwork/marvel-super-heroes-4d-las-vegas-2013-special.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "phineas-and-ferb-mission-marvel-2013-special",
+      "title": "Phineas and Ferb: Mission Marvel",
+      "src": "assets/artwork/phineas-and-ferb-mission-marvel-2013-special.jpg",
+      "source": "https://www.themoviedb.org/movie/284019-phineas-and-ferb-mission-marvel",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/da2AREjdecPInHzWeZ550X1aYDU.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-wolverine-2013-movie",
+      "title": "The Wolverine",
+      "src": "assets/artwork/the-wolverine-2013-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Wolverine",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/xNi8daRmN4XY8rXHd4rwLbJf1cU.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "thor-the-dark-world-2013-movie",
+      "title": "Thor: The Dark World",
+      "src": "assets/artwork/thor-the-dark-world-2013-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/76338-thor-the-dark-world",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "ultimate-wolverine-vs-hulk-2013-series",
+      "title": "Ultimate Wolverine Vs. Hulk",
+      "src": "assets/artwork/ultimate-wolverine-vs-hulk-2013-series.jpg",
+      "source": "https://www.themoviedb.org/tv/65487-ultimate-wolverine-vs-hulk",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/iv1b9LHi54A5fHm5xoz3NPvO0kd.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "wolverine-origin-2013-series",
+      "title": "Wolverine: Origin",
+      "src": "assets/artwork/wolverine-origin-2013-series.jpg",
+      "source": "https://www.themoviedb.org/tv/274972-wolverine-origin",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/gTZUrlDHaxoGwuIqNdUb5QoFst9.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "all-hail-the-king-2014-special",
+      "title": "All Hail the King",
+      "src": "assets/artwork/all-hail-the-king-2014-special.webp",
+      "source": "https://streamex.ws/watch-movie-marvel-one-shot-all-hail-the-king-2014-1o6xne",
+      "originalUrl": "https://streamex.ws/images/posters/movies/marvel-one-shot-all-hail-the-king-2014.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "avengers-confidential-black-widow-punisher-2014-movie",
+      "title": "Avengers Confidential: Black Widow & Punisher",
+      "src": "assets/artwork/avengers-confidential-black-widow-punisher-2014-movie.webp",
+      "source": "https://streamex.ws/watch-movie-avengers-confidential-black-widow-punisher-2014-l40tvw",
+      "originalUrl": "https://streamex.ws/images/posters/movies/avengers-confidential-black-widow-punisher-2014.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "big-hero-6-2014-movie",
+      "title": "Big Hero 6",
+      "src": "assets/artwork/big-hero-6-2014-movie.webp",
+      "source": "https://streamex.ws/watch-movie-big-hero-6-2014-q52eks",
+      "originalUrl": "https://streamex.ws/images/posters/movies/big-hero-6-2014.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "captain-america-the-winter-soldier-2014-movie",
+      "title": "Captain America: The Winter Soldier",
+      "src": "assets/artwork/captain-america-the-winter-soldier-2014-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/100402-captain-america-the-winter-soldier",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "eternals-2014-series",
+      "title": "Eternals",
+      "src": "assets/artwork/eternals-2014-series.jpg",
+      "source": "https://en.wikipedia.org/wiki/Eternals_(film)",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/9/9b/Eternals_%28film%29_poster.jpeg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled",
+      "kind": "poster"
+    },
+    {
+      "id": "guardians-of-the-galaxy-2014-movie",
+      "title": "Guardians of the Galaxy",
+      "src": "assets/artwork/guardians-of-the-galaxy-2014-movie.webp",
+      "source": "https://streamex.ws/watch-movie-guardians-of-the-galaxy-2014-w3a6ce",
+      "originalUrl": "https://streamex.ws/images/posters/movies/guardians-of-the-galaxy-2014.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "iron-man-captain-america-heroes-united-2014-movie",
+      "title": "Iron Man & Captain America: Heroes United",
+      "src": "assets/artwork/iron-man-captain-america-heroes-united-2014-movie.webp",
+      "source": "https://streamex.ws/watch-movie-iron-man-captain-america-heroes-united-2014-6gj8kh",
+      "originalUrl": "https://streamex.ws/images/posters/movies/iron-man-captain-america-heroes-united-2014.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "kingsman-the-secret-service-2014-movie",
+      "title": "Kingsman: The Secret Service",
+      "src": "assets/artwork/kingsman-the-secret-service-2014-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Kingsman: The Secret Service",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-75-years-from-pulp-to-pop-2014-series",
+      "title": "Marvel 75 Years: From Pulp to Pop!",
+      "src": "assets/artwork/marvel-75-years-from-pulp-to-pop-2014-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "marvel-disk-wars-the-avengers-2014-series",
+      "title": "Marvel Disk Wars: The Avengers",
+      "src": "assets/artwork/marvel-disk-wars-the-avengers-2014-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "marvel-studios-assembling-a-universe-2014-series",
+      "title": "Marvel Studios: Assembling a Universe",
+      "src": "assets/artwork/marvel-studios-assembling-a-universe-2014-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "the-amazing-spider-man-2-2014-movie",
+      "title": "The Amazing Spider-Man 2",
+      "src": "assets/artwork/the-amazing-spider-man-2-2014-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/102382-the-amazing-spider-man-2",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "wolverine-versus-sabretooth-2014-series",
+      "title": "Wolverine Versus Sabretooth",
+      "src": "assets/artwork/wolverine-versus-sabretooth-2014-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "wolverine-weapon-x-tomorrow-dies-today-2014-series",
+      "title": "Wolverine: Weapon X: Tomorrow Dies Today",
+      "src": "assets/artwork/wolverine-weapon-x-tomorrow-dies-today-2014-series.jpg",
+      "source": "https://www.themoviedb.org/tv/130805-marvel-knights-wolverine-weapon-x-tomorrow-dies-today",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/p8c8NjgScKlGqQOqgZhWCw0bpYR.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "x-men-days-of-future-past-2014-movie",
+      "title": "X-Men: Days of Future Past",
+      "src": "assets/artwork/x-men-days-of-future-past-2014-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/127585-x-men-days-of-future-past",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "agent-carter-2015-series",
+      "title": "Agent Carter",
+      "src": "assets/artwork/agent-carter-2015-series.jpg",
+      "source": "https://www.themoviedb.org/tv/61550-marvel-s-agent-carter",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "ant-man-2015-movie",
+      "title": "Ant-Man",
+      "src": "assets/artwork/ant-man-2015-movie.jpg",
+      "source": "https://www.egybest.co.in/titles/2083/hd-mtrgm-ant-man-2015-fylm",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "avengers-age-of-ultron-2015-movie",
+      "title": "Avengers: Age of Ultron",
+      "src": "assets/artwork/avengers-age-of-ultron-2015-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Avengers: Age of Ultron",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/btWdEP8M172ceW8RH4SH2XFvEab.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "daredevil-2015-series",
+      "title": "Daredevil",
+      "src": "assets/artwork/daredevil-2015-series.jpg",
+      "source": "https://www.themoviedb.org/tv/61889-marvel-s-daredevil",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "fantastic-four-2015-movie",
+      "title": "Fantastic Four",
+      "src": "assets/artwork/fantastic-four-2015-movie.jpg",
+      "source": "https://www.egybest.co.in/titles/3677/hd-mtrgm-fantastic-four-2015-fylm",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "guardians-of-the-galaxy-2015-series",
+      "title": "Guardians of the Galaxy",
+      "src": "assets/artwork/guardians-of-the-galaxy-2015-series.webp",
+      "source": "https://streamex.ws/watch-tv-marvels-guardians-of-the-galaxy-2015-9tmdh7",
+      "originalUrl": "https://streamex.ws/images/posters/series/marvel-s-guardians-of-the-galaxy-2015.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "jessica-jones-2015-series",
+      "title": "Jessica Jones",
+      "src": "assets/artwork/jessica-jones-2015-series.jpg",
+      "source": "https://www.themoviedb.org/tv/38472-marvel-s-jessica-jones",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/oxnWofiE9fHOgUfs9NJa6nG6NTR.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "lego-marvel-super-heroes-avengers-reassembled-2015-special",
+      "title": "Lego Marvel Super Heroes: Avengers Reassembled",
+      "src": "assets/artwork/lego-marvel-super-heroes-avengers-reassembled-2015-special.jpg",
+      "source": "https://www.themoviedb.org/movie/368304-lego-marvel-super-heroes-avengers-reassembled",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/2PMcA3X5rhBuQbiavLQLDqkXYfi.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-super-hero-adventures-frost-fight-2015-movie",
+      "title": "Marvel Super Hero Adventures: Frost Fight!",
+      "src": "assets/artwork/marvel-super-hero-adventures-frost-fight-2015-movie.webp",
+      "source": "https://streamex.ws/watch-movie-marvel-super-hero-adventures-frost-fight-2015-pqlbaf",
+      "originalUrl": "https://streamex.ws/images/posters/movies/marvel-super-hero-adventures-frost-fight-2015.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "powers-2015-series",
+      "title": "Powers",
+      "src": "assets/artwork/powers-2015-series.jpg",
+      "source": "https://www.themoviedb.org/tv/42531-powers",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/7imMR8ySLCPG3LsNlGej8GGtXBg.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "whih-newsfront-2015-series",
+      "title": "WHIH Newsfront",
+      "src": "assets/artwork/whih-newsfront-2015-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "wolverine-versus-sabretooth-reborn-2015-series",
+      "title": "Wolverine Versus Sabretooth: Reborn",
+      "src": "assets/artwork/wolverine-versus-sabretooth-reborn-2015-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "agents-of-s-h-i-e-l-d-slingshot-2016-series",
+      "title": "Agents of S.H.I.E.L.D.: Slingshot",
+      "src": "assets/artwork/agents-of-s-h-i-e-l-d-slingshot-2016-series.jpg",
+      "source": "https://www.themoviedb.org/tv/69088-marvel-s-agents-of-s-h-i-e-l-d-slingshot",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/bwJej7WdmGRMCMyuDlotwAqVX7S.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "captain-america-civil-war-2016-movie",
+      "title": "Captain America: Civil War",
+      "src": "assets/artwork/captain-america-civil-war-2016-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/271110-captain-america-civil-war",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "deadpool-2016-movie",
+      "title": "Deadpool",
+      "src": "assets/artwork/deadpool-2016-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Deadpool",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "doctor-strange-2016-movie",
+      "title": "Doctor Strange",
+      "src": "assets/artwork/doctor-strange-2016-movie.webp",
+      "source": "https://streamex.ws/watch-movie-doctor-strange-2016-38ksjd",
+      "originalUrl": "https://streamex.ws/images/posters/movies/doctor-strange-2016.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "hulk-where-monsters-dwell-2016-movie",
+      "title": "Hulk: Where Monsters Dwell",
+      "src": "assets/artwork/hulk-where-monsters-dwell-2016-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/422153-hulk-where-monsters-dwell",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/udUnSnQKzYddDpU6WNdTMB5XVEE.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "luke-cage-2016-series",
+      "title": "Luke Cage",
+      "src": "assets/artwork/luke-cage-2016-series.webp",
+      "source": "https://streamex.ws/watch-tv-marvels-luke-cage-2016-89p4y0",
+      "originalUrl": "https://streamex.ws/images/posters/series/marvel-s-luke-cage-2016.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-funko-shorts-2016-series",
+      "title": "Marvel Funko Shorts",
+      "src": "assets/artwork/marvel-funko-shorts-2016-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "marvel-video-comics-a-k-a-marvel-ultimate-comics-2016-series",
+      "title": "Marvel Video Comics a.k.a. Marvel Ultimate Comics",
+      "src": "assets/artwork/marvel-video-comics-a-k-a-marvel-ultimate-comics-2016-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "team-thor-2016-special",
+      "title": "Team Thor",
+      "src": "assets/artwork/team-thor-2016-special.jpg",
+      "source": "https://www.themoviedb.org/movie/413279-team-thor",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/hpHvGuMc46pppwpcW0Xk7eys3L4.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "x-men-apocalypse-2016-movie",
+      "title": "X-Men: Apocalypse",
+      "src": "assets/artwork/x-men-apocalypse-2016-movie.jpg",
+      "source": "https://www.egybest.co.in/search/X Men",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "tbt-to-that-time-archer-met-kingsman-2017-special",
+      "title": "#TBT to That Time Archer Met Kingsman",
+      "src": "assets/artwork/tbt-to-that-time-archer-met-kingsman-2017-special.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "baymax-returns-2017-movie",
+      "title": "Baymax Returns",
+      "src": "assets/artwork/baymax-returns-2017-movie.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "big-hero-6-the-series-2017-series",
+      "title": "Big Hero 6: The Series",
+      "src": "assets/artwork/big-hero-6-the-series-2017-series.jpg",
+      "source": "https://www.themoviedb.org/tv/68665-big-hero-6-the-series",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/ldG4xXImCPyv5U5gbRmlB8On842.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "guardians-of-the-galaxy-vol-2-2017-movie",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "src": "assets/artwork/guardians-of-the-galaxy-vol-2-2017-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "inhumans-2017-movie",
+      "title": "Inhumans",
+      "src": "assets/artwork/inhumans-2017-movie.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "inhumans-2017-series",
+      "title": "Inhumans",
+      "src": "assets/artwork/inhumans-2017-series.webp",
+      "source": "https://streamex.ws/watch-tv-marvels-inhumans-2017-q087xh",
+      "originalUrl": "https://streamex.ws/images/posters/series/marvel-s-inhumans-2017.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "iron-fist-2017-series",
+      "title": "Iron Fist",
+      "src": "assets/artwork/iron-fist-2017-series.webp",
+      "source": "https://streamex.ws/watch-tv-marvels-iron-fist-2017-4ie3rb",
+      "originalUrl": "https://streamex.ws/images/posters/series/marvel-s-iron-fist-2017.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "kingsman-the-golden-circle-2017-movie",
+      "title": "Kingsman: The Golden Circle",
+      "src": "assets/artwork/kingsman-the-golden-circle-2017-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Kingsman: The Golden Circle",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "legion-2017-series",
+      "title": "Legion",
+      "src": "assets/artwork/legion-2017-series.webp",
+      "source": "https://streamex.ws/watch-tv-legion-2017-4nhf8r",
+      "originalUrl": "https://streamex.ws/images/posters/series/legion-2017.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat-2017-special",
+      "title": "Lego Marvel Super Heroes - Guardians of the Galaxy: The Thanos Threat",
+      "src": "assets/artwork/lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat-2017-special.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "logan-2017-movie",
+      "title": "Logan",
+      "src": "assets/artwork/logan-2017-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Logan",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-future-avengers-2017-series",
+      "title": "Marvel Future Avengers",
+      "src": "assets/artwork/marvel-future-avengers-2017-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "marvel-super-hero-adventures-2017-series",
+      "title": "Marvel Super Hero Adventures",
+      "src": "assets/artwork/marvel-super-hero-adventures-2017-series.webp",
+      "source": "https://streamex.ws/watch-tv-marvel-super-hero-adventures-2017-vxwm5u",
+      "originalUrl": "https://streamex.ws/images/posters/series/marvel-super-hero-adventures-2017.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-super-heroes-4d-sentosa-2017-special",
+      "title": "Marvel Super Heroes 4D (Sentosa)",
+      "src": "assets/artwork/marvel-super-heroes-4d-sentosa-2017-special.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "marvel-s-ant-man-2017-series",
+      "title": "Marvel's Ant-Man",
+      "src": "assets/artwork/marvel-s-ant-man-2017-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "marvel-s-rocket-groot-2017-series",
+      "title": "Marvel's Rocket & Groot",
+      "src": "assets/artwork/marvel-s-rocket-groot-2017-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "marvel-s-spider-man-2017-series",
+      "title": "Marvel's Spider-Man",
+      "src": "assets/artwork/marvel-s-spider-man-2017-series.jpg",
+      "source": "https://www.themoviedb.org/tv/72705-marvel-s-spider-man",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/dKdcyyHUR5WTMnrbPdYN5y9xPVp.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "no-good-deed-2017-special",
+      "title": "No Good Deed",
+      "src": "assets/artwork/no-good-deed-2017-special.jpg",
+      "source": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-no-good-deed/",
+      "originalUrl": "https://www.moviz.land/wp-content/uploads/2026/08/1Vkv3.jpeg",
+      "kind": "poster"
+    },
+    {
+      "id": "runaways-2017-series",
+      "title": "Runaways",
+      "src": "assets/artwork/runaways-2017-series.webp",
+      "source": "https://streamex.ws/watch-tv-marvels-runaways-2017-mp4b0y",
+      "originalUrl": "https://streamex.ws/images/posters/series/marvel-s-runaways-2017.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-man-homecoming-2017-movie",
+      "title": "Spider-Man: Homecoming",
+      "src": "assets/artwork/spider-man-homecoming-2017-movie.jpg",
+      "source": "https://www.egybest.co.in/titles/1779/hd-mtrgm-spider-man-homecoming-2017-fylm",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "team-thor-part-2-2017-special",
+      "title": "Team Thor: Part 2",
+      "src": "assets/artwork/team-thor-part-2-2017-special.jpg",
+      "source": "https://www.themoviedb.org/movie/441829-team-thor-part-2",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/2jmP71A5Un0jDNqBesDPQSN8hjJ.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-defenders-2017-series",
+      "title": "The Defenders",
+      "src": "assets/artwork/the-defenders-2017-series.webp",
+      "source": "https://streamex.ws/watch-tv-marvels-the-defenders-2017-4o3v5l",
+      "originalUrl": "https://streamex.ws/images/posters/series/marvel-s-the-defenders-2017.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "the-gifted-2017-series",
+      "title": "The Gifted",
+      "src": "assets/artwork/the-gifted-2017-series.jpg",
+      "source": "https://www.themoviedb.org/tv/69629-the-gifted",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-punisher-2017-series",
+      "title": "The Punisher",
+      "src": "assets/artwork/the-punisher-2017-series.jpg",
+      "source": "https://www.themoviedb.org/tv/67178-marvel-s-the-punisher",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "thor-ragnarok-2017-movie",
+      "title": "Thor: Ragnarok",
+      "src": "assets/artwork/thor-ragnarok-2017-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/284053-thor-ragnarok",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "ant-man-and-the-wasp-2018-movie",
+      "title": "Ant-Man and the Wasp",
+      "src": "assets/artwork/ant-man-and-the-wasp-2018-movie.jpg",
+      "source": "https://www.egybest.co.in/titles/2082/hd-mtrgm-ant-man-and-the-wasp-2018-fylm",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/yFcXy5i8tFU8kxia69WaLL93k0Z.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "avengers-infinity-war-2018-movie",
+      "title": "Avengers: Infinity War",
+      "src": "assets/artwork/avengers-infinity-war-2018-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/299536-avengers-infinity-war",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "baymax-and-2018-series",
+      "title": "Baymax And",
+      "src": "assets/artwork/baymax-and-2018-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "baymax-dreams-2018-series",
+      "title": "Baymax Dreams",
+      "src": "assets/artwork/baymax-dreams-2018-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "big-chibi-6-the-shorts-2018-series",
+      "title": "Big Chibi 6 The Shorts",
+      "src": "assets/artwork/big-chibi-6-the-shorts-2018-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "black-panther-2018-movie",
+      "title": "Black Panther",
+      "src": "assets/artwork/black-panther-2018-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/284054-black-panther",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "cloak-dagger-2018-series",
+      "title": "Cloak & Dagger",
+      "src": "assets/artwork/cloak-dagger-2018-series.webp",
+      "source": "https://streamex.ws/watch-tv-marvels-cloak-dagger-2018-q7tm5e",
+      "originalUrl": "https://streamex.ws/images/posters/series/marvel-s-cloak-dagger-2018.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "deadpool-2-2018-movie",
+      "title": "Deadpool 2",
+      "src": "assets/artwork/deadpool-2-2018-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Deadpool",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/grdBNhOSwnPpX5sncWWCQtELpKf.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda-2018-special",
+      "title": "Lego Marvel Super Heroes - Black Panther: Trouble in Wakanda",
+      "src": "assets/artwork/lego-marvel-super-heroes-black-panther-trouble-in-wakanda-2018-special.jpg",
+      "source": "https://www.themoviedb.org/movie/528222-lego-marvel-super-heroes-black-panther-trouble-in-wakanda",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/auiRFbbnMhnclaIMNGcQg0Uba8Y.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-rising-initiation-2018-series",
+      "title": "Marvel Rising: Initiation",
+      "src": "assets/artwork/marvel-rising-initiation-2018-series.webp",
+      "source": "https://streamex.ws/watch-tv-marvel-rising-initiation-2018-8mr0z9",
+      "originalUrl": "https://streamex.ws/images/posters/series/marvel-rising-initiation-2018.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-rising-secret-warriors-2018-movie",
+      "title": "Marvel Rising: Secret Warriors",
+      "src": "assets/artwork/marvel-rising-secret-warriors-2018-movie.webp",
+      "source": "https://streamex.ws/watch-movie-marvel-rising-secret-warriors-2018-h3tpr1",
+      "originalUrl": "https://streamex.ws/images/posters/movies/marvel-rising-secret-warriors-2018.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-man-into-the-spider-verse-2018-movie",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "src": "assets/artwork/spider-man-into-the-spider-verse-2018-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/324857-spider-man-into-the-spider-verse",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "team-darryl-2018-special",
+      "title": "Team Darryl",
+      "src": "assets/artwork/team-darryl-2018-special.jpg",
+      "source": "https://www.themoviedb.org/movie/505945-team-darryl",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/edroTAeTEM9ILyAnumA0ALxRSne.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "venom-2018-movie",
+      "title": "Venom",
+      "src": "assets/artwork/venom-2018-movie.jpg",
+      "source": "https://www.egybest.co.in/titles/1/hd-mtrgm-venom-2018-fylm",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/nokpSMilBVb4fe37M9cOBhM81YY.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "avengers-endgame-2019-movie",
+      "title": "Avengers: Endgame",
+      "src": "assets/artwork/avengers-endgame-2019-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/299534-avengers-endgame",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/jtDv3lCnST0fZRvdYFwR5CVwK2x.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "baymax-mochi-2019-series",
+      "title": "Baymax & Mochi",
+      "src": "assets/artwork/baymax-mochi-2019-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "captain-marvel-2019-movie",
+      "title": "Captain Marvel",
+      "src": "assets/artwork/captain-marvel-2019-movie.jpg",
+      "source": "https://www.egybest.co.in/titles/2266/hd-mtrgm-captain-marvel-2019-fylm",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/7kypW3Vf3oa8bZ6pRXzrQsfwUoz.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "dark-phoenix-2019-movie",
+      "title": "Dark Phoenix",
+      "src": "assets/artwork/dark-phoenix-2019-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/320288-dark-phoenix",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "lego-marvel-spider-man-vexed-by-venom-2019-special",
+      "title": "Lego Marvel Spider-Man: Vexed by Venom",
+      "src": "assets/artwork/lego-marvel-spider-man-vexed-by-venom-2019-special.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "marvel-rising-battle-of-the-bands-2019-special",
+      "title": "Marvel Rising: Battle of the Bands",
+      "src": "assets/artwork/marvel-rising-battle-of-the-bands-2019-special.webp",
+      "source": "https://streamex.ws/watch-movie-marvel-rising-battle-of-the-bands-2019-dm4u7n",
+      "originalUrl": "https://streamex.ws/images/posters/movies/marvel-rising-battle-of-the-bands-2019.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-rising-chasing-ghosts-2019-special",
+      "title": "Marvel Rising: Chasing Ghosts",
+      "src": "assets/artwork/marvel-rising-chasing-ghosts-2019-special.webp",
+      "source": "https://streamex.ws/watch-movie-marvel-rising-chasing-ghosts-2019-iyg3wx",
+      "originalUrl": "https://streamex.ws/images/posters/movies/marvel-rising-chasing-ghosts-2019.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-rising-heart-of-iron-2019-special",
+      "title": "Marvel Rising: Heart of Iron",
+      "src": "assets/artwork/marvel-rising-heart-of-iron-2019-special.webp",
+      "source": "https://streamex.ws/watch-movie-marvel-rising-heart-of-iron-2019-wnlp7f",
+      "originalUrl": "https://streamex.ws/images/posters/movies/marvel-rising-heart-of-iron-2019.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-rising-operation-shuri-2019-special",
+      "title": "Marvel Rising: Operation Shuri",
+      "src": "assets/artwork/marvel-rising-operation-shuri-2019-special.webp",
+      "source": "https://streamex.ws/watch-movie-marvel-rising-operation-shuri-2019-nv4uk7",
+      "originalUrl": "https://streamex.ws/images/posters/movies/marvel-rising-operation-shuri-2019.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-rising-playing-with-fire-2019-special",
+      "title": "Marvel Rising: Playing with Fire",
+      "src": "assets/artwork/marvel-rising-playing-with-fire-2019-special.webp",
+      "source": "https://streamex.ws/watch-movie-marvel-rising-playing-with-fire-2019-ko9pjm",
+      "originalUrl": "https://streamex.ws/images/posters/movies/marvel-rising-playing-with-fire-2019.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-studios-expanding-the-universe-2019-series",
+      "title": "Marvel Studios: Expanding the Universe",
+      "src": "assets/artwork/marvel-studios-expanding-the-universe-2019-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "marvel-s-hero-project-2019-series",
+      "title": "Marvel's Hero Project",
+      "src": "assets/artwork/marvel-s-hero-project-2019-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "men-in-black-international-2019-movie",
+      "title": "Men in Black: International",
+      "src": "assets/artwork/men-in-black-international-2019-movie.webp",
+      "source": "https://streamex.ws/watch-movie-men-in-black-international-2019-uk7woz",
+      "originalUrl": "https://streamex.ws/images/posters/movies/men-in-black-international-2019.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "peter-s-to-do-list-2019-special",
+      "title": "Peter's To-Do List",
+      "src": "assets/artwork/peter-s-to-do-list-2019-special.jpg",
+      "source": "https://en.wikipedia.org/wiki/Peter's_To-Do_List",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-ham-caught-in-a-ham-2019-special",
+      "title": "Spider-Ham: Caught in a Ham",
+      "src": "assets/artwork/spider-ham-caught-in-a-ham-2019-special.webp",
+      "source": "https://streamex.ws/watch-movie-spider-ham-caught-in-a-ham-2019-n3f2wl",
+      "originalUrl": "https://streamex.ws/images/posters/movies/spider-ham-caught-in-a-ham-2019.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-man-far-from-home-2019-movie",
+      "title": "Spider-Man: Far From Home",
+      "src": "assets/artwork/spider-man-far-from-home-2019-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/429617-spider-man-far-from-home",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-daily-bugle-2019-series",
+      "title": "The Daily Bugle",
+      "src": "assets/artwork/the-daily-bugle-2019-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "helstrom-2020-series",
+      "title": "Helstrom",
+      "src": "assets/artwork/helstrom-2020-series.jpg",
+      "source": "https://www.themoviedb.org/tv/88987-helstrom",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/5QmcKsepYpO9XYsWNLwsiULoaAu.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "lego-marvel-avengers-climate-conundrum-2020-series",
+      "title": "Lego Marvel Avengers: Climate Conundrum",
+      "src": "assets/artwork/lego-marvel-avengers-climate-conundrum-2020-series.jpg",
+      "source": "https://www.themoviedb.org/tv/112851-lego-marvel-avengers-climate-conundrum",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/yeCEBB9eLeJ4nmj00ePD7eqeWYx.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-battleworld-2020-series",
+      "title": "Marvel Battleworld",
+      "src": "assets/artwork/marvel-battleworld-2020-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "marvel-s-616-2020-series",
+      "title": "Marvel's 616",
+      "src": "assets/artwork/marvel-s-616-2020-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "the-new-mutants-2020-movie",
+      "title": "The New Mutants",
+      "src": "assets/artwork/the-new-mutants-2020-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/340102-the-new-mutants",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "black-widow-2021-movie",
+      "title": "Black Widow",
+      "src": "assets/artwork/black-widow-2021-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Black Widow",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/aU6WYGPvGcIea3o9Ok3wuDRZ4FD.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "deadpool-and-korg-react-2021-special",
+      "title": "Deadpool and Korg React",
+      "src": "assets/artwork/deadpool-and-korg-react-2021-special.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "eternals-2021-movie",
+      "title": "Eternals",
+      "src": "assets/artwork/eternals-2021-movie.webp",
+      "source": "https://streamex.ws/watch-movie-eternals-2021-ijynxw",
+      "originalUrl": "https://streamex.ws/images/posters/movies/eternals-2021.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "hawkeye-2021-series",
+      "title": "Hawkeye",
+      "src": "assets/artwork/hawkeye-2021-series.webp",
+      "source": "https://streamex.ws/watch-tv-hawkeye-2021-1wp4kd",
+      "originalUrl": "https://streamex.ws/images/posters/series/hawkeye-2021.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "hit-monkey-2021-series",
+      "title": "Hit-Monkey",
+      "src": "assets/artwork/hit-monkey-2021-series.webp",
+      "source": "https://streamex.ws/watch-tv-marvels-hit-monkey-2021-pmfoxh",
+      "originalUrl": "https://streamex.ws/images/posters/series/marvel-s-hit-monkey-2021.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "lego-marvel-avengers-loki-in-training-2021-special",
+      "title": "Lego Marvel Avengers: Loki in Training",
+      "src": "assets/artwork/lego-marvel-avengers-loki-in-training-2021-special.webp",
+      "source": "https://streamex.ws/watch-movie-lego-marvel-avengers-loki-in-training-2021-zj12f8",
+      "originalUrl": "https://streamex.ws/images/posters/movies/lego-marvel-avengers-loki-in-training-2021.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "loki-2021-series",
+      "title": "Loki",
+      "src": "assets/artwork/loki-2021-series.webp",
+      "source": "https://streamex.ws/watch-tv-loki-2021-4bm510",
+      "originalUrl": "https://streamex.ws/images/posters/series/loki-2021.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "m-o-d-o-k-2021-series",
+      "title": "M.O.D.O.K.",
+      "src": "assets/artwork/m-o-d-o-k-2021-series.jpg",
+      "source": "https://www.themoviedb.org/tv/111312-marvel-s-m-o-d-o-k",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/2kXRzRjQZs9kAIm3K9MkQgsZR9C.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-studios-assembled-2021-series",
+      "title": "Marvel Studios: Assembled",
+      "src": "assets/artwork/marvel-studios-assembled-2021-series.jpg",
+      "source": "https://www.themoviedb.org/tv/118924-marvel-studios-assembled",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-studios-legends-2021-series",
+      "title": "Marvel Studios: Legends",
+      "src": "assets/artwork/marvel-studios-legends-2021-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "meet-spidey-and-his-amazing-friends-2021-series",
+      "title": "Meet Spidey and His Amazing Friends",
+      "src": "assets/artwork/meet-spidey-and-his-amazing-friends-2021-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "shang-chi-and-the-legend-of-the-ten-rings-2021-movie",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "src": "assets/artwork/shang-chi-and-the-legend-of-the-ten-rings-2021-movie.webp",
+      "source": "https://streamex.ws/watch-movie-shang-chi-and-the-legend-of-the-ten-rings-2021-0jtbg1",
+      "originalUrl": "https://streamex.ws/images/posters/movies/shang-chi-and-the-legend-of-the-ten-rings-2021.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-man-no-way-home-2021-movie",
+      "title": "Spider-Man: No Way Home",
+      "src": "assets/artwork/spider-man-no-way-home-2021-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/634649-spider-man-no-way-home",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "spidey-and-his-amazing-friends-2021-series",
+      "title": "Spidey and His Amazing Friends",
+      "src": "assets/artwork/spidey-and-his-amazing-friends-2021-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "super-crooks-2021-series",
+      "title": "Super Crooks",
+      "src": "assets/artwork/super-crooks-2021-series.webp",
+      "source": "https://streamex.ws/watch-tv-super-crooks-2021-syal68",
+      "originalUrl": "https://streamex.ws/images/posters/series/super-crooks-2021.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "the-falcon-and-the-winter-soldier-2021-series",
+      "title": "The Falcon and the Winter Soldier",
+      "src": "assets/artwork/the-falcon-and-the-winter-soldier-2021-series.jpg",
+      "source": "https://www.themoviedb.org/tv/88396-the-falcon-and-the-winter-soldier",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-king-s-man-2021-movie",
+      "title": "The King's Man",
+      "src": "assets/artwork/the-king-s-man-2021-movie.jpg",
+      "source": "https://www.egybest.co.in/search/The King&#039;s Man",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/bsizIbybhmxjYw6b08xF141BjVu.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "venom-let-there-be-carnage-2021-movie",
+      "title": "Venom: Let There Be Carnage",
+      "src": "assets/artwork/venom-let-there-be-carnage-2021-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Venom: Let There Be Carnage",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/aLBiGL6Nqx8nY27X61g6szKn19Y.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "wandavision-2021-series",
+      "title": "WandaVision",
+      "src": "assets/artwork/wandavision-2021-series.webp",
+      "source": "https://streamex.ws/watch-tv-wandavision-2021-q15ths",
+      "originalUrl": "https://streamex.ws/images/posters/series/wandavision-2021.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "what-if-2021-series",
+      "title": "What If...?",
+      "src": "assets/artwork/what-if-2021-series.jpg",
+      "source": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d8%a7%d9%86%d9%85%d9%8a-what-if-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d8%a7%d9%84/",
+      "originalUrl": "https://www.moviz.land/wp-content/uploads/2026/10/000f30525-1.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "baymax-2022-series",
+      "title": "Baymax!",
+      "src": "assets/artwork/baymax-2022-series.webp",
+      "source": "https://streamex.ws/watch-tv-baymax-2022-upw9d3",
+      "originalUrl": "https://streamex.ws/images/posters/series/baymax-2022.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "black-panther-wakanda-forever-2022-movie",
+      "title": "Black Panther: Wakanda Forever",
+      "src": "assets/artwork/black-panther-wakanda-forever-2022-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/505642-black-panther-wakanda-forever",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "doctor-strange-in-the-multiverse-of-madness-2022-movie",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "src": "assets/artwork/doctor-strange-in-the-multiverse-of-madness-2022-movie.webp",
+      "source": "https://streamex.ws/watch-movie-doctor-strange-in-the-multiverse-of-madness-2022-10qbye",
+      "originalUrl": "https://streamex.ws/images/posters/movies/doctor-strange-in-the-multiverse-of-madness-2022.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "i-am-groot-2022-series",
+      "title": "I Am Groot",
+      "src": "assets/artwork/i-am-groot-2022-series.jpg",
+      "source": "https://www.themoviedb.org/tv/232125-i-am-groot",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "lego-marvel-avengers-time-twisted-2022-special",
+      "title": "Lego Marvel Avengers: Time Twisted",
+      "src": "assets/artwork/lego-marvel-avengers-time-twisted-2022-special.webp",
+      "source": "https://streamex.ws/watch-movie-lego-marvel-avengers-time-twisted-2022-p4dcu5",
+      "originalUrl": "https://streamex.ws/images/posters/movies/lego-marvel-avengers-time-twisted-2022.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "moon-knight-2022-series",
+      "title": "Moon Knight",
+      "src": "assets/artwork/moon-knight-2022-series.webp",
+      "source": "https://streamex.ws/watch-tv-moon-knight-2022-p05uvr",
+      "originalUrl": "https://streamex.ws/images/posters/series/moon-knight-2022.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "morbius-2022-movie",
+      "title": "Morbius",
+      "src": "assets/artwork/morbius-2022-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Morbius",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "ms-marvel-2022-series",
+      "title": "Ms. Marvel",
+      "src": "assets/artwork/ms-marvel-2022-series.jpg",
+      "source": "https://www.themoviedb.org/tv/92782-ms-marvel",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "she-hulk-attorney-at-law-2022-series",
+      "title": "She-Hulk: Attorney at Law",
+      "src": "assets/artwork/she-hulk-attorney-at-law-2022-series.jpg",
+      "source": "https://www.themoviedb.org/tv/92783-she-hulk-attorney-at-law",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/5xz2orV8f0usyrfGNshcoXHmiaV.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-guardians-of-the-galaxy-holiday-special-2022-special",
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "src": "assets/artwork/the-guardians-of-the-galaxy-holiday-special-2022-special.webp",
+      "source": "https://streamex.ws/watch-movie-the-guardians-of-the-galaxy-holiday-special-2022-8wfkhu",
+      "originalUrl": "https://streamex.ws/images/posters/movies/the-guardians-of-the-galaxy-holiday-special-2022.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "thor-love-and-thunder-2022-movie",
+      "title": "Thor: Love and Thunder",
+      "src": "assets/artwork/thor-love-and-thunder-2022-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/616037-thor-love-and-thunder",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "werewolf-by-night-2022-special",
+      "title": "Werewolf by Night",
+      "src": "assets/artwork/werewolf-by-night-2022-special.webp",
+      "source": "https://streamex.ws/watch-movie-werewolf-by-night-2022-qcselz",
+      "originalUrl": "https://streamex.ws/images/posters/movies/werewolf-by-night-2022.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "ant-man-and-the-wasp-quantumania-2023-movie",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "src": "assets/artwork/ant-man-and-the-wasp-quantumania-2023-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/640146-ant-man-and-the-wasp-quantumania",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "guardians-of-the-galaxy-vol-3-2023-movie",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "src": "assets/artwork/guardians-of-the-galaxy-vol-3-2023-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "lego-marvel-avengers-code-red-2023-special",
+      "title": "Lego Marvel Avengers: Code Red",
+      "src": "assets/artwork/lego-marvel-avengers-code-red-2023-special.webp",
+      "source": "https://streamex.ws/watch-movie-lego-marvel-avengers-code-red-2023-ifnak2",
+      "originalUrl": "https://streamex.ws/images/posters/movies/lego-marvel-avengers-code-red-2023.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "moon-girl-and-devil-dinosaur-2023-series",
+      "title": "Moon Girl and Devil Dinosaur",
+      "src": "assets/artwork/moon-girl-and-devil-dinosaur-2023-series.webp",
+      "source": "https://streamex.ws/watch-tv-marvels-moon-girl-and-devil-dinosaur-2023-5gz3lv",
+      "originalUrl": "https://streamex.ws/images/posters/series/marvel-s-moon-girl-and-devil-dinosaur-2023.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "mpower-2023-series",
+      "title": "MPower",
+      "src": "assets/artwork/mpower-2023-series.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "secret-invasion-2023-series",
+      "title": "Secret Invasion",
+      "src": "assets/artwork/secret-invasion-2023-series.jpg",
+      "source": "https://www.themoviedb.org/tv/114472-secret-invasion",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/3rINdUPSy9AklJg74jWHOyUXuZd.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-man-across-the-spider-verse-2023-movie",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "src": "assets/artwork/spider-man-across-the-spider-verse-2023-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/569094-spider-man-across-the-spider-verse",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-marvels-2023-movie",
+      "title": "The Marvels",
+      "src": "assets/artwork/the-marvels-2023-movie.jpg",
+      "source": "https://www.egybest.co.in/search/The Marvels",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/qN3zZr4115pYKTWME8BC9VBS7O5.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "the-spider-within-a-spider-verse-story-2023-special",
+      "title": "The Spider Within: A Spider-Verse Story",
+      "src": "assets/artwork/the-spider-within-a-spider-verse-story-2023-special.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "voices-rising-the-music-of-wakanda-forever-2023-series",
+      "title": "Voices Rising: The Music of Wakanda Forever",
+      "src": "assets/artwork/voices-rising-the-music-of-wakanda-forever-2023-series.webp",
+      "source": "https://streamex.ws/watch-tv-voices-rising-the-music-of-wakanda-forever-2023-29mhf5",
+      "originalUrl": "https://streamex.ws/images/posters/series/voices-rising-the-music-of-wakanda-forever-2023.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "agatha-all-along-2024-series",
+      "title": "Agatha All Along",
+      "src": "assets/artwork/agatha-all-along-2024-series.webp",
+      "source": "https://streamex.ws/watch-tv-agatha-all-along-2024-3oabhp",
+      "originalUrl": "https://streamex.ws/images/posters/series/agatha-all-along-2024.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "argylle-2024-movie",
+      "title": "Argylle",
+      "src": "assets/artwork/argylle-2024-movie.jpg",
+      "source": "https://www.egybest.co.in/titles/1094/hd-mtrgm-argylle-2024-fylm",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "deadpool-wolverine-2024-movie",
+      "title": "Deadpool & Wolverine",
+      "src": "assets/artwork/deadpool-wolverine-2024-movie.jpg",
+      "source": "https://www.egybest.co.in/titles/2007/hd-mtrgm-deadpool-and-wolverine-2024-fylm",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/i1ak7ShYmiwLGohYLUWcqLxUj6h.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "echo-2024-series",
+      "title": "Echo",
+      "src": "assets/artwork/echo-2024-series.webp",
+      "source": "https://streamex.ws/watch-tv-echo-2024-trvd5f",
+      "originalUrl": "https://streamex.ws/images/posters/series/echo-2024.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "kraven-the-hunter-2024-movie",
+      "title": "Kraven the Hunter",
+      "src": "assets/artwork/kraven-the-hunter-2024-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/539972-kraven-the-hunter",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "lego-marvel-avengers-mission-demolition-2024-special",
+      "title": "Lego Marvel Avengers: Mission Demolition",
+      "src": "assets/artwork/lego-marvel-avengers-mission-demolition-2024-special.webp",
+      "source": "https://streamex.ws/watch-movie-lego-marvel-avengers-mission-demolition-2024-4aylwc",
+      "originalUrl": "https://streamex.ws/images/posters/movies/lego-marvel-avengers-mission-demolition-2024.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "madame-web-2024-movie",
+      "title": "Madame Web",
+      "src": "assets/artwork/madame-web-2024-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/634492-madame-web",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "venom-the-last-dance-2024-movie",
+      "title": "Venom: The Last Dance",
+      "src": "assets/artwork/venom-the-last-dance-2024-movie.jpg",
+      "source": "https://www.egybest.co.in/titles/2928/hd-mtrgm-venom-the-last-dance-2024-fylm",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/vgKW7fYaxfgTmUFozMMABoLIxg0.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "x-men-97-2024-series",
+      "title": "X-Men '97",
+      "src": "assets/artwork/x-men-97-2024-series.jpg",
+      "source": "https://www.themoviedb.org/tv/138502-x-men-97",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "captain-america-brave-new-world-2025-movie",
+      "title": "Captain America: Brave New World",
+      "src": "assets/artwork/captain-america-brave-new-world-2025-movie.jpg",
+      "source": "https://www.egybest.co.in/search/Captain America: Brave New World",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/xMisbwEVoh099ZwOhZ2io29Bd4m.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "daredevil-born-again-2025-series",
+      "title": "Daredevil: Born Again",
+      "src": "assets/artwork/daredevil-born-again-2025-series.jpg",
+      "source": "https://www.themoviedb.org/tv/202555-daredevil-born-again",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "eyes-of-wakanda-2025-series",
+      "title": "Eyes of Wakanda",
+      "src": "assets/artwork/eyes-of-wakanda-2025-series.webp",
+      "source": "https://streamex.ws/watch-tv-eyes-of-wakanda-2025-ocjp5n",
+      "originalUrl": "https://streamex.ws/images/posters/series/eyes-of-wakanda-2025.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "iron-man-and-his-awesome-friends-2025-series",
+      "title": "Iron Man and His Awesome Friends",
+      "src": "assets/artwork/iron-man-and-his-awesome-friends-2025-series.jpg",
+      "source": "https://www.themoviedb.org/tv/274388-marvel-s-iron-man-and-his-awesome-friends",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/3NlFaIdOkBg2VC3Imi1kbeeGynw.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "ironheart-2025-series",
+      "title": "Ironheart",
+      "src": "assets/artwork/ironheart-2025-series.webp",
+      "source": "https://streamex.ws/watch-tv-ironheart-2025-dub9a6",
+      "originalUrl": "https://streamex.ws/images/posters/series/ironheart-2025.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "lego-marvel-avengers-strange-tails-2025-series",
+      "title": "Lego Marvel Avengers: Strange Tails",
+      "src": "assets/artwork/lego-marvel-avengers-strange-tails-2025-series.webp",
+      "source": "https://streamex.ws/watch-tv-lego-marvel-avengers-strange-tails-2025-px0qy2",
+      "originalUrl": "https://streamex.ws/images/posters/series/lego-marvel-avengers-strange-tails-2025.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "marvel-zombies-2025-series",
+      "title": "Marvel Zombies",
+      "src": "assets/artwork/marvel-zombies-2025-series.webp",
+      "source": "https://streamex.ws/watch-tv-marvel-zombies-2025-8lvfi1",
+      "originalUrl": "https://streamex.ws/images/posters/series/marvel-zombies-2025.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "meet-iron-man-and-his-awesome-friends-2025-series",
+      "title": "Meet Iron Man and His Awesome Friends",
+      "src": "assets/artwork/meet-iron-man-and-his-awesome-friends-2025-series.jpg",
+      "source": "https://www.themoviedb.org/tv/294895-meet-iron-man-and-his-awesome-friends",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/gg1Jo5iwoiuVwxGV7FgWxBlZSh5.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "spidey-and-iron-man-avengers-team-up-2025-special",
+      "title": "Spidey and Iron Man: Avengers Team-Up!",
+      "src": "assets/artwork/spidey-and-iron-man-avengers-team-up-2025-special.svg",
+      "kind": "title-card",
+      "source": "Locally designed typographic cover; no verified promotional artwork found"
+    },
+    {
+      "id": "the-fantastic-four-first-steps-2025-movie",
+      "title": "The Fantastic Four: First Steps",
+      "src": "assets/artwork/the-fantastic-four-first-steps-2025-movie.jpg",
+      "source": "https://www.moviz.land/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-the-fantastic-four-first-steps-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d9%83%d8%a7%d9%85%d9%84-hd/",
+      "originalUrl": "https://www.moviz.land/wp-content/uploads/2026/10/3fd88b1ed-1.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "thunderbolts-2025-movie",
+      "title": "Thunderbolts*",
+      "src": "assets/artwork/thunderbolts-2025-movie.jpg",
+      "source": "https://www.egybest.co.in/titles/3087/hd-mtrgm-thunderbolts-2025-fylm",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/ajrHUNO7HMGeZgf5XzpeVtBG6w4.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "your-friendly-neighborhood-spider-man-2025-series",
+      "title": "Your Friendly Neighborhood Spider-Man",
+      "src": "assets/artwork/your-friendly-neighborhood-spider-man-2025-series.jpg",
+      "source": "https://www.themoviedb.org/tv/138503-your-friendly-neighborhood-spider-man",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/kjcsNeqF52YUQ2rUBGLMHwLkxvR.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-man-brand-new-day-2026-movie",
+      "title": "Spider-Man: Brand New Day",
+      "src": "assets/artwork/spider-man-brand-new-day-2026-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-noir-2026-series",
+      "title": "Spider-Noir",
+      "src": "assets/artwork/spider-noir-2026-series.jpg",
+      "source": "https://www.themoviedb.org/tv/220102-untitled-spider-man-noir-live-action-series",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "spidey-and-the-avengers-halloween-team-up-2026-special",
+      "title": "Spidey and the Avengers: Halloween Team-Up!",
+      "src": "assets/artwork/spidey-and-the-avengers-halloween-team-up-2026-special.webp",
+      "source": "https://www.disneyplus.com/browse/entity-dcec05bc-2f1c-41df-9dee-a9c1ac8886f6",
+      "originalUrl": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a0a208-8815-751d-bc72-8004a3e406fe/compose?aspectRatio=1.78&format=webp&width=1200",
+      "kind": "landscape"
+    },
+    {
+      "id": "the-punisher-one-last-kill-2026-special",
+      "title": "The Punisher: One Last Kill",
+      "src": "assets/artwork/the-punisher-one-last-kill-2026-special.jpg",
+      "source": "https://www.themoviedb.org/movie/1439930-the-punisher-one-last-kill",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "visionquest-2026-series",
+      "title": "VisionQuest",
+      "src": "assets/artwork/visionquest-2026-series.jpg",
+      "source": "https://www.egybest.co.in/search/VisionQuest",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/ghpdxuURdKwaM2toZT6pTvodczV.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "wonder-man-2026-series",
+      "title": "Wonder Man",
+      "src": "assets/artwork/wonder-man-2026-series.webp",
+      "source": "https://streamex.ws/watch-tv-wonder-man-2026-djbruo",
+      "originalUrl": "https://streamex.ws/images/posters/series/wonder-man-2026.webp",
+      "kind": "poster"
+    },
+    {
+      "id": "avengers-doomsday-2026-movie",
+      "title": "Avengers: Doomsday",
+      "src": "assets/artwork/avengers-doomsday-2026-movie-keyart.jpg",
+      "source": "https://movies.disney.com/avengers-doomsday",
+      "originalUrl": "https://lumiere-a.akamaihd.net/v1/images/p_movies_avengersdoomsday_d23update_poster_v1_2b797e84.jpeg?region=0%2C0%2C540%2C810",
+      "kind": "poster"
+    },
+    {
+      "id": "spider-man-beyond-the-spider-verse-2027-movie",
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "src": "assets/artwork/spider-man-beyond-the-spider-verse-2027-movie.jpg",
+      "source": "https://www.themoviedb.org/movie/911916-spider-man-beyond-the-spider-verse",
+      "originalUrl": "https://image.tmdb.org/t/p/w342/9KAe39xqyZnv9J4W3DRGdQqX82h.jpg",
+      "kind": "poster"
+    },
+    {
+      "id": "avengers-secret-wars-2027-movie",
+      "title": "Avengers: Secret Wars",
+      "src": "assets/artwork/avengers-secret-wars-2027-movie-keyart.jpg",
+      "source": "https://www.fotogramas.es/noticias-cine/a40738557/vengadores-secret-wars-avengers-fecha-estreno-reparto-trailer-sinopsis/",
+      "originalUrl": "https://hips.hearstapps.com/hmg-prod/images/vengadores-secret-wars-66a9ee2063daf.jpg?resize=980%3A%2A",
+      "kind": "poster"
+    }
+  ]
+}

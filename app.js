@@ -36,8 +36,22 @@
   }
   function card(entry, storyNumber, storySetting) {
     const sources = watchSources(entry);
-    const node = element('article', `release${sources.length ? ' available' : ''}`);
-    node.append(element('span', 'release-number', storyNumber === undefined ? numbers.get(entry.id) : String(storyNumber).padStart(2, '0')));
+    const node = element('article', `release has-art${sources.length ? ' available' : ''}`);
+    const artwork = element('div', 'release-artwork');
+    artwork.append(element('span', 'artwork-fallback', entry.title));
+    if (entry.artwork?.src?.startsWith('assets/artwork/')) {
+      const poster = element('img', 'release-poster');
+      poster.src = entry.artwork.src;
+      poster.alt = '';
+      poster.loading = 'lazy';
+      poster.decoding = 'async';
+      poster.width = 164;
+      poster.height = 246;
+      poster.addEventListener('error', () => { poster.hidden = true; });
+      artwork.append(poster);
+    }
+    artwork.append(element('span', 'release-number', storyNumber === undefined ? numbers.get(entry.id) : String(storyNumber).padStart(2, '0')));
+    node.append(artwork);
     const main = element('div', 'release-main');
     const meta = element('div', 'release-meta');
     meta.append(element('span', `kind ${entry.type}`, {movie:'Movie',series:'Series',special:'Special / short'}[entry.type]));
@@ -57,12 +71,13 @@
         const link = element('a', 'source-link', source.source);
         link.href = source.url;
         link.setAttribute('aria-label', `Watch ${entry.title} on ${source.source}`);
+        if (['Disney+', 'Netflix'].includes(source.source)) link.title = 'Availability varies by country and subscription.';
         options.append(link);
       });
       main.append(options);
     }
     const status = element('span', 'release-status', upcoming(entry) ? 'Coming soon' : sources.length ? `${sources.length} source${sources.length === 1 ? '' : 's'}` : 'Link coming soon');
-    node.append(status); return node;
+    main.append(status); return node;
   }
   function render() {
     const storyView = state.view === 'story';
