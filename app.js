@@ -7,7 +7,7 @@
   const sortDate = entry => entry.date.length === 4 ? entry.date + '-12-32' : entry.date;
   const all = [...catalog.releases].sort((a, b) => sortDate(a).localeCompare(sortDate(b)) || a.id.localeCompare(b.id));
   const numbers = new Map(all.map((entry, index) => [entry.id, String(index + 1).padStart(2, '0')]));
-  const dateFormat = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' });
+  const dateFormat = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
   function safeUrl(value) {
     try { const url = new URL(value); return ['https:', 'http:'].includes(url.protocol) ? url.href : null; }
     catch { return null; }
@@ -28,11 +28,15 @@
     node.append(element('span', 'release-number', numbers.get(entry.id)));
     const main = element('div', 'release-main');
     const meta = element('div', 'release-meta');
-    meta.append(element('span', `kind ${entry.type}`, {movie:'Movie',series:'Series',special:'Special / short'}[entry.type]));
-    const time = element('time', '', entry.date.length === 4 ? entry.date : dateFormat.format(new Date(entry.date + 'T00:00:00Z')));
+    const isOriginalSerial = entry.id === 'captain-america-1944-special';
+    meta.append(element('span', `kind ${entry.type}`, isOriginalSerial ? 'Theatrical serial' : {movie:'Movie',series:'Series',special:'Special / short'}[entry.type]));
+    const releaseLabel = entry.type === 'series' ? 'Premiered' : 'Released';
+    const releaseDate = entry.date.length === 4 ? entry.date : dateFormat.format(new Date(entry.date + 'T00:00:00Z'));
+    const time = element('time', '', `${releaseLabel} ${releaseDate}`);
     time.dateTime = entry.date; meta.append(time);
     meta.append(element('span', 'phase', {mcu:'MCU',fox:'Fox',sony:'Sony',animation:'Animation',imprints:'Marvel imprints',other:'Classics & other',documentary:'Documentary'}[entry.collection]));
-    main.append(meta, element('h3', '', entry.title)); node.append(main);
+    const displayTitle = isOriginalSerial ? 'Captain America (1944 serial)' : entry.title;
+    main.append(meta, element('h3', '', displayTitle)); node.append(main);
     const status = element('span', 'release-status', url ? 'Watch now ' : 'Link coming soon');
     node.append(status); return node;
   }
