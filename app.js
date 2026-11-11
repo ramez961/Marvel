@@ -44,6 +44,7 @@
     if (state.order === 'desc') entries = entries.reverse();
     const fragment = document.createDocumentFragment();
     let currentYear, items;
+    let branchIndex = 0;
     for (const entry of entries) {
       const year = entry.date.slice(0, 4);
       if (year !== currentYear) {
@@ -55,7 +56,9 @@
         heading.append(element('span', '', `${count} RELEASE${count === 1 ? '' : 'S'}`));
         items = element('div', 'year-items'); group.append(heading, items); fragment.append(group);
       }
-      items.append(card(entry));
+      const branch = element('div', `branch ${branchIndex++ % 2 === 0 ? 'branch-left' : 'branch-right'}`);
+      branch.append(card(entry));
+      items.append(branch);
     }
     $('#releases').replaceChildren(fragment);
     $('#count').textContent = `${entries.length} of ${all.length} releases`;
