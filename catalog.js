@@ -1,5 +1,4 @@
-// Add destinations to url. Dates use US release where verified; year-only entries retain source precision.
-// Series are listed once, at their first premiere.
+// Original releases and announced upcoming projects. Story dates live separately in story-order.js.
 window.MARVEL_CATALOG = {
   "reviewed": "2026-11-11",
   "releases": [
@@ -20,7 +19,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "the-marvel-super-heroes-1966-series",
       "title": "The Marvel Super Heroes",
-      "date": "1966",
+      "date": "1966-09-05",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -29,12 +28,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Marvel_Super_Heroes"
     },
     {
       "id": "spider-man-1967-series",
       "title": "Spider-Man",
-      "date": "1967",
+      "date": "1967-09-09",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -43,12 +43,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man_(1967_TV_series)"
     },
     {
       "id": "the-fantastic-four-1967-series",
       "title": "The Fantastic Four",
-      "date": "1967",
+      "date": "1967-09-09",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -57,7 +58,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Fantastic_Four_(1967_TV_series)"
     },
     {
       "id": "spidey-super-stories-1974-series",
@@ -90,7 +92,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "spider-man-1977-movie",
       "title": "Spider-Man",
-      "date": "1977",
+      "date": "1977-09-14",
       "type": "movie",
       "collection": "sony",
       "animated": false,
@@ -99,12 +101,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man_(1977_film)"
     },
     {
       "id": "the-amazing-spider-man-1977-series",
       "title": "The Amazing Spider-Man",
-      "date": "1977",
+      "date": "1977-09-14",
       "type": "series",
       "collection": "sony",
       "animated": false,
@@ -113,12 +116,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(TV_series)"
     },
     {
       "id": "the-incredible-hulk-1977-movie",
       "title": "The Incredible Hulk",
-      "date": "1977",
+      "date": "1977-11-04",
       "type": "movie",
       "collection": "other",
       "animated": false,
@@ -127,12 +131,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_(1977_film)"
     },
     {
       "id": "the-incredible-hulk-1977-series",
       "title": "The Incredible Hulk",
-      "date": "1977",
+      "date": "1977-11-04",
       "type": "series",
       "collection": "other",
       "animated": false,
@@ -141,12 +146,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_(1977_film)"
     },
     {
       "id": "dr-strange-1978-movie",
       "title": "Dr. Strange",
-      "date": "1978",
+      "date": "1978-09-06",
       "type": "movie",
       "collection": "other",
       "animated": false,
@@ -155,12 +161,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Dr._Strange_(1978_film)"
     },
     {
       "id": "spider-man-1978-special",
       "title": "Spider-Man",
-      "date": "1978",
+      "date": "1978-07-22",
       "type": "special",
       "collection": "other",
       "animated": false,
@@ -169,12 +176,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man_(1978_film)"
     },
     {
       "id": "spider-man-1978-series",
       "title": "Spider-Man",
-      "date": "1978",
+      "date": "1978-07-22",
       "type": "series",
       "collection": "other",
       "animated": false,
@@ -183,12 +191,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man_(1978_film)"
     },
     {
       "id": "spider-man-strikes-back-1978-movie",
       "title": "Spider-Man Strikes Back",
-      "date": "1978",
+      "date": "1978-05-08",
       "type": "movie",
       "collection": "sony",
       "animated": false,
@@ -197,7 +206,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man_Strikes_Back"
     },
     {
       "id": "the-incredible-hulk-married-1978-movie",
@@ -216,7 +226,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "the-new-fantastic-four-1978-series",
       "title": "The New Fantastic Four",
-      "date": "1978",
+      "date": "1978-09-09",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -225,12 +235,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_New_Fantastic_Four"
     },
     {
       "id": "battle-fever-j-1979-series",
       "title": "Battle Fever J",
-      "date": "1979",
+      "date": "1979-02-03",
       "type": "series",
       "collection": "other",
       "animated": false,
@@ -239,12 +250,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Battle_Fever_J"
     },
     {
       "id": "captain-america-1979-movie",
       "title": "Captain America",
-      "date": "1979",
+      "date": "1979-01-19",
       "type": "movie",
       "collection": "other",
       "animated": false,
@@ -253,12 +265,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Captain_America_(1979_film)"
     },
     {
       "id": "captain-america-ii-death-too-soon-1979-movie",
       "title": "Captain America II: Death Too Soon",
-      "date": "1979",
+      "date": "1979-11-23",
       "type": "movie",
       "collection": "other",
       "animated": false,
@@ -267,12 +280,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Captain_America_II:_Death_Too_Soon"
     },
     {
       "id": "fred-and-barney-meet-the-thing-1979-series",
       "title": "Fred and Barney Meet the Thing",
-      "date": "1979",
+      "date": "1979-09-08",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -281,12 +295,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Fred_and_Barney_Meet_the_Thing"
     },
     {
       "id": "spider-woman-1979-series",
       "title": "Spider-Woman",
-      "date": "1979",
+      "date": "1979-09-22",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -295,12 +310,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Woman_(TV_series)"
     },
     {
       "id": "denshi-sentai-denjiman-1980-series",
       "title": "Denshi Sentai Denjiman",
-      "date": "1980",
+      "date": "1980-02-02",
       "type": "series",
       "collection": "other",
       "animated": false,
@@ -309,7 +325,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Denshi_Sentai_Denjiman"
     },
     {
       "id": "dracula-sovereign-of-the-damned-1980-movie",
@@ -328,7 +345,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "kyoufu-densetsu-kaiki-frankenstein-1981-movie",
       "title": "Kyoufu Densetsu Kaiki! Frankenstein",
-      "date": "1981",
+      "date": "1981-07-27",
       "type": "movie",
       "collection": "animation",
       "animated": true,
@@ -337,12 +354,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Kyoufu_Densetsu_Kaiki!_Frankenstein"
     },
     {
       "id": "spider-man-1981-series",
       "title": "Spider-Man",
-      "date": "1981",
+      "date": "1981-09-12",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -351,12 +369,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man_(1981_TV_series)"
     },
     {
       "id": "spider-man-and-his-amazing-friends-1981-series",
       "title": "Spider-Man and His Amazing Friends",
-      "date": "1981",
+      "date": "1981-09-12",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -365,12 +384,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man_and_His_Amazing_Friends"
     },
     {
       "id": "spider-man-the-dragon-s-challenge-1981-movie",
       "title": "Spider-Man: The Dragon's Challenge",
-      "date": "1981",
+      "date": "1981-02-03",
       "type": "movie",
       "collection": "sony",
       "animated": false,
@@ -379,12 +399,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man:_The_Dragon's_Challenge"
     },
     {
       "id": "taiyo-sentai-sun-vulcan-1981-series",
       "title": "Taiyo Sentai Sun Vulcan",
-      "date": "1981",
+      "date": "1981-02-07",
       "type": "series",
       "collection": "other",
       "animated": false,
@@ -393,12 +414,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Taiyo_Sentai_Sun_Vulcan"
     },
     {
       "id": "the-incredible-hulk-1982-series",
       "title": "The Incredible Hulk",
-      "date": "1982",
+      "date": "1982-09-18",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -407,7 +429,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_(1982_TV_series)"
     },
     {
       "id": "howard-the-duck-1986-movie",
@@ -440,7 +463,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "the-incredible-hulk-returns-1988-movie",
       "title": "The Incredible Hulk Returns",
-      "date": "1988",
+      "date": "1988-05-22",
       "type": "movie",
       "collection": "other",
       "animated": false,
@@ -449,12 +472,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_Returns"
     },
     {
       "id": "the-punisher-1989-movie",
       "title": "The Punisher",
-      "date": "1989",
+      "date": "1989-10-05",
       "type": "movie",
       "collection": "other",
       "animated": false,
@@ -463,12 +487,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)"
     },
     {
       "id": "the-trial-of-the-incredible-hulk-1989-movie",
       "title": "The Trial of the Incredible Hulk",
-      "date": "1989",
+      "date": "1989-05-07",
       "type": "movie",
       "collection": "other",
       "animated": false,
@@ -477,12 +502,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Trial_of_the_Incredible_Hulk"
     },
     {
       "id": "x-men-pryde-of-the-x-men-1989-special",
       "title": "X-Men: Pryde of the X-Men",
-      "date": "1989",
+      "date": "1989-09-16",
       "type": "special",
       "collection": "animation",
       "animated": true,
@@ -491,12 +517,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/X-Men:_Pryde_of_the_X-Men"
     },
     {
       "id": "captain-america-1990-movie",
       "title": "Captain America",
-      "date": "1990",
+      "date": "1990-12-14",
       "type": "movie",
       "collection": "other",
       "animated": false,
@@ -505,12 +532,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Captain_America_(1990_film)"
     },
     {
       "id": "the-death-of-the-incredible-hulk-1990-movie",
       "title": "The Death of the Incredible Hulk",
-      "date": "1990",
+      "date": "1990-02-18",
       "type": "movie",
       "collection": "other",
       "animated": false,
@@ -519,7 +547,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Death_of_the_Incredible_Hulk"
     },
     {
       "id": "power-pack-1991-special",
@@ -538,7 +567,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "x-men-the-animated-series-1992-series",
       "title": "X-Men: The Animated Series",
-      "date": "1992",
+      "date": "1992-10-31",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -547,7 +576,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series"
     },
     {
       "id": "firearm-1993-special",
@@ -580,7 +610,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "fantastic-four-1994-series",
       "title": "Fantastic Four",
-      "date": "1994",
+      "date": "1994-09-24",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -589,12 +619,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Fantastic_Four_(1994_TV_series)"
     },
     {
       "id": "iron-man-1994-series",
       "title": "Iron Man",
-      "date": "1994",
+      "date": "1994-09-24",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -603,12 +634,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Iron_Man_(TV_series)"
     },
     {
       "id": "spider-man-the-animated-series-1994-series",
       "title": "Spider-Man: The Animated Series",
-      "date": "1994",
+      "date": "1994-11-19",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -617,7 +649,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man:_The_Animated_Series"
     },
     {
       "id": "ultraforce-1994-series",
@@ -636,7 +669,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "generation-x-1996-movie",
       "title": "Generation X",
-      "date": "1996",
+      "date": "1996-02-20",
       "type": "movie",
       "collection": "other",
       "animated": false,
@@ -645,12 +678,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Generation_X_(film)"
     },
     {
       "id": "the-incredible-hulk-1996-series",
       "title": "The Incredible Hulk",
-      "date": "1996",
+      "date": "1996-09-08",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -659,12 +693,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_(1996_TV_series)"
     },
     {
       "id": "men-in-black-1997-movie",
       "title": "Men in Black",
-      "date": "1997",
+      "date": "1997-07-02",
       "type": "movie",
       "collection": "imprints",
       "animated": false,
@@ -674,12 +709,13 @@ window.MARVEL_CATALOG = {
       "collections": [
         "imprints",
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Men_in_Black_(1997_film)"
     },
     {
       "id": "men-in-black-the-series-1997-series",
       "title": "Men in Black: The Series",
-      "date": "1997",
+      "date": "1997-10-11",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -689,12 +725,13 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation",
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Men_in_Black:_The_Series"
     },
     {
       "id": "night-man-1997-series",
       "title": "Night Man",
-      "date": "1997",
+      "date": "1997-09-19",
       "type": "series",
       "collection": "imprints",
       "animated": false,
@@ -703,7 +740,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "imprints"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Night_Man_(TV_series)"
     },
     {
       "id": "nightman-world-premiere-1997-movie",
@@ -736,7 +774,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "nick-fury-agent-of-s-h-i-e-l-d-1998-movie",
       "title": "Nick Fury: Agent of S.H.I.E.L.D.",
-      "date": "1998",
+      "date": "1998-05-26",
       "type": "movie",
       "collection": "fox",
       "animated": false,
@@ -745,12 +783,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Nick_Fury:_Agent_of_S.H.I.E.L.D._(film)"
     },
     {
       "id": "silver-surfer-1998-series",
       "title": "Silver Surfer",
-      "date": "1998",
+      "date": "1998-02-07",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -759,12 +798,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Silver_Surfer_(TV_series)"
     },
     {
       "id": "spider-man-unlimited-1999-series",
       "title": "Spider-Man Unlimited",
-      "date": "1999",
+      "date": "1999-10-02",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -773,12 +813,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man_Unlimited"
     },
     {
       "id": "the-avengers-united-they-stand-1999-series",
       "title": "The Avengers: United They Stand",
-      "date": "1999",
+      "date": "1999-10-30",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -787,7 +828,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Avengers:_United_They_Stand"
     },
     {
       "id": "x-men-2000-movie",
@@ -806,7 +848,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "x-men-evolution-2000-series",
       "title": "X-Men: Evolution",
-      "date": "2000",
+      "date": "2000-11-04",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -815,12 +857,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/X-Men:_Evolution"
     },
     {
       "id": "mutant-x-2001-series",
       "title": "Mutant X",
-      "date": "2001",
+      "date": "2001-10-06",
       "type": "series",
       "collection": "other",
       "animated": false,
@@ -829,7 +872,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Mutant_X_(TV_series)"
     },
     {
       "id": "blade-ii-2002-movie",
@@ -848,7 +892,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "men-in-black-ii-2002-movie",
       "title": "Men in Black II",
-      "date": "2002",
+      "date": "2002-07-03",
       "type": "movie",
       "collection": "imprints",
       "animated": false,
@@ -858,7 +902,8 @@ window.MARVEL_CATALOG = {
       "collections": [
         "imprints",
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Men_in_Black_II"
     },
     {
       "id": "spider-man-2002-movie",
@@ -905,7 +950,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "spider-man-the-new-animated-series-2003-series",
       "title": "Spider-Man: The New Animated Series",
-      "date": "2003",
+      "date": "2003-07-11",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -915,7 +960,8 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation",
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man:_The_New_Animated_Series"
     },
     {
       "id": "x2-2003-movie",
@@ -1004,7 +1050,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "man-thing-2005-movie",
       "title": "Man-Thing",
-      "date": "2005",
+      "date": "2005-04-30",
       "type": "movie",
       "collection": "other",
       "animated": false,
@@ -1013,12 +1059,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Man-Thing_(film)"
     },
     {
       "id": "blade-house-of-chthon-2006-movie",
       "title": "Blade: House of Chthon",
-      "date": "2006",
+      "date": "2006-06-28",
       "type": "movie",
       "collection": "other",
       "animated": false,
@@ -1027,12 +1074,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Blade:_The_Series"
     },
     {
       "id": "blade-the-series-2006-series",
       "title": "Blade: The Series",
-      "date": "2006",
+      "date": "2006-06-28",
       "type": "series",
       "collection": "other",
       "animated": false,
@@ -1041,12 +1089,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Blade:_The_Series"
     },
     {
       "id": "fantastic-four-world-s-greatest-heroes-2006-series",
       "title": "Fantastic Four: World's Greatest Heroes",
-      "date": "2006",
+      "date": "2006-09-02",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1055,12 +1104,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Fantastic_Four:_World's_Greatest_Heroes"
     },
     {
       "id": "ultimate-avengers-2006-movie",
       "title": "Ultimate Avengers",
-      "date": "2006",
+      "date": "2006-02-07",
       "type": "movie",
       "collection": "animation",
       "animated": true,
@@ -1069,12 +1119,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Ultimate_Avengers"
     },
     {
       "id": "ultimate-avengers-2-2006-movie",
       "title": "Ultimate Avengers 2",
-      "date": "2006",
+      "date": "2006-08-08",
       "type": "movie",
       "collection": "animation",
       "animated": true,
@@ -1102,7 +1153,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "doctor-strange-the-sorcerer-supreme-2007-movie",
       "title": "Doctor Strange: The Sorcerer Supreme",
-      "date": "2007",
+      "date": "2007-08-14",
       "type": "movie",
       "collection": "animation",
       "animated": true,
@@ -1158,7 +1209,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "the-invincible-iron-man-2007-movie",
       "title": "The Invincible Iron Man",
-      "date": "2007",
+      "date": "2007-01-23",
       "type": "movie",
       "collection": "animation",
       "animated": true,
@@ -1186,7 +1237,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "next-avengers-heroes-of-tomorrow-2008-movie",
       "title": "Next Avengers: Heroes of Tomorrow",
-      "date": "2008",
+      "date": "2008-09-02",
       "type": "movie",
       "collection": "animation",
       "animated": true,
@@ -1195,7 +1246,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Next_Avengers:_Heroes_of_Tomorrow"
     },
     {
       "id": "punisher-war-zone-2008-movie",
@@ -1228,7 +1280,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "the-spectacular-spider-man-2008-series",
       "title": "The Spectacular Spider-Man",
-      "date": "2008",
+      "date": "2008-03-08",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1238,7 +1290,8 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation",
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Spectacular_Spider-Man_(TV_series)"
     },
     {
       "id": "astonishing-x-men-gifted-2009-series",
@@ -1257,7 +1310,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "hulk-versus-2009-movie",
       "title": "Hulk Versus",
-      "date": "2009",
+      "date": "2009-01-27",
       "type": "movie",
       "collection": "animation",
       "animated": true,
@@ -1271,7 +1324,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "iron-man-armored-adventures-2009-series",
       "title": "Iron Man: Armored Adventures",
-      "date": "2009",
+      "date": "2009-04-24",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1280,7 +1333,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Iron_Man:_Armored_Adventures"
     },
     {
       "id": "marvel-superheroes-what-the-2009-series",
@@ -1299,7 +1353,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "the-super-hero-squad-show-2009-series",
       "title": "The Super Hero Squad Show",
-      "date": "2009",
+      "date": "2009-09-14",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1308,12 +1362,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Super_Hero_Squad_Show"
     },
     {
       "id": "wolverine-and-the-x-men-2009-series",
       "title": "Wolverine and the X-Men",
-      "date": "2009",
+      "date": "2009-01-23",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1322,7 +1377,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Wolverine_and_the_X-Men_(TV_series)"
     },
     {
       "id": "x-men-origins-wolverine-2009-movie",
@@ -1341,7 +1397,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "black-panther-2010-series",
       "title": "Black Panther",
-      "date": "2010",
+      "date": "2010-01-16",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1350,7 +1406,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Black_Panther_(TV_series)"
     },
     {
       "id": "iron-man-2-2010-movie",
@@ -1383,7 +1440,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "kick-ass-2010-movie",
       "title": "Kick-Ass",
-      "date": "2010",
+      "date": "2010-03-12",
       "type": "movie",
       "collection": "imprints",
       "animated": false,
@@ -1392,12 +1449,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "imprints"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Kick-Ass_(film)"
     },
     {
       "id": "marvel-anime-blade-2010-series",
       "title": "Marvel Anime: Blade",
-      "date": "2011",
+      "date": "2011-07-01",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1412,7 +1470,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "marvel-anime-iron-man-2010-series",
       "title": "Marvel Anime: Iron Man",
-      "date": "2010",
+      "date": "2010-10-01",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1427,7 +1485,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "marvel-anime-wolverine-2010-series",
       "title": "Marvel Anime: Wolverine",
-      "date": "2011",
+      "date": "2011-01-07",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1442,7 +1500,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "marvel-anime-x-men-2010-series",
       "title": "Marvel Anime: X-Men",
-      "date": "2011",
+      "date": "2011-04-01",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1471,7 +1529,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "planet-hulk-2010-movie",
       "title": "Planet Hulk",
-      "date": "2010",
+      "date": "2010-02-02",
       "type": "movie",
       "collection": "animation",
       "animated": true,
@@ -1485,7 +1543,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "the-avengers-earth-s-mightiest-heroes-2010-series",
       "title": "The Avengers: Earth's Mightiest Heroes",
-      "date": "2010",
+      "date": "2010-09-22",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1494,12 +1552,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Avengers:_Earth's_Mightiest_Heroes"
     },
     {
       "id": "a-funny-thing-happened-on-the-way-to-thor-s-hammer-2011-special",
       "title": "A Funny Thing Happened on the Way to Thor's Hammer",
-      "date": "2011",
+      "date": "2011-10-25",
       "type": "special",
       "collection": "mcu",
       "animated": false,
@@ -1555,7 +1614,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "the-consultant-2011-special",
       "title": "The Consultant",
-      "date": "2011",
+      "date": "2011-09-13",
       "type": "special",
       "collection": "mcu",
       "animated": false,
@@ -1597,7 +1656,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "thor-tales-of-asgard-2011-movie",
       "title": "Thor: Tales of Asgard",
-      "date": "2011",
+      "date": "2011-05-17",
       "type": "movie",
       "collection": "animation",
       "animated": true,
@@ -1681,7 +1740,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "item-47-2012-special",
       "title": "Item 47",
-      "date": "2012",
+      "date": "2012-09-25",
       "type": "special",
       "collection": "mcu",
       "animated": false,
@@ -1690,7 +1749,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Item_47"
     },
     {
       "id": "marvel-super-heroes-4d-new-york-2012-special",
@@ -1723,7 +1783,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "men-in-black-3-2012-movie",
       "title": "Men in Black 3",
-      "date": "2012",
+      "date": "2012-05-14",
       "type": "movie",
       "collection": "imprints",
       "animated": false,
@@ -1733,7 +1793,8 @@ window.MARVEL_CATALOG = {
       "collections": [
         "imprints",
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Men_in_Black_3"
     },
     {
       "id": "the-amazing-spider-man-2012-movie",
@@ -1766,7 +1827,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "ultimate-spider-man-2012-series",
       "title": "Ultimate Spider-Man",
-      "date": "2012",
+      "date": "2012-04-01",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1775,12 +1836,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Ultimate_Spider-Man_(TV_series)"
     },
     {
       "id": "agent-carter-2013-special",
       "title": "Agent Carter",
-      "date": "2013",
+      "date": "2013-09-03",
       "type": "special",
       "collection": "mcu",
       "animated": false,
@@ -1789,7 +1851,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Agent_Carter_(film)"
     },
     {
       "id": "agents-of-s-h-i-e-l-d-2013-series",
@@ -1808,7 +1871,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "avengers-assemble-2013-series",
       "title": "Avengers Assemble",
-      "date": "2013",
+      "date": "2013-05-26",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1817,12 +1880,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Avengers_Assemble_(TV_series)"
     },
     {
       "id": "hulk-and-the-agents-of-s-m-a-s-h-2013-series",
       "title": "Hulk and the Agents of S.M.A.S.H.",
-      "date": "2013",
+      "date": "2013-08-11",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -1831,7 +1895,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Hulk_and_the_Agents_of_S.M.A.S.H."
     },
     {
       "id": "inhumans-2013-series",
@@ -1878,7 +1943,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "iron-man-rise-of-technovore-2013-movie",
       "title": "Iron Man: Rise of Technovore",
-      "date": "2013",
+      "date": "2013-04-16",
       "type": "movie",
       "collection": "animation",
       "animated": true,
@@ -1892,7 +1957,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "kick-ass-2-2013-movie",
       "title": "Kick-Ass 2",
-      "date": "2013",
+      "date": "2013-08-14",
       "type": "movie",
       "collection": "imprints",
       "animated": false,
@@ -1901,7 +1966,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "imprints"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Kick-Ass_2_(film)"
     },
     {
       "id": "lego-marvel-super-heroes-maximum-overload-2013-special",
@@ -2018,7 +2084,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "all-hail-the-king-2014-special",
       "title": "All Hail the King",
-      "date": "2014",
+      "date": "2014-02-04",
       "type": "special",
       "collection": "mcu",
       "animated": false,
@@ -2027,12 +2093,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/All_Hail_the_King"
     },
     {
       "id": "avengers-confidential-black-widow-punisher-2014-movie",
       "title": "Avengers Confidential: Black Widow & Punisher",
-      "date": "2014",
+      "date": "2014-03-25",
       "type": "movie",
       "collection": "animation",
       "animated": true,
@@ -2116,7 +2183,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "kingsman-the-secret-service-2014-movie",
       "title": "Kingsman: The Secret Service",
-      "date": "2014",
+      "date": "2014-12-13",
       "type": "movie",
       "collection": "imprints",
       "animated": false,
@@ -2125,12 +2192,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "imprints"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service"
     },
     {
       "id": "marvel-75-years-from-pulp-to-pop-2014-series",
       "title": "Marvel 75 Years: From Pulp to Pop!",
-      "date": "2014",
+      "date": "2014-11-04",
       "type": "series",
       "collection": "documentary",
       "animated": false,
@@ -2158,7 +2226,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "marvel-studios-assembling-a-universe-2014-series",
       "title": "Marvel Studios: Assembling a Universe",
-      "date": "2014",
+      "date": "2014-03-18",
       "type": "series",
       "collection": "documentary",
       "animated": false,
@@ -2298,7 +2366,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "guardians-of-the-galaxy-2015-series",
       "title": "Guardians of the Galaxy",
-      "date": "2015",
+      "date": "2015-09-05",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -2307,7 +2375,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(TV_series)"
     },
     {
       "id": "jessica-jones-2015-series",
@@ -2354,7 +2423,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "powers-2015-series",
       "title": "Powers",
-      "date": "2015",
+      "date": "2015-03-10",
       "type": "series",
       "collection": "imprints",
       "animated": false,
@@ -2364,12 +2433,13 @@ window.MARVEL_CATALOG = {
       "collections": [
         "imprints",
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Powers_(American_TV_series)"
     },
     {
       "id": "whih-newsfront-2015-series",
       "title": "WHIH Newsfront",
-      "date": "2015",
+      "date": "2015-07-02",
       "type": "series",
       "collection": "mcu",
       "animated": false,
@@ -2378,7 +2448,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/WHIH_Newsfront"
     },
     {
       "id": "wolverine-versus-sabretooth-reborn-2015-series",
@@ -2397,7 +2468,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "agents-of-s-h-i-e-l-d-slingshot-2016-series",
       "title": "Agents of S.H.I.E.L.D.: Slingshot",
-      "date": "2016",
+      "date": "2016-12-13",
       "type": "series",
       "collection": "mcu",
       "animated": false,
@@ -2406,7 +2477,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D.:_Slingshot"
     },
     {
       "id": "captain-america-civil-war-2016-movie",
@@ -2453,7 +2525,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "hulk-where-monsters-dwell-2016-movie",
       "title": "Hulk: Where Monsters Dwell",
-      "date": "2016",
+      "date": "2016-10-21",
       "type": "movie",
       "collection": "animation",
       "animated": true,
@@ -2462,7 +2534,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Hulk:_Where_Monsters_Dwell"
     },
     {
       "id": "luke-cage-2016-series",
@@ -2509,7 +2582,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "team-thor-2016-special",
       "title": "Team Thor",
-      "date": "2016",
+      "date": "2016-08-28",
       "type": "special",
       "collection": "other",
       "animated": false,
@@ -2565,7 +2638,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "big-hero-6-the-series-2017-series",
       "title": "Big Hero 6: The Series",
-      "date": "2017",
+      "date": "2017-11-20",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -2574,7 +2647,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Big_Hero_6:_The_Series"
     },
     {
       "id": "guardians-of-the-galaxy-vol-2-2017-movie",
@@ -2607,7 +2681,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "inhumans-2017-series",
       "title": "Inhumans",
-      "date": "2017",
+      "date": "2017-08-28",
       "type": "series",
       "collection": "mcu",
       "animated": false,
@@ -2616,7 +2690,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "mcu"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Inhumans_premiere"
     },
     {
       "id": "iron-fist-2017-series",
@@ -2635,7 +2710,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "kingsman-the-golden-circle-2017-movie",
       "title": "Kingsman: The Golden Circle",
-      "date": "2017",
+      "date": "2017-09-18",
       "type": "movie",
       "collection": "imprints",
       "animated": false,
@@ -2644,7 +2719,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "imprints"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Kingsman:_The_Golden_Circle"
     },
     {
       "id": "legion-2017-series",
@@ -2705,7 +2781,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "marvel-super-hero-adventures-2017-series",
       "title": "Marvel Super Hero Adventures",
-      "date": "2017",
+      "date": "2017-10-13",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -2714,7 +2790,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Marvel_Super_Hero_Adventures"
     },
     {
       "id": "marvel-super-heroes-4d-sentosa-2017-special",
@@ -2733,7 +2810,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "marvel-s-ant-man-2017-series",
       "title": "Marvel's Ant-Man",
-      "date": "2017",
+      "date": "2017-06-10",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -2742,7 +2819,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Ant-Man_(TV_series)"
     },
     {
       "id": "marvel-s-rocket-groot-2017-series",
@@ -2761,7 +2839,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "marvel-s-spider-man-2017-series",
       "title": "Marvel's Spider-Man",
-      "date": "2017",
+      "date": "2017-08-19",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -2770,12 +2848,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Man_(2017_TV_series)"
     },
     {
       "id": "no-good-deed-2017-special",
       "title": "No Good Deed",
-      "date": "2017",
+      "date": "2017-03-03",
       "type": "special",
       "collection": "fox",
       "animated": false,
@@ -2784,7 +2863,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "fox"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/No_Good_Deed_(2017_film)"
     },
     {
       "id": "runaways-2017-series",
@@ -2818,7 +2898,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "team-thor-part-2-2017-special",
       "title": "Team Thor: Part 2",
-      "date": "2017",
+      "date": "2017-02-14",
       "type": "special",
       "collection": "other",
       "animated": false,
@@ -3028,7 +3108,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "marvel-rising-secret-warriors-2018-movie",
       "title": "Marvel Rising: Secret Warriors",
-      "date": "2018",
+      "date": "2018-09-30",
       "type": "movie",
       "collection": "animation",
       "animated": true,
@@ -3037,7 +3117,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Marvel_Rising:_Secret_Warriors"
     },
     {
       "id": "spider-man-into-the-spider-verse-2018-movie",
@@ -3057,7 +3138,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "team-darryl-2018-special",
       "title": "Team Darryl",
-      "date": "2018",
+      "date": "2018-02-20",
       "type": "special",
       "collection": "other",
       "animated": false,
@@ -3225,7 +3306,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "marvel-studios-expanding-the-universe-2019-series",
       "title": "Marvel Studios: Expanding the Universe",
-      "date": "2019",
+      "date": "2019-11-12",
       "type": "series",
       "collection": "documentary",
       "animated": false,
@@ -3239,7 +3320,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "marvel-s-hero-project-2019-series",
       "title": "Marvel's Hero Project",
-      "date": "2019",
+      "date": "2019-11-12",
       "type": "series",
       "collection": "documentary",
       "animated": false,
@@ -3248,12 +3329,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "documentary"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Marvel's_Hero_Project"
     },
     {
       "id": "men-in-black-international-2019-movie",
       "title": "Men in Black: International",
-      "date": "2019",
+      "date": "2019-06-11",
       "type": "movie",
       "collection": "imprints",
       "animated": false,
@@ -3263,12 +3345,13 @@ window.MARVEL_CATALOG = {
       "collections": [
         "imprints",
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Men_in_Black:_International"
     },
     {
       "id": "peter-s-to-do-list-2019-special",
       "title": "Peter's To-Do List",
-      "date": "2019",
+      "date": "2019-06-26",
       "type": "special",
       "collection": "mcu",
       "animated": false,
@@ -3278,12 +3361,13 @@ window.MARVEL_CATALOG = {
       "collections": [
         "mcu",
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Peter's_To-Do_List"
     },
     {
       "id": "spider-ham-caught-in-a-ham-2019-special",
       "title": "Spider-Ham: Caught in a Ham",
-      "date": "2019",
+      "date": "2019-02-26",
       "type": "special",
       "collection": "animation",
       "animated": true,
@@ -3293,7 +3377,8 @@ window.MARVEL_CATALOG = {
       "collections": [
         "animation",
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Ham:_Caught_in_a_Ham"
     },
     {
       "id": "spider-man-far-from-home-2019-movie",
@@ -3313,7 +3398,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "the-daily-bugle-2019-series",
       "title": "The Daily Bugle",
-      "date": "2019",
+      "date": "2019-10-19",
       "type": "series",
       "collection": "mcu",
       "animated": false,
@@ -3323,7 +3408,8 @@ window.MARVEL_CATALOG = {
       "collections": [
         "mcu",
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_Daily_Bugle_(web_series)"
     },
     {
       "id": "helstrom-2020-series",
@@ -3370,7 +3456,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "marvel-s-616-2020-series",
       "title": "Marvel's 616",
-      "date": "2020",
+      "date": "2020-11-20",
       "type": "series",
       "collection": "documentary",
       "animated": false,
@@ -3379,7 +3465,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "documentary"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Marvel's_616"
     },
     {
       "id": "the-new-mutants-2020-movie",
@@ -3412,7 +3499,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "deadpool-and-korg-react-2021-special",
       "title": "Deadpool and Korg React",
-      "date": "2021",
+      "date": "2021-07-13",
       "type": "special",
       "collection": "other",
       "animated": false,
@@ -3421,7 +3508,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "other"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Deadpool_and_Korg_React"
     },
     {
       "id": "eternals-2021-movie",
@@ -3454,7 +3542,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "hit-monkey-2021-series",
       "title": "Hit-Monkey",
-      "date": "2021",
+      "date": "2021-11-17",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -3463,7 +3551,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Hit-Monkey_(TV_series)"
     },
     {
       "id": "lego-marvel-avengers-loki-in-training-2021-special",
@@ -3496,7 +3585,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "m-o-d-o-k-2021-series",
       "title": "M.O.D.O.K.",
-      "date": "2021",
+      "date": "2021-05-21",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -3505,12 +3594,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/M.O.D.O.K._(TV_series)"
     },
     {
       "id": "marvel-studios-assembled-2021-series",
       "title": "Marvel Studios: Assembled",
-      "date": "2021",
+      "date": "2021-03-12",
       "type": "series",
       "collection": "documentary",
       "animated": false,
@@ -3519,12 +3609,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "documentary"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Marvel_Studios:_Assembled"
     },
     {
       "id": "marvel-studios-legends-2021-series",
       "title": "Marvel Studios: Legends",
-      "date": "2021",
+      "date": "2021-01-08",
       "type": "series",
       "collection": "documentary",
       "animated": false,
@@ -3533,7 +3624,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "documentary"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Marvel_Studios:_Legends"
     },
     {
       "id": "meet-spidey-and-his-amazing-friends-2021-series",
@@ -3581,7 +3673,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "spidey-and-his-amazing-friends-2021-series",
       "title": "Spidey and His Amazing Friends",
-      "date": "2021",
+      "date": "2021-08-06",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -3590,12 +3682,13 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spidey_and_His_Amazing_Friends"
     },
     {
       "id": "super-crooks-2021-series",
       "title": "Super Crooks",
-      "date": "2021",
+      "date": "2021-11-25",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -3604,7 +3697,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Super_Crooks"
     },
     {
       "id": "the-falcon-and-the-winter-soldier-2021-series",
@@ -3623,7 +3717,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "the-king-s-man-2021-movie",
       "title": "The King's Man",
-      "date": "2021",
+      "date": "2021-12-06",
       "type": "movie",
       "collection": "imprints",
       "animated": false,
@@ -3632,7 +3726,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "imprints"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/The_King's_Man"
     },
     {
       "id": "venom-let-there-be-carnage-2021-movie",
@@ -3680,7 +3775,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "baymax-2022-series",
       "title": "Baymax!",
-      "date": "2022",
+      "date": "2022-06-29",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -3689,7 +3784,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Baymax!"
     },
     {
       "id": "black-panther-wakanda-forever-2022-movie",
@@ -3891,7 +3987,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "moon-girl-and-devil-dinosaur-2023-series",
       "title": "Moon Girl and Devil Dinosaur",
-      "date": "2023",
+      "date": "2023-02-10",
       "type": "series",
       "collection": "animation",
       "animated": true,
@@ -3900,7 +3996,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "animation"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Moon_Girl_and_Devil_Dinosaur"
     },
     {
       "id": "mpower-2023-series",
@@ -4005,7 +4102,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "argylle-2024-movie",
       "title": "Argylle",
-      "date": "2024",
+      "date": "2024-01-24",
       "type": "movie",
       "collection": "imprints",
       "animated": false,
@@ -4014,7 +4111,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications",
       "collections": [
         "imprints"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Argylle"
     },
     {
       "id": "deadpool-wolverine-2024-movie",
@@ -4302,7 +4400,7 @@ window.MARVEL_CATALOG = {
     {
       "id": "spider-noir-2026-series",
       "title": "Spider-Noir",
-      "date": "2026",
+      "date": "2026-05-25",
       "type": "series",
       "collection": "sony",
       "animated": false,
@@ -4311,7 +4409,8 @@ window.MARVEL_CATALOG = {
       "source": "https://en.wikipedia.org/wiki/List_of_television_series_based_on_Marvel_Comics_publications",
       "collections": [
         "sony"
-      ]
+      ],
+      "releaseDateSource": "https://en.wikipedia.org/wiki/Spider-Noir"
     },
     {
       "id": "spidey-and-the-avengers-halloween-team-up-2026-special",
@@ -4368,6 +4467,52 @@ window.MARVEL_CATALOG = {
       "collections": [
         "mcu"
       ]
+    },
+    {
+      "id": "avengers-doomsday-2026-movie",
+      "title": "Avengers: Doomsday",
+      "date": "2026-12-18",
+      "type": "movie",
+      "collection": "mcu",
+      "animated": false,
+      "studios": "Marvel Studios",
+      "url": "",
+      "source": "https://movies.disney.com/avengers-doomsday",
+      "collections": [
+        "mcu"
+      ],
+      "status": "upcoming"
+    },
+    {
+      "id": "spider-man-beyond-the-spider-verse-2027-movie",
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "date": "2027-06-18",
+      "type": "movie",
+      "collection": "animation",
+      "animated": true,
+      "studios": "Sony Pictures Animation / Columbia Pictures",
+      "url": "",
+      "source": "https://www.sonypicturesanimation.com/index.php/projects/films/spider-man-beyond-spider-verse",
+      "collections": [
+        "animation",
+        "sony"
+      ],
+      "status": "upcoming"
+    },
+    {
+      "id": "avengers-secret-wars-2027-movie",
+      "title": "Avengers: Secret Wars",
+      "date": "2027-12-17",
+      "type": "movie",
+      "collection": "mcu",
+      "animated": false,
+      "studios": "Marvel Studios",
+      "url": "",
+      "source": "https://www.disneyplus.com/explore/articles/marvel-movies-in-order",
+      "collections": [
+        "mcu"
+      ],
+      "status": "upcoming"
     }
   ]
 };
